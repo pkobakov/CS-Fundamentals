@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VII.exe
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VII.deps.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VII.runtimeconfig.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VII.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VII.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VII.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII.genruntimeconfig.cache

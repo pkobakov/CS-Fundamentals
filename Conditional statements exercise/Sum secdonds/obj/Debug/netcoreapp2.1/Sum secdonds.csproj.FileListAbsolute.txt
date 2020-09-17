@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Conditional statements exercise\Sum secdonds\bin\Debug\netcoreapp2.1\Sum secdonds.deps.json
+C:\Users\User\Source\Repos\Conditional statements exercise\Sum secdonds\bin\Debug\netcoreapp2.1\Sum secdonds.runtimeconfig.json
+C:\Users\User\Source\Repos\Conditional statements exercise\Sum secdonds\bin\Debug\netcoreapp2.1\Sum secdonds.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Conditional statements exercise\Sum secdonds\bin\Debug\netcoreapp2.1\Sum secdonds.dll
+C:\Users\User\Source\Repos\Conditional statements exercise\Sum secdonds\bin\Debug\netcoreapp2.1\Sum secdonds.pdb
+C:\Users\User\Source\Repos\Conditional statements exercise\Sum secdonds\obj\Debug\netcoreapp2.1\Sum secdonds.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Conditional statements exercise\Sum secdonds\obj\Debug\netcoreapp2.1\Sum secdonds.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Conditional statements exercise\Sum secdonds\obj\Debug\netcoreapp2.1\Sum secdonds.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Conditional statements exercise\Sum secdonds\obj\Debug\netcoreapp2.1\Sum secdonds.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Conditional statements exercise\Sum secdonds\obj\Debug\netcoreapp2.1\Sum secdonds.dll
+C:\Users\User\Source\Repos\Conditional statements exercise\Sum secdonds\obj\Debug\netcoreapp2.1\Sum secdonds.pdb

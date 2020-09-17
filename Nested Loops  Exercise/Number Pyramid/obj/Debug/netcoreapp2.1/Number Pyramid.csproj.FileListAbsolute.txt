@@ -1,0 +1,20 @@
+D:\Archiv C\Source\Repos\Nested Loops  Exercise\Number Pyramid\bin\Debug\netcoreapp2.1\Number Pyramid.deps.json
+D:\Archiv C\Source\Repos\Nested Loops  Exercise\Number Pyramid\bin\Debug\netcoreapp2.1\Number Pyramid.runtimeconfig.json
+D:\Archiv C\Source\Repos\Nested Loops  Exercise\Number Pyramid\bin\Debug\netcoreapp2.1\Number Pyramid.runtimeconfig.dev.json
+D:\Archiv C\Source\Repos\Nested Loops  Exercise\Number Pyramid\bin\Debug\netcoreapp2.1\Number Pyramid.dll
+D:\Archiv C\Source\Repos\Nested Loops  Exercise\Number Pyramid\bin\Debug\netcoreapp2.1\Number Pyramid.pdb
+D:\Archiv C\Source\Repos\Nested Loops  Exercise\Number Pyramid\obj\Debug\netcoreapp2.1\Number Pyramid.csprojAssemblyReference.cache
+D:\Archiv C\Source\Repos\Nested Loops  Exercise\Number Pyramid\obj\Debug\netcoreapp2.1\Number Pyramid.AssemblyInfoInputs.cache
+D:\Archiv C\Source\Repos\Nested Loops  Exercise\Number Pyramid\obj\Debug\netcoreapp2.1\Number Pyramid.AssemblyInfo.cs
+D:\Archiv C\Source\Repos\Nested Loops  Exercise\Number Pyramid\obj\Debug\netcoreapp2.1\Number Pyramid.dll
+D:\Archiv C\Source\Repos\Nested Loops  Exercise\Number Pyramid\obj\Debug\netcoreapp2.1\Number Pyramid.pdb
+C:\Users\18022020\Source\Repos\Nested Loops  Exercise\Number Pyramid\bin\Debug\netcoreapp2.1\Number Pyramid.deps.json
+C:\Users\18022020\Source\Repos\Nested Loops  Exercise\Number Pyramid\bin\Debug\netcoreapp2.1\Number Pyramid.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Nested Loops  Exercise\Number Pyramid\bin\Debug\netcoreapp2.1\Number Pyramid.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Nested Loops  Exercise\Number Pyramid\bin\Debug\netcoreapp2.1\Number Pyramid.dll
+C:\Users\18022020\Source\Repos\Nested Loops  Exercise\Number Pyramid\bin\Debug\netcoreapp2.1\Number Pyramid.pdb
+C:\Users\18022020\Source\Repos\Nested Loops  Exercise\Number Pyramid\obj\Debug\netcoreapp2.1\Number Pyramid.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Nested Loops  Exercise\Number Pyramid\obj\Debug\netcoreapp2.1\Number Pyramid.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Nested Loops  Exercise\Number Pyramid\obj\Debug\netcoreapp2.1\Number Pyramid.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Nested Loops  Exercise\Number Pyramid\obj\Debug\netcoreapp2.1\Number Pyramid.dll
+C:\Users\18022020\Source\Repos\Nested Loops  Exercise\Number Pyramid\obj\Debug\netcoreapp2.1\Number Pyramid.pdb

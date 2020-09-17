@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LBzsw0UCn5hs2V5x3hMzK60TWO1rFkfakB7iD05fCCMI2Vre9bwgI1HUsr7Xu4YkMnwDZ85QTXLfKxSWY7AHVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\25042020\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\Login\\Login.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\25042020\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

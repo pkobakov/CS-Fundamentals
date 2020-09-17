@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\World Snooker Championship\bin\Debug\netcoreapp3.1\World Snooker Championship.exe
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\World Snooker Championship\bin\Debug\netcoreapp3.1\World Snooker Championship.deps.json
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\World Snooker Championship\bin\Debug\netcoreapp3.1\World Snooker Championship.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\World Snooker Championship\bin\Debug\netcoreapp3.1\World Snooker Championship.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\World Snooker Championship\bin\Debug\netcoreapp3.1\World Snooker Championship.dll
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\World Snooker Championship\bin\Debug\netcoreapp3.1\World Snooker Championship.pdb
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\World Snooker Championship\obj\Debug\netcoreapp3.1\World Snooker Championship.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\World Snooker Championship\obj\Debug\netcoreapp3.1\World Snooker Championship.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\World Snooker Championship\obj\Debug\netcoreapp3.1\World Snooker Championship.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\World Snooker Championship\obj\Debug\netcoreapp3.1\World Snooker Championship.dll
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\World Snooker Championship\obj\Debug\netcoreapp3.1\World Snooker Championship.pdb

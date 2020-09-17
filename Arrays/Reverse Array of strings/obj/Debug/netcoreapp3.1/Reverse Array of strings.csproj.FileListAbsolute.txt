@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Arrays\Reverse Array of strings\bin\Debug\netcoreapp3.1\Reverse Array of strings.exe
+C:\Users\25042020\source\repos\Arrays\Reverse Array of strings\bin\Debug\netcoreapp3.1\Reverse Array of strings.deps.json
+C:\Users\25042020\source\repos\Arrays\Reverse Array of strings\bin\Debug\netcoreapp3.1\Reverse Array of strings.runtimeconfig.json
+C:\Users\25042020\source\repos\Arrays\Reverse Array of strings\bin\Debug\netcoreapp3.1\Reverse Array of strings.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Arrays\Reverse Array of strings\bin\Debug\netcoreapp3.1\Reverse Array of strings.dll
+C:\Users\25042020\source\repos\Arrays\Reverse Array of strings\bin\Debug\netcoreapp3.1\Reverse Array of strings.pdb
+C:\Users\25042020\source\repos\Arrays\Reverse Array of strings\obj\Debug\netcoreapp3.1\Reverse Array of strings.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Arrays\Reverse Array of strings\obj\Debug\netcoreapp3.1\Reverse Array of strings.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Arrays\Reverse Array of strings\obj\Debug\netcoreapp3.1\Reverse Array of strings.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Arrays\Reverse Array of strings\obj\Debug\netcoreapp3.1\Reverse Array of strings.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Arrays\Reverse Array of strings\obj\Debug\netcoreapp3.1\Reverse Array of strings.dll
+C:\Users\25042020\source\repos\Arrays\Reverse Array of strings\obj\Debug\netcoreapp3.1\Reverse Array of strings.pdb
+C:\Users\25042020\source\repos\Arrays\Reverse Array of strings\obj\Debug\netcoreapp3.1\Reverse Array of strings.genruntimeconfig.cache

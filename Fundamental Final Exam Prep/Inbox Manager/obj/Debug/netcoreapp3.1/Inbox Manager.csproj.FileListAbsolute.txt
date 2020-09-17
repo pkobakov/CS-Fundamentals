@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Inbox Manager\bin\Debug\netcoreapp3.1\Inbox Manager.exe
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Inbox Manager\bin\Debug\netcoreapp3.1\Inbox Manager.deps.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Inbox Manager\bin\Debug\netcoreapp3.1\Inbox Manager.runtimeconfig.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Inbox Manager\bin\Debug\netcoreapp3.1\Inbox Manager.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Inbox Manager\bin\Debug\netcoreapp3.1\Inbox Manager.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Inbox Manager\bin\Debug\netcoreapp3.1\Inbox Manager.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Inbox Manager\obj\Debug\netcoreapp3.1\Inbox Manager.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Inbox Manager\obj\Debug\netcoreapp3.1\Inbox Manager.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Inbox Manager\obj\Debug\netcoreapp3.1\Inbox Manager.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Inbox Manager\obj\Debug\netcoreapp3.1\Inbox Manager.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Inbox Manager\obj\Debug\netcoreapp3.1\Inbox Manager.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Inbox Manager\obj\Debug\netcoreapp3.1\Inbox Manager.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Inbox Manager\obj\Debug\netcoreapp3.1\Inbox Manager.genruntimeconfig.cache

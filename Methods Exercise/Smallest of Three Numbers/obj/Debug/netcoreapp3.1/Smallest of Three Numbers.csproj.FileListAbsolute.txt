@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Methods Exercise\Smallest of Three Numbers\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.exe
+C:\Users\25042020\source\repos\Methods Exercise\Smallest of Three Numbers\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.deps.json
+C:\Users\25042020\source\repos\Methods Exercise\Smallest of Three Numbers\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.runtimeconfig.json
+C:\Users\25042020\source\repos\Methods Exercise\Smallest of Three Numbers\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Methods Exercise\Smallest of Three Numbers\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.dll
+C:\Users\25042020\source\repos\Methods Exercise\Smallest of Three Numbers\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.pdb
+C:\Users\25042020\source\repos\Methods Exercise\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Methods Exercise\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Methods Exercise\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Methods Exercise\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Methods Exercise\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.dll
+C:\Users\25042020\source\repos\Methods Exercise\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.pdb
+C:\Users\25042020\source\repos\Methods Exercise\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.genruntimeconfig.cache

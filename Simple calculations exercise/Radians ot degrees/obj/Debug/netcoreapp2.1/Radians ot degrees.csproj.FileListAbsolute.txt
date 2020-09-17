@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Simple calculations exercise\Radians ot degrees\bin\Debug\netcoreapp2.1\Radians ot degrees.deps.json
+C:\Users\User\Source\Repos\Simple calculations exercise\Radians ot degrees\bin\Debug\netcoreapp2.1\Radians ot degrees.runtimeconfig.json
+C:\Users\User\Source\Repos\Simple calculations exercise\Radians ot degrees\bin\Debug\netcoreapp2.1\Radians ot degrees.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Simple calculations exercise\Radians ot degrees\bin\Debug\netcoreapp2.1\Radians ot degrees.dll
+C:\Users\User\Source\Repos\Simple calculations exercise\Radians ot degrees\bin\Debug\netcoreapp2.1\Radians ot degrees.pdb
+C:\Users\User\Source\Repos\Simple calculations exercise\Radians ot degrees\obj\Debug\netcoreapp2.1\Radians ot degrees.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Simple calculations exercise\Radians ot degrees\obj\Debug\netcoreapp2.1\Radians ot degrees.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Simple calculations exercise\Radians ot degrees\obj\Debug\netcoreapp2.1\Radians ot degrees.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Simple calculations exercise\Radians ot degrees\obj\Debug\netcoreapp2.1\Radians ot degrees.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Simple calculations exercise\Radians ot degrees\obj\Debug\netcoreapp2.1\Radians ot degrees.dll
+C:\Users\User\Source\Repos\Simple calculations exercise\Radians ot degrees\obj\Debug\netcoreapp2.1\Radians ot degrees.pdb

@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\bin\Debug\netcoreapp3.1\Passed or Failed.exe
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\bin\Debug\netcoreapp3.1\Passed or Failed.deps.json
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\bin\Debug\netcoreapp3.1\Passed or Failed.runtimeconfig.json
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\bin\Debug\netcoreapp3.1\Passed or Failed.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\bin\Debug\netcoreapp3.1\Passed or Failed.dll
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\bin\Debug\netcoreapp3.1\Passed or Failed.pdb
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\obj\Debug\netcoreapp3.1\Passed or Failed.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\obj\Debug\netcoreapp3.1\Passed or Failed.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\obj\Debug\netcoreapp3.1\Passed or Failed.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\obj\Debug\netcoreapp3.1\Passed or Failed.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\obj\Debug\netcoreapp3.1\Passed or Failed.dll
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\obj\Debug\netcoreapp3.1\Passed or Failed.pdb
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Passed or Failed\obj\Debug\netcoreapp3.1\Passed or Failed.genruntimeconfig.cache

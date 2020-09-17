@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Tennis equipment\bin\Debug\netcoreapp3.1\Tennis equipment.exe
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Tennis equipment\bin\Debug\netcoreapp3.1\Tennis equipment.deps.json
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Tennis equipment\bin\Debug\netcoreapp3.1\Tennis equipment.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Tennis equipment\bin\Debug\netcoreapp3.1\Tennis equipment.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Tennis equipment\bin\Debug\netcoreapp3.1\Tennis equipment.dll
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Tennis equipment\bin\Debug\netcoreapp3.1\Tennis equipment.pdb
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Tennis equipment\obj\Debug\netcoreapp3.1\Tennis equipment.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Tennis equipment\obj\Debug\netcoreapp3.1\Tennis equipment.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Tennis equipment\obj\Debug\netcoreapp3.1\Tennis equipment.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Tennis equipment\obj\Debug\netcoreapp3.1\Tennis equipment.dll
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Tennis equipment\obj\Debug\netcoreapp3.1\Tennis equipment.pdb

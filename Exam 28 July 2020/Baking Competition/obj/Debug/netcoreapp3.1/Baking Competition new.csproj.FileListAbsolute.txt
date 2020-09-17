@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Exam 28 July 2020\Baking Competition new\bin\Debug\netcoreapp3.1\Baking Competition new.exe
+C:\Users\18022020\Source\Repos\Exam 28 July 2020\Baking Competition new\bin\Debug\netcoreapp3.1\Baking Competition new.deps.json
+C:\Users\18022020\Source\Repos\Exam 28 July 2020\Baking Competition new\bin\Debug\netcoreapp3.1\Baking Competition new.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Exam 28 July 2020\Baking Competition new\bin\Debug\netcoreapp3.1\Baking Competition new.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Exam 28 July 2020\Baking Competition new\bin\Debug\netcoreapp3.1\Baking Competition new.dll
+C:\Users\18022020\Source\Repos\Exam 28 July 2020\Baking Competition new\bin\Debug\netcoreapp3.1\Baking Competition new.pdb
+C:\Users\18022020\Source\Repos\Exam 28 July 2020\Baking Competition new\obj\Debug\netcoreapp3.1\Baking Competition new.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Exam 28 July 2020\Baking Competition new\obj\Debug\netcoreapp3.1\Baking Competition new.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Exam 28 July 2020\Baking Competition new\obj\Debug\netcoreapp3.1\Baking Competition new.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Exam 28 July 2020\Baking Competition new\obj\Debug\netcoreapp3.1\Baking Competition new.dll
+C:\Users\18022020\Source\Repos\Exam 28 July 2020\Baking Competition new\obj\Debug\netcoreapp3.1\Baking Competition new.pdb

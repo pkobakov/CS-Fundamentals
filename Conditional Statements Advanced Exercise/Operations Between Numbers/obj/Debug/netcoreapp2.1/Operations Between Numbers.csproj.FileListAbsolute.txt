@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\Operations Between Numbers\bin\Debug\netcoreapp2.1\Operations Between Numbers.deps.json
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\Operations Between Numbers\bin\Debug\netcoreapp2.1\Operations Between Numbers.runtimeconfig.json
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\Operations Between Numbers\bin\Debug\netcoreapp2.1\Operations Between Numbers.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\Operations Between Numbers\bin\Debug\netcoreapp2.1\Operations Between Numbers.dll
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\Operations Between Numbers\bin\Debug\netcoreapp2.1\Operations Between Numbers.pdb
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\Operations Between Numbers\obj\Debug\netcoreapp2.1\Operations Between Numbers.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\Operations Between Numbers\obj\Debug\netcoreapp2.1\Operations Between Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\Operations Between Numbers\obj\Debug\netcoreapp2.1\Operations Between Numbers.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\Operations Between Numbers\obj\Debug\netcoreapp2.1\Operations Between Numbers.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\Operations Between Numbers\obj\Debug\netcoreapp2.1\Operations Between Numbers.dll
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\Operations Between Numbers\obj\Debug\netcoreapp2.1\Operations Between Numbers.pdb

@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Lists Lab\List of Products\bin\Debug\netcoreapp3.1\List of Products.exe
+C:\Users\25042020\source\repos\Lists Lab\List of Products\bin\Debug\netcoreapp3.1\List of Products.deps.json
+C:\Users\25042020\source\repos\Lists Lab\List of Products\bin\Debug\netcoreapp3.1\List of Products.runtimeconfig.json
+C:\Users\25042020\source\repos\Lists Lab\List of Products\bin\Debug\netcoreapp3.1\List of Products.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Lists Lab\List of Products\bin\Debug\netcoreapp3.1\List of Products.dll
+C:\Users\25042020\source\repos\Lists Lab\List of Products\bin\Debug\netcoreapp3.1\List of Products.pdb
+C:\Users\25042020\source\repos\Lists Lab\List of Products\obj\Debug\netcoreapp3.1\List of Products.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Lists Lab\List of Products\obj\Debug\netcoreapp3.1\List of Products.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Lists Lab\List of Products\obj\Debug\netcoreapp3.1\List of Products.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Lists Lab\List of Products\obj\Debug\netcoreapp3.1\List of Products.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Lists Lab\List of Products\obj\Debug\netcoreapp3.1\List of Products.dll
+C:\Users\25042020\source\repos\Lists Lab\List of Products\obj\Debug\netcoreapp3.1\List of Products.pdb
+C:\Users\25042020\source\repos\Lists Lab\List of Products\obj\Debug\netcoreapp3.1\List of Products.genruntimeconfig.cache

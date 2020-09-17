@@ -1,0 +1,12 @@
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Sum Digits\bin\Debug\netcoreapp3.1\Sum Digits.exe
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Sum Digits\bin\Debug\netcoreapp3.1\Sum Digits.deps.json
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Sum Digits\bin\Debug\netcoreapp3.1\Sum Digits.runtimeconfig.json
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Sum Digits\bin\Debug\netcoreapp3.1\Sum Digits.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Sum Digits\bin\Debug\netcoreapp3.1\Sum Digits.dll
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Sum Digits\bin\Debug\netcoreapp3.1\Sum Digits.pdb
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Sum Digits\obj\Debug\netcoreapp3.1\Sum Digits.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Sum Digits\obj\Debug\netcoreapp3.1\Sum Digits.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Sum Digits\obj\Debug\netcoreapp3.1\Sum Digits.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Sum Digits\obj\Debug\netcoreapp3.1\Sum Digits.dll
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Sum Digits\obj\Debug\netcoreapp3.1\Sum Digits.pdb
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Sum Digits\obj\Debug\netcoreapp3.1\Sum Digits.genruntimeconfig.cache

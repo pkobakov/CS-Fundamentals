@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Match Tickets\bin\Debug\netcoreapp3.1\Match Tickets.exe
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Match Tickets\bin\Debug\netcoreapp3.1\Match Tickets.deps.json
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Match Tickets\bin\Debug\netcoreapp3.1\Match Tickets.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Match Tickets\bin\Debug\netcoreapp3.1\Match Tickets.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Match Tickets\bin\Debug\netcoreapp3.1\Match Tickets.dll
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Match Tickets\bin\Debug\netcoreapp3.1\Match Tickets.pdb
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Match Tickets\obj\Debug\netcoreapp3.1\Match Tickets.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Match Tickets\obj\Debug\netcoreapp3.1\Match Tickets.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Match Tickets\obj\Debug\netcoreapp3.1\Match Tickets.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Match Tickets\obj\Debug\netcoreapp3.1\Match Tickets.dll
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Match Tickets\obj\Debug\netcoreapp3.1\Match Tickets.pdb

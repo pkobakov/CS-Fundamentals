@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Game Number Wars\bin\Debug\netcoreapp3.1\Game Number Wars.exe
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Game Number Wars\bin\Debug\netcoreapp3.1\Game Number Wars.deps.json
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Game Number Wars\bin\Debug\netcoreapp3.1\Game Number Wars.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Game Number Wars\bin\Debug\netcoreapp3.1\Game Number Wars.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Game Number Wars\bin\Debug\netcoreapp3.1\Game Number Wars.dll
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Game Number Wars\bin\Debug\netcoreapp3.1\Game Number Wars.pdb
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Game Number Wars\obj\Debug\netcoreapp3.1\Game Number Wars.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Game Number Wars\obj\Debug\netcoreapp3.1\Game Number Wars.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Game Number Wars\obj\Debug\netcoreapp3.1\Game Number Wars.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Game Number Wars\obj\Debug\netcoreapp3.1\Game Number Wars.dll
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Game Number Wars\obj\Debug\netcoreapp3.1\Game Number Wars.pdb

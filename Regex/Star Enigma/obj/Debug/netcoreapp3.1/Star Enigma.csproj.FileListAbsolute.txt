@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Regex\Star Enigma\bin\Debug\netcoreapp3.1\Star Enigma.exe
+C:\Users\25042020\source\repos\Regex\Star Enigma\bin\Debug\netcoreapp3.1\Star Enigma.deps.json
+C:\Users\25042020\source\repos\Regex\Star Enigma\bin\Debug\netcoreapp3.1\Star Enigma.runtimeconfig.json
+C:\Users\25042020\source\repos\Regex\Star Enigma\bin\Debug\netcoreapp3.1\Star Enigma.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Regex\Star Enigma\bin\Debug\netcoreapp3.1\Star Enigma.dll
+C:\Users\25042020\source\repos\Regex\Star Enigma\bin\Debug\netcoreapp3.1\Star Enigma.pdb
+C:\Users\25042020\source\repos\Regex\Star Enigma\obj\Debug\netcoreapp3.1\Star Enigma.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Regex\Star Enigma\obj\Debug\netcoreapp3.1\Star Enigma.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Regex\Star Enigma\obj\Debug\netcoreapp3.1\Star Enigma.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Regex\Star Enigma\obj\Debug\netcoreapp3.1\Star Enigma.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Regex\Star Enigma\obj\Debug\netcoreapp3.1\Star Enigma.dll
+C:\Users\25042020\source\repos\Regex\Star Enigma\obj\Debug\netcoreapp3.1\Star Enigma.pdb
+C:\Users\25042020\source\repos\Regex\Star Enigma\obj\Debug\netcoreapp3.1\Star Enigma.genruntimeconfig.cache

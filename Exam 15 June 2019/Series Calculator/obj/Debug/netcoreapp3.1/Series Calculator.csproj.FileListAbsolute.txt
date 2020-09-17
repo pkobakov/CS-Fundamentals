@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Series Calculator\bin\Debug\netcoreapp3.1\Series Calculator.exe
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Series Calculator\bin\Debug\netcoreapp3.1\Series Calculator.deps.json
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Series Calculator\bin\Debug\netcoreapp3.1\Series Calculator.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Series Calculator\bin\Debug\netcoreapp3.1\Series Calculator.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Series Calculator\bin\Debug\netcoreapp3.1\Series Calculator.dll
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Series Calculator\bin\Debug\netcoreapp3.1\Series Calculator.pdb
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Series Calculator\obj\Debug\netcoreapp3.1\Series Calculator.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Series Calculator\obj\Debug\netcoreapp3.1\Series Calculator.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Series Calculator\obj\Debug\netcoreapp3.1\Series Calculator.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Series Calculator\obj\Debug\netcoreapp3.1\Series Calculator.dll
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Series Calculator\obj\Debug\netcoreapp3.1\Series Calculator.pdb

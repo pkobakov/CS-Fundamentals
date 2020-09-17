@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Exam 28 July 2020\Trip Expenses\bin\Debug\netcoreapp3.1\Trip Expenses.exe
+C:\Users\18022020\Source\Repos\Exam 28 July 2020\Trip Expenses\bin\Debug\netcoreapp3.1\Trip Expenses.deps.json
+C:\Users\18022020\Source\Repos\Exam 28 July 2020\Trip Expenses\bin\Debug\netcoreapp3.1\Trip Expenses.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Exam 28 July 2020\Trip Expenses\bin\Debug\netcoreapp3.1\Trip Expenses.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Exam 28 July 2020\Trip Expenses\bin\Debug\netcoreapp3.1\Trip Expenses.dll
+C:\Users\18022020\Source\Repos\Exam 28 July 2020\Trip Expenses\bin\Debug\netcoreapp3.1\Trip Expenses.pdb
+C:\Users\18022020\Source\Repos\Exam 28 July 2020\Trip Expenses\obj\Debug\netcoreapp3.1\Trip Expenses.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Exam 28 July 2020\Trip Expenses\obj\Debug\netcoreapp3.1\Trip Expenses.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Exam 28 July 2020\Trip Expenses\obj\Debug\netcoreapp3.1\Trip Expenses.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Exam 28 July 2020\Trip Expenses\obj\Debug\netcoreapp3.1\Trip Expenses.dll
+C:\Users\18022020\Source\Repos\Exam 28 July 2020\Trip Expenses\obj\Debug\netcoreapp3.1\Trip Expenses.pdb

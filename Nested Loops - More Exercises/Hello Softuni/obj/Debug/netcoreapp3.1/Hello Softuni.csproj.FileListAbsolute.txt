@@ -1,0 +1,13 @@
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Hello Softuni\bin\Debug\netcoreapp3.1\Hello Softuni.exe
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Hello Softuni\bin\Debug\netcoreapp3.1\Hello Softuni.deps.json
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Hello Softuni\bin\Debug\netcoreapp3.1\Hello Softuni.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Hello Softuni\bin\Debug\netcoreapp3.1\Hello Softuni.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Hello Softuni\bin\Debug\netcoreapp3.1\Hello Softuni.dll
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Hello Softuni\bin\Debug\netcoreapp3.1\Hello Softuni.pdb
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Hello Softuni\obj\Debug\netcoreapp3.1\Hello Softuni.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Hello Softuni\obj\Debug\netcoreapp3.1\Hello Softuni.csproj.CoreCompileInputs.cache
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Hello Softuni\obj\Debug\netcoreapp3.1\Hello Softuni.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Hello Softuni\obj\Debug\netcoreapp3.1\Hello Softuni.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Hello Softuni\obj\Debug\netcoreapp3.1\Hello Softuni.dll
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Hello Softuni\obj\Debug\netcoreapp3.1\Hello Softuni.pdb
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Hello Softuni\obj\Debug\netcoreapp3.1\Hello Softuni.genruntimeconfig.cache

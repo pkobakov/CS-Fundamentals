@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Disneyland Journey\bin\Debug\netcoreapp3.1\Disneyland Journey.exe
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Disneyland Journey\bin\Debug\netcoreapp3.1\Disneyland Journey.deps.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Disneyland Journey\bin\Debug\netcoreapp3.1\Disneyland Journey.runtimeconfig.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Disneyland Journey\bin\Debug\netcoreapp3.1\Disneyland Journey.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Disneyland Journey\bin\Debug\netcoreapp3.1\Disneyland Journey.dll
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Disneyland Journey\bin\Debug\netcoreapp3.1\Disneyland Journey.pdb
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Disneyland Journey\obj\Debug\netcoreapp3.1\Disneyland Journey.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Disneyland Journey\obj\Debug\netcoreapp3.1\Disneyland Journey.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Disneyland Journey\obj\Debug\netcoreapp3.1\Disneyland Journey.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Disneyland Journey\obj\Debug\netcoreapp3.1\Disneyland Journey.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Disneyland Journey\obj\Debug\netcoreapp3.1\Disneyland Journey.dll
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Disneyland Journey\obj\Debug\netcoreapp3.1\Disneyland Journey.pdb
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Disneyland Journey\obj\Debug\netcoreapp3.1\Disneyland Journey.genruntimeconfig.cache

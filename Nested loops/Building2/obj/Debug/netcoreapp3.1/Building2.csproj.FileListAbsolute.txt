@@ -1,0 +1,11 @@
+D:\Archiv C\Source\Repos\Nested loops\Building2\obj\Debug\netcoreapp3.1\Building2.csprojAssemblyReference.cache
+D:\Archiv C\Source\Repos\Nested loops\Building2\obj\Debug\netcoreapp3.1\Building2.AssemblyInfoInputs.cache
+D:\Archiv C\Source\Repos\Nested loops\Building2\obj\Debug\netcoreapp3.1\Building2.AssemblyInfo.cs
+D:\Archiv C\Source\Repos\Nested loops\Building2\bin\Debug\netcoreapp3.1\Building2.exe
+D:\Archiv C\Source\Repos\Nested loops\Building2\bin\Debug\netcoreapp3.1\Building2.deps.json
+D:\Archiv C\Source\Repos\Nested loops\Building2\bin\Debug\netcoreapp3.1\Building2.runtimeconfig.json
+D:\Archiv C\Source\Repos\Nested loops\Building2\bin\Debug\netcoreapp3.1\Building2.runtimeconfig.dev.json
+D:\Archiv C\Source\Repos\Nested loops\Building2\bin\Debug\netcoreapp3.1\Building2.dll
+D:\Archiv C\Source\Repos\Nested loops\Building2\bin\Debug\netcoreapp3.1\Building2.pdb
+D:\Archiv C\Source\Repos\Nested loops\Building2\obj\Debug\netcoreapp3.1\Building2.dll
+D:\Archiv C\Source\Repos\Nested loops\Building2\obj\Debug\netcoreapp3.1\Building2.pdb

@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Exam 6 April\Cinema Tickets\bin\Debug\netcoreapp3.1\Cinema Tickets.exe
+C:\Users\18022020\Source\Repos\Exam 6 April\Cinema Tickets\bin\Debug\netcoreapp3.1\Cinema Tickets.deps.json
+C:\Users\18022020\Source\Repos\Exam 6 April\Cinema Tickets\bin\Debug\netcoreapp3.1\Cinema Tickets.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Exam 6 April\Cinema Tickets\bin\Debug\netcoreapp3.1\Cinema Tickets.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Exam 6 April\Cinema Tickets\bin\Debug\netcoreapp3.1\Cinema Tickets.dll
+C:\Users\18022020\Source\Repos\Exam 6 April\Cinema Tickets\bin\Debug\netcoreapp3.1\Cinema Tickets.pdb
+C:\Users\18022020\Source\Repos\Exam 6 April\Cinema Tickets\obj\Debug\netcoreapp3.1\Cinema Tickets.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Exam 6 April\Cinema Tickets\obj\Debug\netcoreapp3.1\Cinema Tickets.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Exam 6 April\Cinema Tickets\obj\Debug\netcoreapp3.1\Cinema Tickets.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Exam 6 April\Cinema Tickets\obj\Debug\netcoreapp3.1\Cinema Tickets.dll
+C:\Users\18022020\Source\Repos\Exam 6 April\Cinema Tickets\obj\Debug\netcoreapp3.1\Cinema Tickets.pdb

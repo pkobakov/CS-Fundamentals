@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Mirror Words\obj\Debug\netcoreapp3.1\Mirror Words.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Mirror Words\obj\Debug\netcoreapp3.1\Mirror Words.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Mirror Words\obj\Debug\netcoreapp3.1\Mirror Words.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Mirror Words\obj\Debug\netcoreapp3.1\Mirror Words.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Mirror Words\bin\Debug\netcoreapp3.1\Mirror Words.exe
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Mirror Words\bin\Debug\netcoreapp3.1\Mirror Words.deps.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Mirror Words\bin\Debug\netcoreapp3.1\Mirror Words.runtimeconfig.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Mirror Words\bin\Debug\netcoreapp3.1\Mirror Words.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Mirror Words\bin\Debug\netcoreapp3.1\Mirror Words.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Mirror Words\bin\Debug\netcoreapp3.1\Mirror Words.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Mirror Words\obj\Debug\netcoreapp3.1\Mirror Words.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Mirror Words\obj\Debug\netcoreapp3.1\Mirror Words.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Mirror Words\obj\Debug\netcoreapp3.1\Mirror Words.genruntimeconfig.cache

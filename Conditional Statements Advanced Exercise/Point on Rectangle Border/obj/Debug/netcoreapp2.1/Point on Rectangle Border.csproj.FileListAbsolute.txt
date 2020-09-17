@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\Point on Rectangle Border\bin\Debug\netcoreapp2.1\Point on Rectangle Border.deps.json
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\Point on Rectangle Border\bin\Debug\netcoreapp2.1\Point on Rectangle Border.runtimeconfig.json
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\Point on Rectangle Border\bin\Debug\netcoreapp2.1\Point on Rectangle Border.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\Point on Rectangle Border\bin\Debug\netcoreapp2.1\Point on Rectangle Border.dll
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\Point on Rectangle Border\bin\Debug\netcoreapp2.1\Point on Rectangle Border.pdb
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\Point on Rectangle Border\obj\Debug\netcoreapp2.1\Point on Rectangle Border.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\Point on Rectangle Border\obj\Debug\netcoreapp2.1\Point on Rectangle Border.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\Point on Rectangle Border\obj\Debug\netcoreapp2.1\Point on Rectangle Border.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\Point on Rectangle Border\obj\Debug\netcoreapp2.1\Point on Rectangle Border.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\Point on Rectangle Border\obj\Debug\netcoreapp2.1\Point on Rectangle Border.dll
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\Point on Rectangle Border\obj\Debug\netcoreapp2.1\Point on Rectangle Border.pdb

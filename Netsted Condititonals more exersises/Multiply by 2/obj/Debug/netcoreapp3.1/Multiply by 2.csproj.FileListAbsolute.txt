@@ -1,0 +1,13 @@
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Multiply by 2\bin\Debug\netcoreapp3.1\Multiply by 2.exe
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Multiply by 2\bin\Debug\netcoreapp3.1\Multiply by 2.deps.json
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Multiply by 2\bin\Debug\netcoreapp3.1\Multiply by 2.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Multiply by 2\bin\Debug\netcoreapp3.1\Multiply by 2.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Multiply by 2\bin\Debug\netcoreapp3.1\Multiply by 2.dll
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Multiply by 2\bin\Debug\netcoreapp3.1\Multiply by 2.pdb
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Multiply by 2\obj\Debug\netcoreapp3.1\Multiply by 2.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Multiply by 2\obj\Debug\netcoreapp3.1\Multiply by 2.csproj.CoreCompileInputs.cache
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Multiply by 2\obj\Debug\netcoreapp3.1\Multiply by 2.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Multiply by 2\obj\Debug\netcoreapp3.1\Multiply by 2.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Multiply by 2\obj\Debug\netcoreapp3.1\Multiply by 2.dll
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Multiply by 2\obj\Debug\netcoreapp3.1\Multiply by 2.pdb
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Multiply by 2\obj\Debug\netcoreapp3.1\Multiply by 2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Exam 29 March 2020\Fitness Card\bin\Debug\netcoreapp3.1\Fitness Card.exe
+C:\Users\25042020\source\repos\Exam 29 March 2020\Fitness Card\bin\Debug\netcoreapp3.1\Fitness Card.deps.json
+C:\Users\25042020\source\repos\Exam 29 March 2020\Fitness Card\bin\Debug\netcoreapp3.1\Fitness Card.runtimeconfig.json
+C:\Users\25042020\source\repos\Exam 29 March 2020\Fitness Card\bin\Debug\netcoreapp3.1\Fitness Card.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Exam 29 March 2020\Fitness Card\bin\Debug\netcoreapp3.1\Fitness Card.dll
+C:\Users\25042020\source\repos\Exam 29 March 2020\Fitness Card\bin\Debug\netcoreapp3.1\Fitness Card.pdb
+C:\Users\25042020\source\repos\Exam 29 March 2020\Fitness Card\obj\Debug\netcoreapp3.1\Fitness Card.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Exam 29 March 2020\Fitness Card\obj\Debug\netcoreapp3.1\Fitness Card.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Exam 29 March 2020\Fitness Card\obj\Debug\netcoreapp3.1\Fitness Card.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Exam 29 March 2020\Fitness Card\obj\Debug\netcoreapp3.1\Fitness Card.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Exam 29 March 2020\Fitness Card\obj\Debug\netcoreapp3.1\Fitness Card.dll
+C:\Users\25042020\source\repos\Exam 29 March 2020\Fitness Card\obj\Debug\netcoreapp3.1\Fitness Card.pdb
+C:\Users\25042020\source\repos\Exam 29 March 2020\Fitness Card\obj\Debug\netcoreapp3.1\Fitness Card.genruntimeconfig.cache

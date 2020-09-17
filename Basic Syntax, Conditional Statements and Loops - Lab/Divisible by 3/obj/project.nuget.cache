@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9/hdxpeQxo1m6QRexS9M08SI4qjNvmN0MAjN+D8ZKlIcapini9dgIh5gUZsILPR0ohU+nSHkfXLAFd1/x9ShKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\25042020\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\Divisible by 3\\Divisible by 3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\25042020\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

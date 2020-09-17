@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Fancy Barcodes\bin\Debug\netcoreapp3.1\Fancy Barcodes.exe
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Fancy Barcodes\bin\Debug\netcoreapp3.1\Fancy Barcodes.deps.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Fancy Barcodes\bin\Debug\netcoreapp3.1\Fancy Barcodes.runtimeconfig.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Fancy Barcodes\bin\Debug\netcoreapp3.1\Fancy Barcodes.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Fancy Barcodes\bin\Debug\netcoreapp3.1\Fancy Barcodes.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Fancy Barcodes\bin\Debug\netcoreapp3.1\Fancy Barcodes.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Fancy Barcodes\obj\Debug\netcoreapp3.1\Fancy Barcodes.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Fancy Barcodes\obj\Debug\netcoreapp3.1\Fancy Barcodes.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Fancy Barcodes\obj\Debug\netcoreapp3.1\Fancy Barcodes.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Fancy Barcodes\obj\Debug\netcoreapp3.1\Fancy Barcodes.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Fancy Barcodes\obj\Debug\netcoreapp3.1\Fancy Barcodes.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Fancy Barcodes\obj\Debug\netcoreapp3.1\Fancy Barcodes.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Fancy Barcodes\obj\Debug\netcoreapp3.1\Fancy Barcodes.genruntimeconfig.cache

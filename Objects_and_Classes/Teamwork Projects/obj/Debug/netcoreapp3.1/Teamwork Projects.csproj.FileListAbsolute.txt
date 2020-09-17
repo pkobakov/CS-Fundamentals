@@ -1,0 +1,3 @@
+C:\Users\25042020\source\repos\Objects_and_Classes\Teamwork Projects\obj\Debug\netcoreapp3.1\Teamwork Projects.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Objects_and_Classes\Teamwork Projects\obj\Debug\netcoreapp3.1\Teamwork Projects.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Objects_and_Classes\Teamwork Projects\obj\Debug\netcoreapp3.1\Teamwork Projects.csproj.CoreCompileInputs.cache

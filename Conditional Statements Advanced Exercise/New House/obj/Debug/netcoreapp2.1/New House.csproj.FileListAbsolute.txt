@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\New House\obj\Debug\netcoreapp2.1\New House.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\New House\obj\Debug\netcoreapp2.1\New House.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\New House\obj\Debug\netcoreapp2.1\New House.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\New House\obj\Debug\netcoreapp2.1\New House.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\New House\bin\Debug\netcoreapp2.1\New House.deps.json
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\New House\bin\Debug\netcoreapp2.1\New House.runtimeconfig.json
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\New House\bin\Debug\netcoreapp2.1\New House.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\New House\bin\Debug\netcoreapp2.1\New House.dll
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\New House\bin\Debug\netcoreapp2.1\New House.pdb
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\New House\obj\Debug\netcoreapp2.1\New House.dll
+C:\Users\User\Source\Repos\Conditional Statements Advanced Exercise\New House\obj\Debug\netcoreapp2.1\New House.pdb

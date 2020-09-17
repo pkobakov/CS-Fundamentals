@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Preparation for exam\Bachelor Party\bin\Debug\netcoreapp3.1\Bachelor Party.exe
+C:\Users\18022020\Source\Repos\Preparation for exam\Bachelor Party\bin\Debug\netcoreapp3.1\Bachelor Party.deps.json
+C:\Users\18022020\Source\Repos\Preparation for exam\Bachelor Party\bin\Debug\netcoreapp3.1\Bachelor Party.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Preparation for exam\Bachelor Party\bin\Debug\netcoreapp3.1\Bachelor Party.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Preparation for exam\Bachelor Party\bin\Debug\netcoreapp3.1\Bachelor Party.dll
+C:\Users\18022020\Source\Repos\Preparation for exam\Bachelor Party\bin\Debug\netcoreapp3.1\Bachelor Party.pdb
+C:\Users\18022020\Source\Repos\Preparation for exam\Bachelor Party\obj\Debug\netcoreapp3.1\Bachelor Party.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Preparation for exam\Bachelor Party\obj\Debug\netcoreapp3.1\Bachelor Party.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Preparation for exam\Bachelor Party\obj\Debug\netcoreapp3.1\Bachelor Party.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Preparation for exam\Bachelor Party\obj\Debug\netcoreapp3.1\Bachelor Party.dll
+C:\Users\18022020\Source\Repos\Preparation for exam\Bachelor Party\obj\Debug\netcoreapp3.1\Bachelor Party.pdb

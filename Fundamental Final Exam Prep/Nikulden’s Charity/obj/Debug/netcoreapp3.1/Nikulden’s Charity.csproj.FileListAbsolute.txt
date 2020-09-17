@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Nikulden’s Charity\bin\Debug\netcoreapp3.1\Nikulden’s Charity.exe
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Nikulden’s Charity\bin\Debug\netcoreapp3.1\Nikulden’s Charity.deps.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Nikulden’s Charity\bin\Debug\netcoreapp3.1\Nikulden’s Charity.runtimeconfig.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Nikulden’s Charity\bin\Debug\netcoreapp3.1\Nikulden’s Charity.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Nikulden’s Charity\bin\Debug\netcoreapp3.1\Nikulden’s Charity.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Nikulden’s Charity\bin\Debug\netcoreapp3.1\Nikulden’s Charity.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Nikulden’s Charity\obj\Debug\netcoreapp3.1\Nikulden’s Charity.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Nikulden’s Charity\obj\Debug\netcoreapp3.1\Nikulden’s Charity.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Nikulden’s Charity\obj\Debug\netcoreapp3.1\Nikulden’s Charity.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Nikulden’s Charity\obj\Debug\netcoreapp3.1\Nikulden’s Charity.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Nikulden’s Charity\obj\Debug\netcoreapp3.1\Nikulden’s Charity.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Nikulden’s Charity\obj\Debug\netcoreapp3.1\Nikulden’s Charity.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Nikulden’s Charity\obj\Debug\netcoreapp3.1\Nikulden’s Charity.genruntimeconfig.cache

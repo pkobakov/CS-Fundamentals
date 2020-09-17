@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Travel Agency\bin\Debug\netcoreapp3.1\Travel Agency.exe
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Travel Agency\bin\Debug\netcoreapp3.1\Travel Agency.deps.json
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Travel Agency\bin\Debug\netcoreapp3.1\Travel Agency.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Travel Agency\bin\Debug\netcoreapp3.1\Travel Agency.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Travel Agency\bin\Debug\netcoreapp3.1\Travel Agency.dll
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Travel Agency\bin\Debug\netcoreapp3.1\Travel Agency.pdb
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Travel Agency\obj\Debug\netcoreapp3.1\Travel Agency.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Travel Agency\obj\Debug\netcoreapp3.1\Travel Agency.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Travel Agency\obj\Debug\netcoreapp3.1\Travel Agency.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Travel Agency\obj\Debug\netcoreapp3.1\Travel Agency.dll
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Travel Agency\obj\Debug\netcoreapp3.1\Travel Agency.pdb

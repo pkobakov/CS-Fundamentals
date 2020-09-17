@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Exam 29 March 2020\Food for Pets\bin\Debug\netcoreapp3.1\Food for Pets.exe
+C:\Users\25042020\source\repos\Exam 29 March 2020\Food for Pets\bin\Debug\netcoreapp3.1\Food for Pets.deps.json
+C:\Users\25042020\source\repos\Exam 29 March 2020\Food for Pets\bin\Debug\netcoreapp3.1\Food for Pets.runtimeconfig.json
+C:\Users\25042020\source\repos\Exam 29 March 2020\Food for Pets\bin\Debug\netcoreapp3.1\Food for Pets.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Exam 29 March 2020\Food for Pets\bin\Debug\netcoreapp3.1\Food for Pets.dll
+C:\Users\25042020\source\repos\Exam 29 March 2020\Food for Pets\bin\Debug\netcoreapp3.1\Food for Pets.pdb
+C:\Users\25042020\source\repos\Exam 29 March 2020\Food for Pets\obj\Debug\netcoreapp3.1\Food for Pets.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Exam 29 March 2020\Food for Pets\obj\Debug\netcoreapp3.1\Food for Pets.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Exam 29 March 2020\Food for Pets\obj\Debug\netcoreapp3.1\Food for Pets.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Exam 29 March 2020\Food for Pets\obj\Debug\netcoreapp3.1\Food for Pets.dll
+C:\Users\25042020\source\repos\Exam 29 March 2020\Food for Pets\obj\Debug\netcoreapp3.1\Food for Pets.pdb
+C:\Users\25042020\source\repos\Exam 29 March 2020\Food for Pets\obj\Debug\netcoreapp3.1\Food for Pets.genruntimeconfig.cache
+C:\Users\25042020\source\repos\Exam 29 March 2020\Food for Pets\obj\Debug\netcoreapp3.1\Food for Pets.csprojAssemblyReference.cache

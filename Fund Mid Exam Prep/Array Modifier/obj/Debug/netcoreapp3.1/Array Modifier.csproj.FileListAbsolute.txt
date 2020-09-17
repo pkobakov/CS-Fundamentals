@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Array Modifier\bin\Debug\netcoreapp3.1\Array Modifier.exe
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Array Modifier\bin\Debug\netcoreapp3.1\Array Modifier.deps.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Array Modifier\bin\Debug\netcoreapp3.1\Array Modifier.runtimeconfig.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Array Modifier\bin\Debug\netcoreapp3.1\Array Modifier.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Array Modifier\bin\Debug\netcoreapp3.1\Array Modifier.dll
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Array Modifier\bin\Debug\netcoreapp3.1\Array Modifier.pdb
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Array Modifier\obj\Debug\netcoreapp3.1\Array Modifier.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Array Modifier\obj\Debug\netcoreapp3.1\Array Modifier.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Array Modifier\obj\Debug\netcoreapp3.1\Array Modifier.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Array Modifier\obj\Debug\netcoreapp3.1\Array Modifier.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Array Modifier\obj\Debug\netcoreapp3.1\Array Modifier.dll
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Array Modifier\obj\Debug\netcoreapp3.1\Array Modifier.pdb
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Array Modifier\obj\Debug\netcoreapp3.1\Array Modifier.genruntimeconfig.cache

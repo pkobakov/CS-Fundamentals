@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\While loop more exercises\Stream Of Letters\obj\Debug\netcoreapp3.1\Stream Of Letters.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\While loop more exercises\Stream Of Letters\obj\Debug\netcoreapp3.1\Stream Of Letters.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\While loop more exercises\Stream Of Letters\obj\Debug\netcoreapp3.1\Stream Of Letters.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\While loop more exercises\Stream Of Letters\bin\Debug\netcoreapp3.1\Stream Of Letters.exe
+C:\Users\18022020\Source\Repos\While loop more exercises\Stream Of Letters\bin\Debug\netcoreapp3.1\Stream Of Letters.deps.json
+C:\Users\18022020\Source\Repos\While loop more exercises\Stream Of Letters\bin\Debug\netcoreapp3.1\Stream Of Letters.runtimeconfig.json
+C:\Users\18022020\Source\Repos\While loop more exercises\Stream Of Letters\bin\Debug\netcoreapp3.1\Stream Of Letters.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\While loop more exercises\Stream Of Letters\bin\Debug\netcoreapp3.1\Stream Of Letters.dll
+C:\Users\18022020\Source\Repos\While loop more exercises\Stream Of Letters\bin\Debug\netcoreapp3.1\Stream Of Letters.pdb
+C:\Users\18022020\Source\Repos\While loop more exercises\Stream Of Letters\obj\Debug\netcoreapp3.1\Stream Of Letters.dll
+C:\Users\18022020\Source\Repos\While loop more exercises\Stream Of Letters\obj\Debug\netcoreapp3.1\Stream Of Letters.pdb

@@ -1,0 +1,12 @@
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Water Overflow\bin\Debug\netcoreapp3.1\Water Overflow.exe
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Water Overflow\bin\Debug\netcoreapp3.1\Water Overflow.deps.json
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Water Overflow\bin\Debug\netcoreapp3.1\Water Overflow.runtimeconfig.json
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Water Overflow\bin\Debug\netcoreapp3.1\Water Overflow.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Water Overflow\bin\Debug\netcoreapp3.1\Water Overflow.dll
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Water Overflow\bin\Debug\netcoreapp3.1\Water Overflow.pdb
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Water Overflow\obj\Debug\netcoreapp3.1\Water Overflow.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Water Overflow\obj\Debug\netcoreapp3.1\Water Overflow.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Water Overflow\obj\Debug\netcoreapp3.1\Water Overflow.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Water Overflow\obj\Debug\netcoreapp3.1\Water Overflow.dll
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Water Overflow\obj\Debug\netcoreapp3.1\Water Overflow.pdb
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Water Overflow\obj\Debug\netcoreapp3.1\Water Overflow.genruntimeconfig.cache

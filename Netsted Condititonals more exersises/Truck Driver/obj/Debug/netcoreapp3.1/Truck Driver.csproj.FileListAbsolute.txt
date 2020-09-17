@@ -1,0 +1,13 @@
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Truck Driver\bin\Debug\netcoreapp3.1\Truck Driver.exe
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Truck Driver\bin\Debug\netcoreapp3.1\Truck Driver.deps.json
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Truck Driver\bin\Debug\netcoreapp3.1\Truck Driver.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Truck Driver\bin\Debug\netcoreapp3.1\Truck Driver.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Truck Driver\bin\Debug\netcoreapp3.1\Truck Driver.dll
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Truck Driver\bin\Debug\netcoreapp3.1\Truck Driver.pdb
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Truck Driver\obj\Debug\netcoreapp3.1\Truck Driver.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Truck Driver\obj\Debug\netcoreapp3.1\Truck Driver.csproj.CoreCompileInputs.cache
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Truck Driver\obj\Debug\netcoreapp3.1\Truck Driver.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Truck Driver\obj\Debug\netcoreapp3.1\Truck Driver.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Truck Driver\obj\Debug\netcoreapp3.1\Truck Driver.dll
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Truck Driver\obj\Debug\netcoreapp3.1\Truck Driver.pdb
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Truck Driver\obj\Debug\netcoreapp3.1\Truck Driver.genruntimeconfig.cache

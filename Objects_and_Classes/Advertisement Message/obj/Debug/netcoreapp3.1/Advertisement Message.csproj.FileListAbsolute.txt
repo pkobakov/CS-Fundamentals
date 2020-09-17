@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Objects_and_Classes\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Objects_and_Classes\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Objects_and_Classes\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Objects_and_Classes\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Objects_and_Classes\Advertisement Message\bin\Debug\netcoreapp3.1\Advertisement Message.exe
+C:\Users\25042020\source\repos\Objects_and_Classes\Advertisement Message\bin\Debug\netcoreapp3.1\Advertisement Message.deps.json
+C:\Users\25042020\source\repos\Objects_and_Classes\Advertisement Message\bin\Debug\netcoreapp3.1\Advertisement Message.runtimeconfig.json
+C:\Users\25042020\source\repos\Objects_and_Classes\Advertisement Message\bin\Debug\netcoreapp3.1\Advertisement Message.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Objects_and_Classes\Advertisement Message\bin\Debug\netcoreapp3.1\Advertisement Message.dll
+C:\Users\25042020\source\repos\Objects_and_Classes\Advertisement Message\bin\Debug\netcoreapp3.1\Advertisement Message.pdb
+C:\Users\25042020\source\repos\Objects_and_Classes\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.dll
+C:\Users\25042020\source\repos\Objects_and_Classes\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.pdb
+C:\Users\25042020\source\repos\Objects_and_Classes\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.genruntimeconfig.cache

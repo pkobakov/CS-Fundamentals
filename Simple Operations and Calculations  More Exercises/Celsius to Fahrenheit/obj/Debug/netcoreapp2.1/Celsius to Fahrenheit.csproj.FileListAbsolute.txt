@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Celsius to Fahrenheit\bin\Debug\netcoreapp2.1\Celsius to Fahrenheit.deps.json
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Celsius to Fahrenheit\bin\Debug\netcoreapp2.1\Celsius to Fahrenheit.runtimeconfig.json
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Celsius to Fahrenheit\bin\Debug\netcoreapp2.1\Celsius to Fahrenheit.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Celsius to Fahrenheit\bin\Debug\netcoreapp2.1\Celsius to Fahrenheit.dll
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Celsius to Fahrenheit\bin\Debug\netcoreapp2.1\Celsius to Fahrenheit.pdb
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Celsius to Fahrenheit\obj\Debug\netcoreapp2.1\Celsius to Fahrenheit.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Celsius to Fahrenheit\obj\Debug\netcoreapp2.1\Celsius to Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Celsius to Fahrenheit\obj\Debug\netcoreapp2.1\Celsius to Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Celsius to Fahrenheit\obj\Debug\netcoreapp2.1\Celsius to Fahrenheit.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Celsius to Fahrenheit\obj\Debug\netcoreapp2.1\Celsius to Fahrenheit.dll
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Celsius to Fahrenheit\obj\Debug\netcoreapp2.1\Celsius to Fahrenheit.pdb

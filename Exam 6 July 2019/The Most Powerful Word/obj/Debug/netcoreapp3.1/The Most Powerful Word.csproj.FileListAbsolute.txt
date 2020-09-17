@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\The Most Powerful Word\obj\Debug\netcoreapp3.1\The Most Powerful Word.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\The Most Powerful Word\obj\Debug\netcoreapp3.1\The Most Powerful Word.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\The Most Powerful Word\obj\Debug\netcoreapp3.1\The Most Powerful Word.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\The Most Powerful Word\bin\Debug\netcoreapp3.1\The Most Powerful Word.exe
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\The Most Powerful Word\bin\Debug\netcoreapp3.1\The Most Powerful Word.deps.json
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\The Most Powerful Word\bin\Debug\netcoreapp3.1\The Most Powerful Word.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\The Most Powerful Word\bin\Debug\netcoreapp3.1\The Most Powerful Word.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\The Most Powerful Word\bin\Debug\netcoreapp3.1\The Most Powerful Word.dll
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\The Most Powerful Word\bin\Debug\netcoreapp3.1\The Most Powerful Word.pdb
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\The Most Powerful Word\obj\Debug\netcoreapp3.1\The Most Powerful Word.dll
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\The Most Powerful Word\obj\Debug\netcoreapp3.1\The Most Powerful Word.pdb

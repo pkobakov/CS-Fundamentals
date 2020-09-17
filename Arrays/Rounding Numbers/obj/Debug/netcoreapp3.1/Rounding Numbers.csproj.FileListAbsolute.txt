@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Arrays\Rounding Numbers\bin\Debug\netcoreapp3.1\Rounding Numbers.exe
+C:\Users\25042020\source\repos\Arrays\Rounding Numbers\bin\Debug\netcoreapp3.1\Rounding Numbers.deps.json
+C:\Users\25042020\source\repos\Arrays\Rounding Numbers\bin\Debug\netcoreapp3.1\Rounding Numbers.runtimeconfig.json
+C:\Users\25042020\source\repos\Arrays\Rounding Numbers\bin\Debug\netcoreapp3.1\Rounding Numbers.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Arrays\Rounding Numbers\bin\Debug\netcoreapp3.1\Rounding Numbers.dll
+C:\Users\25042020\source\repos\Arrays\Rounding Numbers\bin\Debug\netcoreapp3.1\Rounding Numbers.pdb
+C:\Users\25042020\source\repos\Arrays\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Arrays\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Arrays\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Arrays\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Arrays\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.dll
+C:\Users\25042020\source\repos\Arrays\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.pdb
+C:\Users\25042020\source\repos\Arrays\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.genruntimeconfig.cache

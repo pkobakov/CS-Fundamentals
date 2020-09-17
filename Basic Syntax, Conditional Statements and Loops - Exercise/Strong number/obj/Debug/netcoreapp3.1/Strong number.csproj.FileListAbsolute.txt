@@ -1,0 +1,12 @@
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\bin\Debug\netcoreapp3.1\Strong number.exe
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\bin\Debug\netcoreapp3.1\Strong number.deps.json
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\bin\Debug\netcoreapp3.1\Strong number.runtimeconfig.json
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\bin\Debug\netcoreapp3.1\Strong number.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\bin\Debug\netcoreapp3.1\Strong number.dll
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\bin\Debug\netcoreapp3.1\Strong number.pdb
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\obj\Debug\netcoreapp3.1\Strong number.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\obj\Debug\netcoreapp3.1\Strong number.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\obj\Debug\netcoreapp3.1\Strong number.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\obj\Debug\netcoreapp3.1\Strong number.dll
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\obj\Debug\netcoreapp3.1\Strong number.pdb
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\obj\Debug\netcoreapp3.1\Strong number.genruntimeconfig.cache

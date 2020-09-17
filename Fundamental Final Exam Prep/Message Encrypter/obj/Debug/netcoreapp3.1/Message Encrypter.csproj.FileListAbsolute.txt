@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Message Encrypter\bin\Debug\netcoreapp3.1\Message Encrypter.exe
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Message Encrypter\bin\Debug\netcoreapp3.1\Message Encrypter.deps.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Message Encrypter\bin\Debug\netcoreapp3.1\Message Encrypter.runtimeconfig.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Message Encrypter\bin\Debug\netcoreapp3.1\Message Encrypter.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Message Encrypter\bin\Debug\netcoreapp3.1\Message Encrypter.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Message Encrypter\bin\Debug\netcoreapp3.1\Message Encrypter.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Message Encrypter\obj\Debug\netcoreapp3.1\Message Encrypter.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Message Encrypter\obj\Debug\netcoreapp3.1\Message Encrypter.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Message Encrypter\obj\Debug\netcoreapp3.1\Message Encrypter.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Message Encrypter\obj\Debug\netcoreapp3.1\Message Encrypter.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Message Encrypter\obj\Debug\netcoreapp3.1\Message Encrypter.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Message Encrypter\obj\Debug\netcoreapp3.1\Message Encrypter.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Message Encrypter\obj\Debug\netcoreapp3.1\Message Encrypter.genruntimeconfig.cache

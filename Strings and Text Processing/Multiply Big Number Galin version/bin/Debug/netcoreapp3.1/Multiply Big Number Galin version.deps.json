@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Multiply Big Number Galin version/1.0.0": {
+        "runtime": {
+          "Multiply Big Number Galin version.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Multiply Big Number Galin version/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

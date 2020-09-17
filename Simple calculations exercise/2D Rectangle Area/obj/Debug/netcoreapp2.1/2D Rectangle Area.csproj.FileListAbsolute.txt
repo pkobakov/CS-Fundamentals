@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Simple calculations exercise\2D Rectangle Area\bin\Debug\netcoreapp2.1\2D Rectangle Area.deps.json
+C:\Users\User\Source\Repos\Simple calculations exercise\2D Rectangle Area\bin\Debug\netcoreapp2.1\2D Rectangle Area.runtimeconfig.json
+C:\Users\User\Source\Repos\Simple calculations exercise\2D Rectangle Area\bin\Debug\netcoreapp2.1\2D Rectangle Area.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Simple calculations exercise\2D Rectangle Area\bin\Debug\netcoreapp2.1\2D Rectangle Area.dll
+C:\Users\User\Source\Repos\Simple calculations exercise\2D Rectangle Area\bin\Debug\netcoreapp2.1\2D Rectangle Area.pdb
+C:\Users\User\Source\Repos\Simple calculations exercise\2D Rectangle Area\obj\Debug\netcoreapp2.1\2D Rectangle Area.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Simple calculations exercise\2D Rectangle Area\obj\Debug\netcoreapp2.1\2D Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Simple calculations exercise\2D Rectangle Area\obj\Debug\netcoreapp2.1\2D Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Simple calculations exercise\2D Rectangle Area\obj\Debug\netcoreapp2.1\2D Rectangle Area.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Simple calculations exercise\2D Rectangle Area\obj\Debug\netcoreapp2.1\2D Rectangle Area.dll
+C:\Users\User\Source\Repos\Simple calculations exercise\2D Rectangle Area\obj\Debug\netcoreapp2.1\2D Rectangle Area.pdb

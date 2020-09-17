@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Conditional statements exercise\Metric converter\bin\Debug\netcoreapp2.1\Metric converter.deps.json
+C:\Users\User\Source\Repos\Conditional statements exercise\Metric converter\bin\Debug\netcoreapp2.1\Metric converter.runtimeconfig.json
+C:\Users\User\Source\Repos\Conditional statements exercise\Metric converter\bin\Debug\netcoreapp2.1\Metric converter.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Conditional statements exercise\Metric converter\bin\Debug\netcoreapp2.1\Metric converter.dll
+C:\Users\User\Source\Repos\Conditional statements exercise\Metric converter\bin\Debug\netcoreapp2.1\Metric converter.pdb
+C:\Users\User\Source\Repos\Conditional statements exercise\Metric converter\obj\Debug\netcoreapp2.1\Metric converter.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Conditional statements exercise\Metric converter\obj\Debug\netcoreapp2.1\Metric converter.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Conditional statements exercise\Metric converter\obj\Debug\netcoreapp2.1\Metric converter.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Conditional statements exercise\Metric converter\obj\Debug\netcoreapp2.1\Metric converter.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Conditional statements exercise\Metric converter\obj\Debug\netcoreapp2.1\Metric converter.dll
+C:\Users\User\Source\Repos\Conditional statements exercise\Metric converter\obj\Debug\netcoreapp2.1\Metric converter.pdb

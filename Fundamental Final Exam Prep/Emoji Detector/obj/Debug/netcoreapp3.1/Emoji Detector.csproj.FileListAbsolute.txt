@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Emoji Detector\bin\Debug\netcoreapp3.1\Emoji Detector.exe
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Emoji Detector\bin\Debug\netcoreapp3.1\Emoji Detector.deps.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Emoji Detector\bin\Debug\netcoreapp3.1\Emoji Detector.runtimeconfig.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Emoji Detector\bin\Debug\netcoreapp3.1\Emoji Detector.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Emoji Detector\bin\Debug\netcoreapp3.1\Emoji Detector.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Emoji Detector\bin\Debug\netcoreapp3.1\Emoji Detector.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Emoji Detector\obj\Debug\netcoreapp3.1\Emoji Detector.genruntimeconfig.cache

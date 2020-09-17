@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Counter Strike\bin\Debug\netcoreapp3.1\Counter Strike.exe
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Counter Strike\bin\Debug\netcoreapp3.1\Counter Strike.deps.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Counter Strike\bin\Debug\netcoreapp3.1\Counter Strike.runtimeconfig.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Counter Strike\bin\Debug\netcoreapp3.1\Counter Strike.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Counter Strike\bin\Debug\netcoreapp3.1\Counter Strike.dll
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Counter Strike\bin\Debug\netcoreapp3.1\Counter Strike.pdb
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Counter Strike\obj\Debug\netcoreapp3.1\Counter Strike.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Counter Strike\obj\Debug\netcoreapp3.1\Counter Strike.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Counter Strike\obj\Debug\netcoreapp3.1\Counter Strike.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Counter Strike\obj\Debug\netcoreapp3.1\Counter Strike.dll
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Counter Strike\obj\Debug\netcoreapp3.1\Counter Strike.pdb
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Counter Strike\obj\Debug\netcoreapp3.1\Counter Strike.genruntimeconfig.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Counter Strike\obj\Debug\netcoreapp3.1\Counter Strike.csprojAssemblyReference.cache

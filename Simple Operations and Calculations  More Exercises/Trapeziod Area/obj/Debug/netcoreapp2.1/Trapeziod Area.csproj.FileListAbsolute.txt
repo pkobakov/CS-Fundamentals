@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Trapeziod Area\bin\Debug\netcoreapp2.1\Trapeziod Area.deps.json
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Trapeziod Area\bin\Debug\netcoreapp2.1\Trapeziod Area.runtimeconfig.json
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Trapeziod Area\bin\Debug\netcoreapp2.1\Trapeziod Area.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Trapeziod Area\bin\Debug\netcoreapp2.1\Trapeziod Area.dll
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Trapeziod Area\bin\Debug\netcoreapp2.1\Trapeziod Area.pdb
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Trapeziod Area\obj\Debug\netcoreapp2.1\Trapeziod Area.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Trapeziod Area\obj\Debug\netcoreapp2.1\Trapeziod Area.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Trapeziod Area\obj\Debug\netcoreapp2.1\Trapeziod Area.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Trapeziod Area\obj\Debug\netcoreapp2.1\Trapeziod Area.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Trapeziod Area\obj\Debug\netcoreapp2.1\Trapeziod Area.dll
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Trapeziod Area\obj\Debug\netcoreapp2.1\Trapeziod Area.pdb

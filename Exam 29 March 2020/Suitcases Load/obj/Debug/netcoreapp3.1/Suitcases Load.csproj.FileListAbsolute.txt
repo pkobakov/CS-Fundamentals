@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Exam 29 March 2020\Suitcases Load\bin\Debug\netcoreapp3.1\Suitcases Load.exe
+C:\Users\25042020\source\repos\Exam 29 March 2020\Suitcases Load\bin\Debug\netcoreapp3.1\Suitcases Load.deps.json
+C:\Users\25042020\source\repos\Exam 29 March 2020\Suitcases Load\bin\Debug\netcoreapp3.1\Suitcases Load.runtimeconfig.json
+C:\Users\25042020\source\repos\Exam 29 March 2020\Suitcases Load\bin\Debug\netcoreapp3.1\Suitcases Load.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Exam 29 March 2020\Suitcases Load\bin\Debug\netcoreapp3.1\Suitcases Load.dll
+C:\Users\25042020\source\repos\Exam 29 March 2020\Suitcases Load\bin\Debug\netcoreapp3.1\Suitcases Load.pdb
+C:\Users\25042020\source\repos\Exam 29 March 2020\Suitcases Load\obj\Debug\netcoreapp3.1\Suitcases Load.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Exam 29 March 2020\Suitcases Load\obj\Debug\netcoreapp3.1\Suitcases Load.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Exam 29 March 2020\Suitcases Load\obj\Debug\netcoreapp3.1\Suitcases Load.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Exam 29 March 2020\Suitcases Load\obj\Debug\netcoreapp3.1\Suitcases Load.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Exam 29 March 2020\Suitcases Load\obj\Debug\netcoreapp3.1\Suitcases Load.dll
+C:\Users\25042020\source\repos\Exam 29 March 2020\Suitcases Load\obj\Debug\netcoreapp3.1\Suitcases Load.pdb
+C:\Users\25042020\source\repos\Exam 29 March 2020\Suitcases Load\obj\Debug\netcoreapp3.1\Suitcases Load.genruntimeconfig.cache

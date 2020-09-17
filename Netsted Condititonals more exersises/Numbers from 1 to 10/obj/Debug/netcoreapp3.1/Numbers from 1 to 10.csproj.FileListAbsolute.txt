@@ -1,0 +1,13 @@
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Numbers from 1 to 10\bin\Debug\netcoreapp3.1\Numbers from 1 to 10.exe
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Numbers from 1 to 10\bin\Debug\netcoreapp3.1\Numbers from 1 to 10.deps.json
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Numbers from 1 to 10\bin\Debug\netcoreapp3.1\Numbers from 1 to 10.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Numbers from 1 to 10\bin\Debug\netcoreapp3.1\Numbers from 1 to 10.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Numbers from 1 to 10\bin\Debug\netcoreapp3.1\Numbers from 1 to 10.dll
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Numbers from 1 to 10\bin\Debug\netcoreapp3.1\Numbers from 1 to 10.pdb
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Numbers from 1 to 10\obj\Debug\netcoreapp3.1\Numbers from 1 to 10.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Numbers from 1 to 10\obj\Debug\netcoreapp3.1\Numbers from 1 to 10.csproj.CoreCompileInputs.cache
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Numbers from 1 to 10\obj\Debug\netcoreapp3.1\Numbers from 1 to 10.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Numbers from 1 to 10\obj\Debug\netcoreapp3.1\Numbers from 1 to 10.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Numbers from 1 to 10\obj\Debug\netcoreapp3.1\Numbers from 1 to 10.dll
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Numbers from 1 to 10\obj\Debug\netcoreapp3.1\Numbers from 1 to 10.pdb
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Numbers from 1 to 10\obj\Debug\netcoreapp3.1\Numbers from 1 to 10.genruntimeconfig.cache

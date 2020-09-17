@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Heart Delivery\bin\Debug\netcoreapp3.1\Heart Delivery.exe
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Heart Delivery\bin\Debug\netcoreapp3.1\Heart Delivery.deps.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Heart Delivery\bin\Debug\netcoreapp3.1\Heart Delivery.runtimeconfig.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Heart Delivery\bin\Debug\netcoreapp3.1\Heart Delivery.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Heart Delivery\bin\Debug\netcoreapp3.1\Heart Delivery.dll
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Heart Delivery\bin\Debug\netcoreapp3.1\Heart Delivery.pdb
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Heart Delivery\obj\Debug\netcoreapp3.1\Heart Delivery.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Heart Delivery\obj\Debug\netcoreapp3.1\Heart Delivery.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Heart Delivery\obj\Debug\netcoreapp3.1\Heart Delivery.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Heart Delivery\obj\Debug\netcoreapp3.1\Heart Delivery.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Heart Delivery\obj\Debug\netcoreapp3.1\Heart Delivery.dll
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Heart Delivery\obj\Debug\netcoreapp3.1\Heart Delivery.pdb
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Heart Delivery\obj\Debug\netcoreapp3.1\Heart Delivery.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Loops\Left and Right Sum\bin\Debug\netcoreapp2.1\Left and Right Sum.deps.json
+C:\Users\User\Source\Repos\Loops\Left and Right Sum\bin\Debug\netcoreapp2.1\Left and Right Sum.runtimeconfig.json
+C:\Users\User\Source\Repos\Loops\Left and Right Sum\bin\Debug\netcoreapp2.1\Left and Right Sum.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Loops\Left and Right Sum\bin\Debug\netcoreapp2.1\Left and Right Sum.dll
+C:\Users\User\Source\Repos\Loops\Left and Right Sum\bin\Debug\netcoreapp2.1\Left and Right Sum.pdb
+C:\Users\User\Source\Repos\Loops\Left and Right Sum\obj\Debug\netcoreapp2.1\Left and Right Sum.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Loops\Left and Right Sum\obj\Debug\netcoreapp2.1\Left and Right Sum.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Loops\Left and Right Sum\obj\Debug\netcoreapp2.1\Left and Right Sum.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Loops\Left and Right Sum\obj\Debug\netcoreapp2.1\Left and Right Sum.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Loops\Left and Right Sum\obj\Debug\netcoreapp2.1\Left and Right Sum.dll
+C:\Users\User\Source\Repos\Loops\Left and Right Sum\obj\Debug\netcoreapp2.1\Left and Right Sum.pdb

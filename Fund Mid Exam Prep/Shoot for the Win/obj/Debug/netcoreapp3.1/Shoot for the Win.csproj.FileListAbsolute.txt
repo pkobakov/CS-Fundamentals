@@ -1,0 +1,12 @@
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Shoot for the Win\bin\Debug\netcoreapp3.1\Shoot for the Win.exe
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Shoot for the Win\bin\Debug\netcoreapp3.1\Shoot for the Win.deps.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Shoot for the Win\bin\Debug\netcoreapp3.1\Shoot for the Win.runtimeconfig.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Shoot for the Win\bin\Debug\netcoreapp3.1\Shoot for the Win.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Shoot for the Win\bin\Debug\netcoreapp3.1\Shoot for the Win.dll
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Shoot for the Win\bin\Debug\netcoreapp3.1\Shoot for the Win.pdb
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Shoot for the Win\obj\Debug\netcoreapp3.1\Shoot for the Win.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Shoot for the Win\obj\Debug\netcoreapp3.1\Shoot for the Win.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Shoot for the Win\obj\Debug\netcoreapp3.1\Shoot for the Win.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Shoot for the Win\obj\Debug\netcoreapp3.1\Shoot for the Win.dll
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Shoot for the Win\obj\Debug\netcoreapp3.1\Shoot for the Win.pdb
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Shoot for the Win\obj\Debug\netcoreapp3.1\Shoot for the Win.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Loops exercise\Odd _ Even Position\bin\Debug\netcoreapp2.1\Odd _ Even Position.deps.json
+C:\Users\User\Source\Repos\Loops exercise\Odd _ Even Position\bin\Debug\netcoreapp2.1\Odd _ Even Position.runtimeconfig.json
+C:\Users\User\Source\Repos\Loops exercise\Odd _ Even Position\bin\Debug\netcoreapp2.1\Odd _ Even Position.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Loops exercise\Odd _ Even Position\bin\Debug\netcoreapp2.1\Odd _ Even Position.dll
+C:\Users\User\Source\Repos\Loops exercise\Odd _ Even Position\bin\Debug\netcoreapp2.1\Odd _ Even Position.pdb
+C:\Users\User\Source\Repos\Loops exercise\Odd _ Even Position\obj\Debug\netcoreapp2.1\Odd _ Even Position.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Loops exercise\Odd _ Even Position\obj\Debug\netcoreapp2.1\Odd _ Even Position.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Loops exercise\Odd _ Even Position\obj\Debug\netcoreapp2.1\Odd _ Even Position.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Loops exercise\Odd _ Even Position\obj\Debug\netcoreapp2.1\Odd _ Even Position.dll
+C:\Users\User\Source\Repos\Loops exercise\Odd _ Even Position\obj\Debug\netcoreapp2.1\Odd _ Even Position.pdb
+C:\Users\User\Source\Repos\Loops exercise\Odd _ Even Position\obj\Debug\netcoreapp2.1\Odd _ Even Position.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Movie Day\bin\Debug\netcoreapp3.1\Movie Day.exe
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Movie Day\bin\Debug\netcoreapp3.1\Movie Day.deps.json
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Movie Day\bin\Debug\netcoreapp3.1\Movie Day.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Movie Day\bin\Debug\netcoreapp3.1\Movie Day.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Movie Day\bin\Debug\netcoreapp3.1\Movie Day.dll
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Movie Day\bin\Debug\netcoreapp3.1\Movie Day.pdb
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Movie Day\obj\Debug\netcoreapp3.1\Movie Day.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Movie Day\obj\Debug\netcoreapp3.1\Movie Day.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Movie Day\obj\Debug\netcoreapp3.1\Movie Day.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Movie Day\obj\Debug\netcoreapp3.1\Movie Day.dll
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Movie Day\obj\Debug\netcoreapp3.1\Movie Day.pdb

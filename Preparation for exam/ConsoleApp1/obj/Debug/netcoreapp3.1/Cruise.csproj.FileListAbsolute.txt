@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Preparation for exam\ConsoleApp1\bin\Debug\netcoreapp3.1\Cruise.exe
+C:\Users\18022020\Source\Repos\Preparation for exam\ConsoleApp1\bin\Debug\netcoreapp3.1\Cruise.deps.json
+C:\Users\18022020\Source\Repos\Preparation for exam\ConsoleApp1\bin\Debug\netcoreapp3.1\Cruise.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Preparation for exam\ConsoleApp1\bin\Debug\netcoreapp3.1\Cruise.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Preparation for exam\ConsoleApp1\bin\Debug\netcoreapp3.1\Cruise.dll
+C:\Users\18022020\Source\Repos\Preparation for exam\ConsoleApp1\bin\Debug\netcoreapp3.1\Cruise.pdb
+C:\Users\18022020\Source\Repos\Preparation for exam\ConsoleApp1\obj\Debug\netcoreapp3.1\Cruise.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Preparation for exam\ConsoleApp1\obj\Debug\netcoreapp3.1\Cruise.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Preparation for exam\ConsoleApp1\obj\Debug\netcoreapp3.1\Cruise.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Preparation for exam\ConsoleApp1\obj\Debug\netcoreapp3.1\Cruise.dll
+C:\Users\18022020\Source\Repos\Preparation for exam\ConsoleApp1\obj\Debug\netcoreapp3.1\Cruise.pdb

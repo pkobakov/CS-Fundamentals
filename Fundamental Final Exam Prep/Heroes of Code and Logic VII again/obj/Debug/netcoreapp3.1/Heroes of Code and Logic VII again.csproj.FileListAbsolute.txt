@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Heroes of Code and Logic VII again\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VII again.exe
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Heroes of Code and Logic VII again\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VII again.deps.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Heroes of Code and Logic VII again\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VII again.runtimeconfig.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Heroes of Code and Logic VII again\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VII again.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Heroes of Code and Logic VII again\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VII again.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Heroes of Code and Logic VII again\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VII again.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Heroes of Code and Logic VII again\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII again.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Heroes of Code and Logic VII again\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII again.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Heroes of Code and Logic VII again\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII again.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Heroes of Code and Logic VII again\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII again.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Heroes of Code and Logic VII again\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII again.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Heroes of Code and Logic VII again\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII again.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Heroes of Code and Logic VII again\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII again.genruntimeconfig.cache

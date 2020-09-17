@@ -1,0 +1,13 @@
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\55 stars triangle\bin\Debug\netcoreapp3.1\55 stars triangle.exe
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\55 stars triangle\bin\Debug\netcoreapp3.1\55 stars triangle.deps.json
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\55 stars triangle\bin\Debug\netcoreapp3.1\55 stars triangle.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\55 stars triangle\bin\Debug\netcoreapp3.1\55 stars triangle.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\55 stars triangle\bin\Debug\netcoreapp3.1\55 stars triangle.dll
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\55 stars triangle\bin\Debug\netcoreapp3.1\55 stars triangle.pdb
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\55 stars triangle\obj\Debug\netcoreapp3.1\55 stars triangle.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\55 stars triangle\obj\Debug\netcoreapp3.1\55 stars triangle.csproj.CoreCompileInputs.cache
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\55 stars triangle\obj\Debug\netcoreapp3.1\55 stars triangle.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\55 stars triangle\obj\Debug\netcoreapp3.1\55 stars triangle.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\55 stars triangle\obj\Debug\netcoreapp3.1\55 stars triangle.dll
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\55 stars triangle\obj\Debug\netcoreapp3.1\55 stars triangle.pdb
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\55 stars triangle\obj\Debug\netcoreapp3.1\55 stars triangle.genruntimeconfig.cache

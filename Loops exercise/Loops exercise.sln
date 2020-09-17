@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Numbers Ending in 7", "Numbers Ending in 7\Numbers Ending in 7.csproj", "{3EDF5375-B4DE-464B-8F5D-F999580BC7AD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Half Sum Element", "Half Sum Element\Half Sum Element.csproj", "{29D7E1FD-861E-489B-807A-B2FE9DBAB218}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odd _ Even Position", "Odd _ Even Position\Odd _ Even Position.csproj", "{ED45D006-D7F5-4CAD-B586-97EECE430ACA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Histogram", "Histogram\Histogram.csproj", "{72E53B19-3587-4C1B-9465-7294DC569F65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divide Without Remainder", "Divide Without Remainder\Divide Without Remainder.csproj", "{D2596F47-12D2-424B-839F-B169DE287CDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salary", "Salary\Salary.csproj", "{E980A0A7-1AC1-44C4-B910-377CC54B97BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EDF5375-B4DE-464B-8F5D-F999580BC7AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EDF5375-B4DE-464B-8F5D-F999580BC7AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EDF5375-B4DE-464B-8F5D-F999580BC7AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EDF5375-B4DE-464B-8F5D-F999580BC7AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D7E1FD-861E-489B-807A-B2FE9DBAB218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D7E1FD-861E-489B-807A-B2FE9DBAB218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D7E1FD-861E-489B-807A-B2FE9DBAB218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D7E1FD-861E-489B-807A-B2FE9DBAB218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED45D006-D7F5-4CAD-B586-97EECE430ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED45D006-D7F5-4CAD-B586-97EECE430ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED45D006-D7F5-4CAD-B586-97EECE430ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED45D006-D7F5-4CAD-B586-97EECE430ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72E53B19-3587-4C1B-9465-7294DC569F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E53B19-3587-4C1B-9465-7294DC569F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E53B19-3587-4C1B-9465-7294DC569F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E53B19-3587-4C1B-9465-7294DC569F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2596F47-12D2-424B-839F-B169DE287CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2596F47-12D2-424B-839F-B169DE287CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2596F47-12D2-424B-839F-B169DE287CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2596F47-12D2-424B-839F-B169DE287CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E980A0A7-1AC1-44C4-B910-377CC54B97BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E980A0A7-1AC1-44C4-B910-377CC54B97BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E980A0A7-1AC1-44C4-B910-377CC54B97BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E980A0A7-1AC1-44C4-B910-377CC54B97BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24A18B6F-6CA6-4A23-B70E-4872817A453A}
+	EndGlobalSection
+EndGlobal

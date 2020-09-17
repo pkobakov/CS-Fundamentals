@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Drawing Figures with Loops\Rhombus of Stars\bin\Debug\netcoreapp3.1\Rhombus of Stars.exe
+C:\Users\18022020\Source\Repos\Drawing Figures with Loops\Rhombus of Stars\bin\Debug\netcoreapp3.1\Rhombus of Stars.deps.json
+C:\Users\18022020\Source\Repos\Drawing Figures with Loops\Rhombus of Stars\bin\Debug\netcoreapp3.1\Rhombus of Stars.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Drawing Figures with Loops\Rhombus of Stars\bin\Debug\netcoreapp3.1\Rhombus of Stars.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Drawing Figures with Loops\Rhombus of Stars\bin\Debug\netcoreapp3.1\Rhombus of Stars.dll
+C:\Users\18022020\Source\Repos\Drawing Figures with Loops\Rhombus of Stars\bin\Debug\netcoreapp3.1\Rhombus of Stars.pdb
+C:\Users\18022020\Source\Repos\Drawing Figures with Loops\Rhombus of Stars\obj\Debug\netcoreapp3.1\Rhombus of Stars.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Drawing Figures with Loops\Rhombus of Stars\obj\Debug\netcoreapp3.1\Rhombus of Stars.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Drawing Figures with Loops\Rhombus of Stars\obj\Debug\netcoreapp3.1\Rhombus of Stars.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Drawing Figures with Loops\Rhombus of Stars\obj\Debug\netcoreapp3.1\Rhombus of Stars.dll
+C:\Users\18022020\Source\Repos\Drawing Figures with Loops\Rhombus of Stars\obj\Debug\netcoreapp3.1\Rhombus of Stars.pdb

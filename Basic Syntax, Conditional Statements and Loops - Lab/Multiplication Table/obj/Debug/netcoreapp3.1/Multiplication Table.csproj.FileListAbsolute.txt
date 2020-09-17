@@ -1,0 +1,12 @@
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.exe
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.deps.json
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.runtimeconfig.json
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.dll
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.pdb
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.dll
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.pdb
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.genruntimeconfig.cache

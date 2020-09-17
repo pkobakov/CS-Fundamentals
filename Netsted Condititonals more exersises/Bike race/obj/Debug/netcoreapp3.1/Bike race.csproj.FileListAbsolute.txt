@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Bike race\bin\Debug\netcoreapp3.1\Bike race.exe
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Bike race\bin\Debug\netcoreapp3.1\Bike race.deps.json
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Bike race\bin\Debug\netcoreapp3.1\Bike race.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Bike race\bin\Debug\netcoreapp3.1\Bike race.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Bike race\bin\Debug\netcoreapp3.1\Bike race.dll
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Bike race\bin\Debug\netcoreapp3.1\Bike race.pdb
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Bike race\obj\Debug\netcoreapp3.1\Bike race.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Bike race\obj\Debug\netcoreapp3.1\Bike race.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Bike race\obj\Debug\netcoreapp3.1\Bike race.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Bike race\obj\Debug\netcoreapp3.1\Bike race.dll
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Bike race\obj\Debug\netcoreapp3.1\Bike race.pdb

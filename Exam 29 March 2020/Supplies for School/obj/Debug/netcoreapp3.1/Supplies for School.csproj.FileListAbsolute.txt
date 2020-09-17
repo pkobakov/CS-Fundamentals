@@ -1,0 +1,13 @@
+C:\Users\18022020\Source\Repos\Exam 29 March 2020\Supplies for School\bin\Debug\netcoreapp3.1\Supplies for School.exe
+C:\Users\18022020\Source\Repos\Exam 29 March 2020\Supplies for School\bin\Debug\netcoreapp3.1\Supplies for School.deps.json
+C:\Users\18022020\Source\Repos\Exam 29 March 2020\Supplies for School\bin\Debug\netcoreapp3.1\Supplies for School.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Exam 29 March 2020\Supplies for School\bin\Debug\netcoreapp3.1\Supplies for School.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Exam 29 March 2020\Supplies for School\bin\Debug\netcoreapp3.1\Supplies for School.dll
+C:\Users\18022020\Source\Repos\Exam 29 March 2020\Supplies for School\bin\Debug\netcoreapp3.1\Supplies for School.pdb
+C:\Users\18022020\Source\Repos\Exam 29 March 2020\Supplies for School\obj\Debug\netcoreapp3.1\Supplies for School.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Exam 29 March 2020\Supplies for School\obj\Debug\netcoreapp3.1\Supplies for School.csproj.CoreCompileInputs.cache
+C:\Users\18022020\Source\Repos\Exam 29 March 2020\Supplies for School\obj\Debug\netcoreapp3.1\Supplies for School.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Exam 29 March 2020\Supplies for School\obj\Debug\netcoreapp3.1\Supplies for School.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Exam 29 March 2020\Supplies for School\obj\Debug\netcoreapp3.1\Supplies for School.dll
+C:\Users\18022020\Source\Repos\Exam 29 March 2020\Supplies for School\obj\Debug\netcoreapp3.1\Supplies for School.pdb
+C:\Users\18022020\Source\Repos\Exam 29 March 2020\Supplies for School\obj\Debug\netcoreapp3.1\Supplies for School.genruntimeconfig.cache

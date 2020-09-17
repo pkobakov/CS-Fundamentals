@@ -1,0 +1,12 @@
+C:\Users\25042020\source\repos\Strings and Text Processing\Reverse Strings\bin\Debug\netcoreapp3.1\Reverse Strings.exe
+C:\Users\25042020\source\repos\Strings and Text Processing\Reverse Strings\bin\Debug\netcoreapp3.1\Reverse Strings.deps.json
+C:\Users\25042020\source\repos\Strings and Text Processing\Reverse Strings\bin\Debug\netcoreapp3.1\Reverse Strings.runtimeconfig.json
+C:\Users\25042020\source\repos\Strings and Text Processing\Reverse Strings\bin\Debug\netcoreapp3.1\Reverse Strings.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Strings and Text Processing\Reverse Strings\bin\Debug\netcoreapp3.1\Reverse Strings.dll
+C:\Users\25042020\source\repos\Strings and Text Processing\Reverse Strings\bin\Debug\netcoreapp3.1\Reverse Strings.pdb
+C:\Users\25042020\source\repos\Strings and Text Processing\Reverse Strings\obj\Debug\netcoreapp3.1\Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Strings and Text Processing\Reverse Strings\obj\Debug\netcoreapp3.1\Reverse Strings.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Strings and Text Processing\Reverse Strings\obj\Debug\netcoreapp3.1\Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Strings and Text Processing\Reverse Strings\obj\Debug\netcoreapp3.1\Reverse Strings.dll
+C:\Users\25042020\source\repos\Strings and Text Processing\Reverse Strings\obj\Debug\netcoreapp3.1\Reverse Strings.pdb
+C:\Users\25042020\source\repos\Strings and Text Processing\Reverse Strings\obj\Debug\netcoreapp3.1\Reverse Strings.genruntimeconfig.cache

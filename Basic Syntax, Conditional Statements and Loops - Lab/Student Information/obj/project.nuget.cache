@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JrHNeB2zufeQ4ib19fTHZsME+cX0+wH13Pp4/SaD2hNpkLxIGEN6ijc3A36ZYgN9sUfHa1Mreo19NDCJbU6smQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\25042020\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\Student Information\\Student Information.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\25042020\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

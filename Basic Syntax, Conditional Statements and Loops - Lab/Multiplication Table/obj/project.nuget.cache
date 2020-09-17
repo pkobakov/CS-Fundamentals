@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vgwKqmYgQnGezJqcWlzz07ShQm1hR8wSdOB1IXoOIO3IpHayvBzx5clCWwchyvAlkYBi/QP+YDLxuiWGUPjelw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\25042020\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\Multiplication Table\\Multiplication Table.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\25042020\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

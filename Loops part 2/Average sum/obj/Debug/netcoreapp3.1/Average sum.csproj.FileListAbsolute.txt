@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Loops part 2\Average sum\bin\Debug\netcoreapp3.1\Average sum.exe
+C:\Users\18022020\Source\Repos\Loops part 2\Average sum\bin\Debug\netcoreapp3.1\Average sum.deps.json
+C:\Users\18022020\Source\Repos\Loops part 2\Average sum\bin\Debug\netcoreapp3.1\Average sum.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Loops part 2\Average sum\bin\Debug\netcoreapp3.1\Average sum.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Loops part 2\Average sum\bin\Debug\netcoreapp3.1\Average sum.dll
+C:\Users\18022020\Source\Repos\Loops part 2\Average sum\bin\Debug\netcoreapp3.1\Average sum.pdb
+C:\Users\18022020\Source\Repos\Loops part 2\Average sum\obj\Debug\netcoreapp3.1\Average sum.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Loops part 2\Average sum\obj\Debug\netcoreapp3.1\Average sum.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Loops part 2\Average sum\obj\Debug\netcoreapp3.1\Average sum.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Loops part 2\Average sum\obj\Debug\netcoreapp3.1\Average sum.dll
+C:\Users\18022020\Source\Repos\Loops part 2\Average sum\obj\Debug\netcoreapp3.1\Average sum.pdb

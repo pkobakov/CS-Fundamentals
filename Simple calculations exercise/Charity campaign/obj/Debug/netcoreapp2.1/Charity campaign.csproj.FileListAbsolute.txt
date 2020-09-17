@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Simple calculations exercise\Charity campaign\bin\Debug\netcoreapp2.1\Charity campaign.deps.json
+C:\Users\User\Source\Repos\Simple calculations exercise\Charity campaign\bin\Debug\netcoreapp2.1\Charity campaign.runtimeconfig.json
+C:\Users\User\Source\Repos\Simple calculations exercise\Charity campaign\bin\Debug\netcoreapp2.1\Charity campaign.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Simple calculations exercise\Charity campaign\bin\Debug\netcoreapp2.1\Charity campaign.dll
+C:\Users\User\Source\Repos\Simple calculations exercise\Charity campaign\bin\Debug\netcoreapp2.1\Charity campaign.pdb
+C:\Users\User\Source\Repos\Simple calculations exercise\Charity campaign\obj\Debug\netcoreapp2.1\Charity campaign.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Simple calculations exercise\Charity campaign\obj\Debug\netcoreapp2.1\Charity campaign.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Simple calculations exercise\Charity campaign\obj\Debug\netcoreapp2.1\Charity campaign.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Simple calculations exercise\Charity campaign\obj\Debug\netcoreapp2.1\Charity campaign.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Simple calculations exercise\Charity campaign\obj\Debug\netcoreapp2.1\Charity campaign.dll
+C:\Users\User\Source\Repos\Simple calculations exercise\Charity campaign\obj\Debug\netcoreapp2.1\Charity campaign.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f+l7bQKwzeIzfqI94hPQ2OtLJ3gWxkZwHVQD1yjQIxGgbwT2qvMIxFmArJl+PFO3fOMkKE8PstJyTUyOgWyl0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\25042020\\source\\repos\\Arrays\\Reverse Array of strings\\Reverse Array of strings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\25042020\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

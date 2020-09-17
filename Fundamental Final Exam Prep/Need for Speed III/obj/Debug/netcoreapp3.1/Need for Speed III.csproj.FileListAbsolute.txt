@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Need for Speed III\bin\Debug\netcoreapp3.1\Need for Speed III.exe
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Need for Speed III\bin\Debug\netcoreapp3.1\Need for Speed III.deps.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Need for Speed III\bin\Debug\netcoreapp3.1\Need for Speed III.runtimeconfig.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Need for Speed III\bin\Debug\netcoreapp3.1\Need for Speed III.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Need for Speed III\bin\Debug\netcoreapp3.1\Need for Speed III.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Need for Speed III\bin\Debug\netcoreapp3.1\Need for Speed III.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Need for Speed III\obj\Debug\netcoreapp3.1\Need for Speed III.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Need for Speed III\obj\Debug\netcoreapp3.1\Need for Speed III.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Need for Speed III\obj\Debug\netcoreapp3.1\Need for Speed III.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Need for Speed III\obj\Debug\netcoreapp3.1\Need for Speed III.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Need for Speed III\obj\Debug\netcoreapp3.1\Need for Speed III.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Need for Speed III\obj\Debug\netcoreapp3.1\Need for Speed III.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Need for Speed III\obj\Debug\netcoreapp3.1\Need for Speed III.genruntimeconfig.cache

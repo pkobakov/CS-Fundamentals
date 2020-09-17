@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Message Translator\bin\Debug\netcoreapp3.1\Message Translator.exe
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Message Translator\bin\Debug\netcoreapp3.1\Message Translator.deps.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Message Translator\bin\Debug\netcoreapp3.1\Message Translator.runtimeconfig.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Message Translator\bin\Debug\netcoreapp3.1\Message Translator.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Message Translator\bin\Debug\netcoreapp3.1\Message Translator.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Message Translator\bin\Debug\netcoreapp3.1\Message Translator.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Message Translator\obj\Debug\netcoreapp3.1\Message Translator.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Message Translator\obj\Debug\netcoreapp3.1\Message Translator.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Message Translator\obj\Debug\netcoreapp3.1\Message Translator.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Message Translator\obj\Debug\netcoreapp3.1\Message Translator.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Message Translator\obj\Debug\netcoreapp3.1\Message Translator.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Message Translator\obj\Debug\netcoreapp3.1\Message Translator.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Message Translator\obj\Debug\netcoreapp3.1\Message Translator.genruntimeconfig.cache

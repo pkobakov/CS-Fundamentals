@@ -1,0 +1,12 @@
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\bin\Debug\netcoreapp3.1\Foreign Languages.exe
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\bin\Debug\netcoreapp3.1\Foreign Languages.deps.json
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\bin\Debug\netcoreapp3.1\Foreign Languages.runtimeconfig.json
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\bin\Debug\netcoreapp3.1\Foreign Languages.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\bin\Debug\netcoreapp3.1\Foreign Languages.dll
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\bin\Debug\netcoreapp3.1\Foreign Languages.pdb
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.dll
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.pdb
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rTURUd4NYUgPl2JRogtfyHVTuh2YY7h/FB47z5tttcdeahvfX2CXmB8YJWjmsDEiqwLyay7R3xTgzUV6mrtOkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\25042020\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\Theatre Promotions\\Theatre Promotions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\25042020\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

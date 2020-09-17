@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Exam 29 March 2020\Energy Booster\bin\Debug\netcoreapp3.1\Energy Booster.exe
+C:\Users\25042020\source\repos\Exam 29 March 2020\Energy Booster\bin\Debug\netcoreapp3.1\Energy Booster.deps.json
+C:\Users\25042020\source\repos\Exam 29 March 2020\Energy Booster\bin\Debug\netcoreapp3.1\Energy Booster.runtimeconfig.json
+C:\Users\25042020\source\repos\Exam 29 March 2020\Energy Booster\bin\Debug\netcoreapp3.1\Energy Booster.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Exam 29 March 2020\Energy Booster\bin\Debug\netcoreapp3.1\Energy Booster.dll
+C:\Users\25042020\source\repos\Exam 29 March 2020\Energy Booster\bin\Debug\netcoreapp3.1\Energy Booster.pdb
+C:\Users\25042020\source\repos\Exam 29 March 2020\Energy Booster\obj\Debug\netcoreapp3.1\Energy Booster.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Exam 29 March 2020\Energy Booster\obj\Debug\netcoreapp3.1\Energy Booster.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Exam 29 March 2020\Energy Booster\obj\Debug\netcoreapp3.1\Energy Booster.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Exam 29 March 2020\Energy Booster\obj\Debug\netcoreapp3.1\Energy Booster.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Exam 29 March 2020\Energy Booster\obj\Debug\netcoreapp3.1\Energy Booster.dll
+C:\Users\25042020\source\repos\Exam 29 March 2020\Energy Booster\obj\Debug\netcoreapp3.1\Energy Booster.pdb
+C:\Users\25042020\source\repos\Exam 29 March 2020\Energy Booster\obj\Debug\netcoreapp3.1\Energy Booster.genruntimeconfig.cache

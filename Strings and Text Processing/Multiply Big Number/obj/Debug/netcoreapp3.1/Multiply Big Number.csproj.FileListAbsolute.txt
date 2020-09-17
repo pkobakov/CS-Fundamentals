@@ -1,0 +1,12 @@
+C:\Users\25042020\source\repos\Strings and Text Processing\Multiply Big Number\bin\Debug\netcoreapp3.1\Multiply Big Number.exe
+C:\Users\25042020\source\repos\Strings and Text Processing\Multiply Big Number\bin\Debug\netcoreapp3.1\Multiply Big Number.deps.json
+C:\Users\25042020\source\repos\Strings and Text Processing\Multiply Big Number\bin\Debug\netcoreapp3.1\Multiply Big Number.runtimeconfig.json
+C:\Users\25042020\source\repos\Strings and Text Processing\Multiply Big Number\bin\Debug\netcoreapp3.1\Multiply Big Number.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Strings and Text Processing\Multiply Big Number\bin\Debug\netcoreapp3.1\Multiply Big Number.dll
+C:\Users\25042020\source\repos\Strings and Text Processing\Multiply Big Number\bin\Debug\netcoreapp3.1\Multiply Big Number.pdb
+C:\Users\25042020\source\repos\Strings and Text Processing\Multiply Big Number\obj\Debug\netcoreapp3.1\Multiply Big Number.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Strings and Text Processing\Multiply Big Number\obj\Debug\netcoreapp3.1\Multiply Big Number.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Strings and Text Processing\Multiply Big Number\obj\Debug\netcoreapp3.1\Multiply Big Number.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Strings and Text Processing\Multiply Big Number\obj\Debug\netcoreapp3.1\Multiply Big Number.dll
+C:\Users\25042020\source\repos\Strings and Text Processing\Multiply Big Number\obj\Debug\netcoreapp3.1\Multiply Big Number.pdb
+C:\Users\25042020\source\repos\Strings and Text Processing\Multiply Big Number\obj\Debug\netcoreapp3.1\Multiply Big Number.genruntimeconfig.cache

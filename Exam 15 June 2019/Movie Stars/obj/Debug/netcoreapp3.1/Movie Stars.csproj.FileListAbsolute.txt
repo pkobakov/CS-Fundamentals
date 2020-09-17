@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Movie Stars\bin\Debug\netcoreapp3.1\Movie Stars.exe
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Movie Stars\bin\Debug\netcoreapp3.1\Movie Stars.deps.json
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Movie Stars\bin\Debug\netcoreapp3.1\Movie Stars.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Movie Stars\bin\Debug\netcoreapp3.1\Movie Stars.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Movie Stars\bin\Debug\netcoreapp3.1\Movie Stars.dll
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Movie Stars\bin\Debug\netcoreapp3.1\Movie Stars.pdb
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Movie Stars\obj\Debug\netcoreapp3.1\Movie Stars.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Movie Stars\obj\Debug\netcoreapp3.1\Movie Stars.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Movie Stars\obj\Debug\netcoreapp3.1\Movie Stars.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Movie Stars\obj\Debug\netcoreapp3.1\Movie Stars.dll
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Movie Stars\obj\Debug\netcoreapp3.1\Movie Stars.pdb

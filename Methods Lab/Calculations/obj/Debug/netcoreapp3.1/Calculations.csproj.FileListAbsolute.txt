@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Methods Lab\Calculations\bin\Debug\netcoreapp3.1\Calculations.exe
+C:\Users\25042020\source\repos\Methods Lab\Calculations\bin\Debug\netcoreapp3.1\Calculations.deps.json
+C:\Users\25042020\source\repos\Methods Lab\Calculations\bin\Debug\netcoreapp3.1\Calculations.runtimeconfig.json
+C:\Users\25042020\source\repos\Methods Lab\Calculations\bin\Debug\netcoreapp3.1\Calculations.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Methods Lab\Calculations\bin\Debug\netcoreapp3.1\Calculations.dll
+C:\Users\25042020\source\repos\Methods Lab\Calculations\bin\Debug\netcoreapp3.1\Calculations.pdb
+C:\Users\25042020\source\repos\Methods Lab\Calculations\obj\Debug\netcoreapp3.1\Calculations.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Methods Lab\Calculations\obj\Debug\netcoreapp3.1\Calculations.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Methods Lab\Calculations\obj\Debug\netcoreapp3.1\Calculations.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Methods Lab\Calculations\obj\Debug\netcoreapp3.1\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Methods Lab\Calculations\obj\Debug\netcoreapp3.1\Calculations.dll
+C:\Users\25042020\source\repos\Methods Lab\Calculations\obj\Debug\netcoreapp3.1\Calculations.pdb
+C:\Users\25042020\source\repos\Methods Lab\Calculations\obj\Debug\netcoreapp3.1\Calculations.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\School Camp\bin\Debug\netcoreapp3.1\School Camp.exe
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\School Camp\bin\Debug\netcoreapp3.1\School Camp.deps.json
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\School Camp\bin\Debug\netcoreapp3.1\School Camp.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\School Camp\bin\Debug\netcoreapp3.1\School Camp.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\School Camp\bin\Debug\netcoreapp3.1\School Camp.dll
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\School Camp\bin\Debug\netcoreapp3.1\School Camp.pdb
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\School Camp\obj\Debug\netcoreapp3.1\School Camp.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\School Camp\obj\Debug\netcoreapp3.1\School Camp.csproj.CoreCompileInputs.cache
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\School Camp\obj\Debug\netcoreapp3.1\School Camp.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\School Camp\obj\Debug\netcoreapp3.1\School Camp.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\School Camp\obj\Debug\netcoreapp3.1\School Camp.dll
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\School Camp\obj\Debug\netcoreapp3.1\School Camp.pdb
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\School Camp\obj\Debug\netcoreapp3.1\School Camp.genruntimeconfig.cache

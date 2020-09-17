@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Preparation for exam\Cruise games\bin\Debug\netcoreapp3.1\Cruise games.exe
+C:\Users\18022020\Source\Repos\Preparation for exam\Cruise games\bin\Debug\netcoreapp3.1\Cruise games.deps.json
+C:\Users\18022020\Source\Repos\Preparation for exam\Cruise games\bin\Debug\netcoreapp3.1\Cruise games.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Preparation for exam\Cruise games\bin\Debug\netcoreapp3.1\Cruise games.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Preparation for exam\Cruise games\bin\Debug\netcoreapp3.1\Cruise games.dll
+C:\Users\18022020\Source\Repos\Preparation for exam\Cruise games\bin\Debug\netcoreapp3.1\Cruise games.pdb
+C:\Users\18022020\Source\Repos\Preparation for exam\Cruise games\obj\Debug\netcoreapp3.1\Cruise games.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Preparation for exam\Cruise games\obj\Debug\netcoreapp3.1\Cruise games.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Preparation for exam\Cruise games\obj\Debug\netcoreapp3.1\Cruise games.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Preparation for exam\Cruise games\obj\Debug\netcoreapp3.1\Cruise games.dll
+C:\Users\18022020\Source\Repos\Preparation for exam\Cruise games\obj\Debug\netcoreapp3.1\Cruise games.pdb

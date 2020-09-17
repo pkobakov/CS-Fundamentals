@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Loops\Character Sequence\bin\Debug\netcoreapp2.1\Character Sequence.deps.json
+C:\Users\User\Source\Repos\Loops\Character Sequence\bin\Debug\netcoreapp2.1\Character Sequence.runtimeconfig.json
+C:\Users\User\Source\Repos\Loops\Character Sequence\bin\Debug\netcoreapp2.1\Character Sequence.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Loops\Character Sequence\bin\Debug\netcoreapp2.1\Character Sequence.dll
+C:\Users\User\Source\Repos\Loops\Character Sequence\bin\Debug\netcoreapp2.1\Character Sequence.pdb
+C:\Users\User\Source\Repos\Loops\Character Sequence\obj\Debug\netcoreapp2.1\Character Sequence.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Loops\Character Sequence\obj\Debug\netcoreapp2.1\Character Sequence.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Loops\Character Sequence\obj\Debug\netcoreapp2.1\Character Sequence.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Loops\Character Sequence\obj\Debug\netcoreapp2.1\Character Sequence.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Loops\Character Sequence\obj\Debug\netcoreapp2.1\Character Sequence.dll
+C:\Users\User\Source\Repos\Loops\Character Sequence\obj\Debug\netcoreapp2.1\Character Sequence.pdb

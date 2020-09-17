@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Methods Exercise\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.exe
+C:\Users\25042020\source\repos\Methods Exercise\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.deps.json
+C:\Users\25042020\source\repos\Methods Exercise\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.runtimeconfig.json
+C:\Users\25042020\source\repos\Methods Exercise\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Methods Exercise\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.dll
+C:\Users\25042020\source\repos\Methods Exercise\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.pdb
+C:\Users\25042020\source\repos\Methods Exercise\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Methods Exercise\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Methods Exercise\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Methods Exercise\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Methods Exercise\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.dll
+C:\Users\25042020\source\repos\Methods Exercise\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.pdb
+C:\Users\25042020\source\repos\Methods Exercise\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Warrior's Quest\bin\Debug\netcoreapp3.1\Warrior's Quest.exe
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Warrior's Quest\bin\Debug\netcoreapp3.1\Warrior's Quest.deps.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Warrior's Quest\bin\Debug\netcoreapp3.1\Warrior's Quest.runtimeconfig.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Warrior's Quest\bin\Debug\netcoreapp3.1\Warrior's Quest.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Warrior's Quest\bin\Debug\netcoreapp3.1\Warrior's Quest.dll
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Warrior's Quest\bin\Debug\netcoreapp3.1\Warrior's Quest.pdb
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Warrior's Quest\obj\Debug\netcoreapp3.1\Warrior's Quest.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Warrior's Quest\obj\Debug\netcoreapp3.1\Warrior's Quest.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Warrior's Quest\obj\Debug\netcoreapp3.1\Warrior's Quest.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Warrior's Quest\obj\Debug\netcoreapp3.1\Warrior's Quest.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Warrior's Quest\obj\Debug\netcoreapp3.1\Warrior's Quest.dll
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Warrior's Quest\obj\Debug\netcoreapp3.1\Warrior's Quest.pdb
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Warrior's Quest\obj\Debug\netcoreapp3.1\Warrior's Quest.genruntimeconfig.cache

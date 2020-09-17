@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Objects_and_Classes\Songs\bin\Debug\netcoreapp3.1\Songs.exe
+C:\Users\25042020\source\repos\Objects_and_Classes\Songs\bin\Debug\netcoreapp3.1\Songs.deps.json
+C:\Users\25042020\source\repos\Objects_and_Classes\Songs\bin\Debug\netcoreapp3.1\Songs.runtimeconfig.json
+C:\Users\25042020\source\repos\Objects_and_Classes\Songs\bin\Debug\netcoreapp3.1\Songs.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Objects_and_Classes\Songs\bin\Debug\netcoreapp3.1\Songs.dll
+C:\Users\25042020\source\repos\Objects_and_Classes\Songs\bin\Debug\netcoreapp3.1\Songs.pdb
+C:\Users\25042020\source\repos\Objects_and_Classes\Songs\obj\Debug\netcoreapp3.1\Songs.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Objects_and_Classes\Songs\obj\Debug\netcoreapp3.1\Songs.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Objects_and_Classes\Songs\obj\Debug\netcoreapp3.1\Songs.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Objects_and_Classes\Songs\obj\Debug\netcoreapp3.1\Songs.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Objects_and_Classes\Songs\obj\Debug\netcoreapp3.1\Songs.dll
+C:\Users\25042020\source\repos\Objects_and_Classes\Songs\obj\Debug\netcoreapp3.1\Songs.pdb
+C:\Users\25042020\source\repos\Objects_and_Classes\Songs\obj\Debug\netcoreapp3.1\Songs.genruntimeconfig.cache

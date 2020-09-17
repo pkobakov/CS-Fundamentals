@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\Print Part of the ASCII Table.exe
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\Print Part of the ASCII Table.deps.json
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\Print Part of the ASCII Table.runtimeconfig.json
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\Print Part of the ASCII Table.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\Print Part of the ASCII Table.dll
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\Print Part of the ASCII Table.pdb
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\Print Part of the ASCII Table.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\Print Part of the ASCII Table.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\Print Part of the ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\Print Part of the ASCII Table.dll
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\Print Part of the ASCII Table.pdb
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\Print Part of the ASCII Table.genruntimeconfig.cache
+C:\Users\25042020\source\repos\Data Types and Variables Exersize\Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\Print Part of the ASCII Table.csprojAssemblyReference.cache

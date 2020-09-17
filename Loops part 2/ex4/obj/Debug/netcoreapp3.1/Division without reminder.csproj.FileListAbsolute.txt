@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Loops part 2\ex4\bin\Debug\netcoreapp3.1\Division without reminder.exe
+C:\Users\18022020\Source\Repos\Loops part 2\ex4\bin\Debug\netcoreapp3.1\Division without reminder.deps.json
+C:\Users\18022020\Source\Repos\Loops part 2\ex4\bin\Debug\netcoreapp3.1\Division without reminder.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Loops part 2\ex4\bin\Debug\netcoreapp3.1\Division without reminder.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Loops part 2\ex4\bin\Debug\netcoreapp3.1\Division without reminder.dll
+C:\Users\18022020\Source\Repos\Loops part 2\ex4\bin\Debug\netcoreapp3.1\Division without reminder.pdb
+C:\Users\18022020\Source\Repos\Loops part 2\ex4\obj\Debug\netcoreapp3.1\Division without reminder.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Loops part 2\ex4\obj\Debug\netcoreapp3.1\Division without reminder.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Loops part 2\ex4\obj\Debug\netcoreapp3.1\Division without reminder.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Loops part 2\ex4\obj\Debug\netcoreapp3.1\Division without reminder.dll
+C:\Users\18022020\Source\Repos\Loops part 2\ex4\obj\Debug\netcoreapp3.1\Division without reminder.pdb

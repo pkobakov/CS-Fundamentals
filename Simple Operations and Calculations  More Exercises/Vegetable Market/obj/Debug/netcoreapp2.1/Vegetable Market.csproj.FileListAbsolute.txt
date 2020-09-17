@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Vegetable Market\bin\Debug\netcoreapp2.1\Vegetable Market.deps.json
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Vegetable Market\bin\Debug\netcoreapp2.1\Vegetable Market.runtimeconfig.json
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Vegetable Market\bin\Debug\netcoreapp2.1\Vegetable Market.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Vegetable Market\bin\Debug\netcoreapp2.1\Vegetable Market.dll
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Vegetable Market\bin\Debug\netcoreapp2.1\Vegetable Market.pdb
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Vegetable Market\obj\Debug\netcoreapp2.1\Vegetable Market.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Vegetable Market\obj\Debug\netcoreapp2.1\Vegetable Market.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Vegetable Market\obj\Debug\netcoreapp2.1\Vegetable Market.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Vegetable Market\obj\Debug\netcoreapp2.1\Vegetable Market.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Vegetable Market\obj\Debug\netcoreapp2.1\Vegetable Market.dll
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Vegetable Market\obj\Debug\netcoreapp2.1\Vegetable Market.pdb

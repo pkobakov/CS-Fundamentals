@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Conditional statements exercise\Practice\bin\Debug\netcoreapp2.1\Practice.deps.json
+C:\Users\User\Source\Repos\Conditional statements exercise\Practice\bin\Debug\netcoreapp2.1\Practice.runtimeconfig.json
+C:\Users\User\Source\Repos\Conditional statements exercise\Practice\bin\Debug\netcoreapp2.1\Practice.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Conditional statements exercise\Practice\bin\Debug\netcoreapp2.1\Practice.dll
+C:\Users\User\Source\Repos\Conditional statements exercise\Practice\bin\Debug\netcoreapp2.1\Practice.pdb
+C:\Users\User\Source\Repos\Conditional statements exercise\Practice\obj\Debug\netcoreapp2.1\Practice.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Conditional statements exercise\Practice\obj\Debug\netcoreapp2.1\Practice.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Conditional statements exercise\Practice\obj\Debug\netcoreapp2.1\Practice.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Conditional statements exercise\Practice\obj\Debug\netcoreapp2.1\Practice.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Conditional statements exercise\Practice\obj\Debug\netcoreapp2.1\Practice.dll
+C:\Users\User\Source\Repos\Conditional statements exercise\Practice\obj\Debug\netcoreapp2.1\Practice.pdb

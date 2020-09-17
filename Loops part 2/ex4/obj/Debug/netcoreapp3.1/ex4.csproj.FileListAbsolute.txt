@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Loops part 2\ex4\obj\Debug\netcoreapp3.1\ex4.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Loops part 2\ex4\obj\Debug\netcoreapp3.1\ex4.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Loops part 2\ex4\obj\Debug\netcoreapp3.1\ex4.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Loops part 2\ex4\bin\Debug\netcoreapp3.1\ex4.exe
+C:\Users\18022020\Source\Repos\Loops part 2\ex4\bin\Debug\netcoreapp3.1\ex4.deps.json
+C:\Users\18022020\Source\Repos\Loops part 2\ex4\bin\Debug\netcoreapp3.1\ex4.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Loops part 2\ex4\bin\Debug\netcoreapp3.1\ex4.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Loops part 2\ex4\bin\Debug\netcoreapp3.1\ex4.dll
+C:\Users\18022020\Source\Repos\Loops part 2\ex4\bin\Debug\netcoreapp3.1\ex4.pdb
+C:\Users\18022020\Source\Repos\Loops part 2\ex4\obj\Debug\netcoreapp3.1\ex4.dll
+C:\Users\18022020\Source\Repos\Loops part 2\ex4\obj\Debug\netcoreapp3.1\ex4.pdb

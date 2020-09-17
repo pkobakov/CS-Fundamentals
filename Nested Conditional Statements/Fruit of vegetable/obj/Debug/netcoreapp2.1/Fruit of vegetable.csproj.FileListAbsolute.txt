@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Nested Conditional Statements\Fruit of vegetable\obj\Debug\netcoreapp2.1\Fruit of vegetable.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Nested Conditional Statements\Fruit of vegetable\obj\Debug\netcoreapp2.1\Fruit of vegetable.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Nested Conditional Statements\Fruit of vegetable\obj\Debug\netcoreapp2.1\Fruit of vegetable.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Nested Conditional Statements\Fruit of vegetable\obj\Debug\netcoreapp2.1\Fruit of vegetable.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Nested Conditional Statements\Fruit of vegetable\bin\Debug\netcoreapp2.1\Fruit of vegetable.deps.json
+C:\Users\User\Source\Repos\Nested Conditional Statements\Fruit of vegetable\bin\Debug\netcoreapp2.1\Fruit of vegetable.runtimeconfig.json
+C:\Users\User\Source\Repos\Nested Conditional Statements\Fruit of vegetable\bin\Debug\netcoreapp2.1\Fruit of vegetable.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Nested Conditional Statements\Fruit of vegetable\bin\Debug\netcoreapp2.1\Fruit of vegetable.dll
+C:\Users\User\Source\Repos\Nested Conditional Statements\Fruit of vegetable\bin\Debug\netcoreapp2.1\Fruit of vegetable.pdb
+C:\Users\User\Source\Repos\Nested Conditional Statements\Fruit of vegetable\obj\Debug\netcoreapp2.1\Fruit of vegetable.dll
+C:\Users\User\Source\Repos\Nested Conditional Statements\Fruit of vegetable\obj\Debug\netcoreapp2.1\Fruit of vegetable.pdb

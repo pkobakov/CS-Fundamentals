@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zRe54/bWyqD7VqZ6TiG/RBjDkJQ29D+HkebZYdZ0dgOsOrh0g5nX5/6IAMVr7I/Jf/UOT1SeT1An6fWoghIl4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\25042020\\source\\repos\\Data Types and Variables Lab\\Convert Meters to Kilometers\\Convert Meters to Kilometers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\25042020\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

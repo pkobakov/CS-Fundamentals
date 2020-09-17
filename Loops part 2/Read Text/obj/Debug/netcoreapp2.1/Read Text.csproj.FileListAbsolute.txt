@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Loops part 2\Read Text\bin\Debug\netcoreapp2.1\Read Text.deps.json
+C:\Users\User\Source\Repos\Loops part 2\Read Text\bin\Debug\netcoreapp2.1\Read Text.runtimeconfig.json
+C:\Users\User\Source\Repos\Loops part 2\Read Text\bin\Debug\netcoreapp2.1\Read Text.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Loops part 2\Read Text\bin\Debug\netcoreapp2.1\Read Text.dll
+C:\Users\User\Source\Repos\Loops part 2\Read Text\bin\Debug\netcoreapp2.1\Read Text.pdb
+C:\Users\User\Source\Repos\Loops part 2\Read Text\obj\Debug\netcoreapp2.1\Read Text.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Loops part 2\Read Text\obj\Debug\netcoreapp2.1\Read Text.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Loops part 2\Read Text\obj\Debug\netcoreapp2.1\Read Text.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Loops part 2\Read Text\obj\Debug\netcoreapp2.1\Read Text.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Loops part 2\Read Text\obj\Debug\netcoreapp2.1\Read Text.dll
+C:\Users\User\Source\Repos\Loops part 2\Read Text\obj\Debug\netcoreapp2.1\Read Text.pdb

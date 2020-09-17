@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - World Tour\bin\Debug\netcoreapp3.1\Final Exam - World Tour.exe
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - World Tour\bin\Debug\netcoreapp3.1\Final Exam - World Tour.deps.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - World Tour\bin\Debug\netcoreapp3.1\Final Exam - World Tour.runtimeconfig.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - World Tour\bin\Debug\netcoreapp3.1\Final Exam - World Tour.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - World Tour\bin\Debug\netcoreapp3.1\Final Exam - World Tour.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - World Tour\bin\Debug\netcoreapp3.1\Final Exam - World Tour.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - World Tour\obj\Debug\netcoreapp3.1\Final Exam - World Tour.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - World Tour\obj\Debug\netcoreapp3.1\Final Exam - World Tour.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - World Tour\obj\Debug\netcoreapp3.1\Final Exam - World Tour.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - World Tour\obj\Debug\netcoreapp3.1\Final Exam - World Tour.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - World Tour\obj\Debug\netcoreapp3.1\Final Exam - World Tour.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - World Tour\obj\Debug\netcoreapp3.1\Final Exam - World Tour.genruntimeconfig.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - World Tour\obj\Debug\netcoreapp3.1\Final Exam - World Tour.csprojAssemblyReference.cache

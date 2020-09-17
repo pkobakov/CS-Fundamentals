@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Name Game\bin\Debug\netcoreapp3.1\Name Game.exe
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Name Game\bin\Debug\netcoreapp3.1\Name Game.deps.json
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Name Game\bin\Debug\netcoreapp3.1\Name Game.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Name Game\bin\Debug\netcoreapp3.1\Name Game.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Name Game\bin\Debug\netcoreapp3.1\Name Game.dll
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Name Game\bin\Debug\netcoreapp3.1\Name Game.pdb
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Name Game\obj\Debug\netcoreapp3.1\Name Game.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Name Game\obj\Debug\netcoreapp3.1\Name Game.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Name Game\obj\Debug\netcoreapp3.1\Name Game.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Name Game\obj\Debug\netcoreapp3.1\Name Game.dll
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Name Game\obj\Debug\netcoreapp3.1\Name Game.pdb

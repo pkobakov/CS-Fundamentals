@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Preparation for exam\Sea Trip\bin\Debug\netcoreapp3.1\Sea Trip.exe
+C:\Users\18022020\Source\Repos\Preparation for exam\Sea Trip\bin\Debug\netcoreapp3.1\Sea Trip.deps.json
+C:\Users\18022020\Source\Repos\Preparation for exam\Sea Trip\bin\Debug\netcoreapp3.1\Sea Trip.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Preparation for exam\Sea Trip\bin\Debug\netcoreapp3.1\Sea Trip.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Preparation for exam\Sea Trip\bin\Debug\netcoreapp3.1\Sea Trip.dll
+C:\Users\18022020\Source\Repos\Preparation for exam\Sea Trip\bin\Debug\netcoreapp3.1\Sea Trip.pdb
+C:\Users\18022020\Source\Repos\Preparation for exam\Sea Trip\obj\Debug\netcoreapp3.1\Sea Trip.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Preparation for exam\Sea Trip\obj\Debug\netcoreapp3.1\Sea Trip.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Preparation for exam\Sea Trip\obj\Debug\netcoreapp3.1\Sea Trip.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Preparation for exam\Sea Trip\obj\Debug\netcoreapp3.1\Sea Trip.dll
+C:\Users\18022020\Source\Repos\Preparation for exam\Sea Trip\obj\Debug\netcoreapp3.1\Sea Trip.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Loops part 2\Account Balance\bin\Debug\netcoreapp2.1\Account Balance.deps.json
+C:\Users\User\Source\Repos\Loops part 2\Account Balance\bin\Debug\netcoreapp2.1\Account Balance.runtimeconfig.json
+C:\Users\User\Source\Repos\Loops part 2\Account Balance\bin\Debug\netcoreapp2.1\Account Balance.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Loops part 2\Account Balance\bin\Debug\netcoreapp2.1\Account Balance.dll
+C:\Users\User\Source\Repos\Loops part 2\Account Balance\bin\Debug\netcoreapp2.1\Account Balance.pdb
+C:\Users\User\Source\Repos\Loops part 2\Account Balance\obj\Debug\netcoreapp2.1\Account Balance.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Loops part 2\Account Balance\obj\Debug\netcoreapp2.1\Account Balance.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Loops part 2\Account Balance\obj\Debug\netcoreapp2.1\Account Balance.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Loops part 2\Account Balance\obj\Debug\netcoreapp2.1\Account Balance.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Loops part 2\Account Balance\obj\Debug\netcoreapp2.1\Account Balance.dll
+C:\Users\User\Source\Repos\Loops part 2\Account Balance\obj\Debug\netcoreapp2.1\Account Balance.pdb

@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - Plant Discovery\bin\Debug\netcoreapp3.1\Final Exam - Plant Discovery.exe
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - Plant Discovery\bin\Debug\netcoreapp3.1\Final Exam - Plant Discovery.deps.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - Plant Discovery\bin\Debug\netcoreapp3.1\Final Exam - Plant Discovery.runtimeconfig.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - Plant Discovery\bin\Debug\netcoreapp3.1\Final Exam - Plant Discovery.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - Plant Discovery\bin\Debug\netcoreapp3.1\Final Exam - Plant Discovery.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - Plant Discovery\bin\Debug\netcoreapp3.1\Final Exam - Plant Discovery.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - Plant Discovery\obj\Debug\netcoreapp3.1\Final Exam - Plant Discovery.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - Plant Discovery\obj\Debug\netcoreapp3.1\Final Exam - Plant Discovery.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - Plant Discovery\obj\Debug\netcoreapp3.1\Final Exam - Plant Discovery.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - Plant Discovery\obj\Debug\netcoreapp3.1\Final Exam - Plant Discovery.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - Plant Discovery\obj\Debug\netcoreapp3.1\Final Exam - Plant Discovery.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - Plant Discovery\obj\Debug\netcoreapp3.1\Final Exam - Plant Discovery.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - Plant Discovery\obj\Debug\netcoreapp3.1\Final Exam - Plant Discovery.genruntimeconfig.cache

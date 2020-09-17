@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Preparation for exam\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.exe
+C:\Users\18022020\Source\Repos\Preparation for exam\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.deps.json
+C:\Users\18022020\Source\Repos\Preparation for exam\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Preparation for exam\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Preparation for exam\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.dll
+C:\Users\18022020\Source\Repos\Preparation for exam\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.pdb
+C:\Users\18022020\Source\Repos\Preparation for exam\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Preparation for exam\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Preparation for exam\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Preparation for exam\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.dll
+C:\Users\18022020\Source\Repos\Preparation for exam\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.pdb

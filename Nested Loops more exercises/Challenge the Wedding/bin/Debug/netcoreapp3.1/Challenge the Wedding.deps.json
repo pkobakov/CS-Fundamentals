@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Challenge the Wedding/1.0.0": {
+        "runtime": {
+          "Challenge the Wedding.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Challenge the Wedding/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

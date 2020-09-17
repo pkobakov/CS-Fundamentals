@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\National Court\bin\Debug\netcoreapp3.1\National Court.exe
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\National Court\bin\Debug\netcoreapp3.1\National Court.deps.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\National Court\bin\Debug\netcoreapp3.1\National Court.runtimeconfig.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\National Court\bin\Debug\netcoreapp3.1\National Court.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\National Court\bin\Debug\netcoreapp3.1\National Court.dll
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\National Court\bin\Debug\netcoreapp3.1\National Court.pdb
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\National Court\obj\Debug\netcoreapp3.1\National Court.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\National Court\obj\Debug\netcoreapp3.1\National Court.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\National Court\obj\Debug\netcoreapp3.1\National Court.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\National Court\obj\Debug\netcoreapp3.1\National Court.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\National Court\obj\Debug\netcoreapp3.1\National Court.dll
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\National Court\obj\Debug\netcoreapp3.1\National Court.pdb
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\National Court\obj\Debug\netcoreapp3.1\National Court.genruntimeconfig.cache

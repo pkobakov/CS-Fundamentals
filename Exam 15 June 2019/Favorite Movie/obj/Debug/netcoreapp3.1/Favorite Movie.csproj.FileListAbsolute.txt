@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Favorite Movie\bin\Debug\netcoreapp3.1\Favorite Movie.exe
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Favorite Movie\bin\Debug\netcoreapp3.1\Favorite Movie.deps.json
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Favorite Movie\bin\Debug\netcoreapp3.1\Favorite Movie.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Favorite Movie\bin\Debug\netcoreapp3.1\Favorite Movie.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Favorite Movie\bin\Debug\netcoreapp3.1\Favorite Movie.dll
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Favorite Movie\bin\Debug\netcoreapp3.1\Favorite Movie.pdb
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Favorite Movie\obj\Debug\netcoreapp3.1\Favorite Movie.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Favorite Movie\obj\Debug\netcoreapp3.1\Favorite Movie.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Favorite Movie\obj\Debug\netcoreapp3.1\Favorite Movie.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Favorite Movie\obj\Debug\netcoreapp3.1\Favorite Movie.dll
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Favorite Movie\obj\Debug\netcoreapp3.1\Favorite Movie.pdb

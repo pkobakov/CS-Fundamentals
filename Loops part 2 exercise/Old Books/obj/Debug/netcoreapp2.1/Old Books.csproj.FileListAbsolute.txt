@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Loops part 2 exercise\Old Books\bin\Debug\netcoreapp2.1\Old Books.deps.json
+C:\Users\User\Source\Repos\Loops part 2 exercise\Old Books\bin\Debug\netcoreapp2.1\Old Books.runtimeconfig.json
+C:\Users\User\Source\Repos\Loops part 2 exercise\Old Books\bin\Debug\netcoreapp2.1\Old Books.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Loops part 2 exercise\Old Books\bin\Debug\netcoreapp2.1\Old Books.dll
+C:\Users\User\Source\Repos\Loops part 2 exercise\Old Books\bin\Debug\netcoreapp2.1\Old Books.pdb
+C:\Users\User\Source\Repos\Loops part 2 exercise\Old Books\obj\Debug\netcoreapp2.1\Old Books.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Loops part 2 exercise\Old Books\obj\Debug\netcoreapp2.1\Old Books.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Loops part 2 exercise\Old Books\obj\Debug\netcoreapp2.1\Old Books.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Loops part 2 exercise\Old Books\obj\Debug\netcoreapp2.1\Old Books.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Loops part 2 exercise\Old Books\obj\Debug\netcoreapp2.1\Old Books.dll
+C:\Users\User\Source\Repos\Loops part 2 exercise\Old Books\obj\Debug\netcoreapp2.1\Old Books.pdb

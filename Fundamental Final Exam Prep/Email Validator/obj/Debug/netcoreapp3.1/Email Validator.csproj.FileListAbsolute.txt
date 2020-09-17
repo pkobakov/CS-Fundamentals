@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Email Validator\obj\Debug\netcoreapp3.1\Email Validator.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Email Validator\obj\Debug\netcoreapp3.1\Email Validator.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Email Validator\obj\Debug\netcoreapp3.1\Email Validator.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Email Validator\obj\Debug\netcoreapp3.1\Email Validator.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Email Validator\bin\Debug\netcoreapp3.1\Email Validator.exe
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Email Validator\bin\Debug\netcoreapp3.1\Email Validator.deps.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Email Validator\bin\Debug\netcoreapp3.1\Email Validator.runtimeconfig.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Email Validator\bin\Debug\netcoreapp3.1\Email Validator.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Email Validator\bin\Debug\netcoreapp3.1\Email Validator.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Email Validator\bin\Debug\netcoreapp3.1\Email Validator.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Email Validator\obj\Debug\netcoreapp3.1\Email Validator.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Email Validator\obj\Debug\netcoreapp3.1\Email Validator.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Email Validator\obj\Debug\netcoreapp3.1\Email Validator.genruntimeconfig.cache

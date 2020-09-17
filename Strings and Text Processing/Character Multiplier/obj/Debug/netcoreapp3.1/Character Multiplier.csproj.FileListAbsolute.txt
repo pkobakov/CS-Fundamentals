@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Strings and Text Processing\Character Multiplier\bin\Debug\netcoreapp3.1\Character Multiplier.exe
+C:\Users\25042020\source\repos\Strings and Text Processing\Character Multiplier\bin\Debug\netcoreapp3.1\Character Multiplier.deps.json
+C:\Users\25042020\source\repos\Strings and Text Processing\Character Multiplier\bin\Debug\netcoreapp3.1\Character Multiplier.runtimeconfig.json
+C:\Users\25042020\source\repos\Strings and Text Processing\Character Multiplier\bin\Debug\netcoreapp3.1\Character Multiplier.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Strings and Text Processing\Character Multiplier\bin\Debug\netcoreapp3.1\Character Multiplier.dll
+C:\Users\25042020\source\repos\Strings and Text Processing\Character Multiplier\bin\Debug\netcoreapp3.1\Character Multiplier.pdb
+C:\Users\25042020\source\repos\Strings and Text Processing\Character Multiplier\obj\Debug\netcoreapp3.1\Character Multiplier.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Strings and Text Processing\Character Multiplier\obj\Debug\netcoreapp3.1\Character Multiplier.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Strings and Text Processing\Character Multiplier\obj\Debug\netcoreapp3.1\Character Multiplier.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Strings and Text Processing\Character Multiplier\obj\Debug\netcoreapp3.1\Character Multiplier.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Strings and Text Processing\Character Multiplier\obj\Debug\netcoreapp3.1\Character Multiplier.dll
+C:\Users\25042020\source\repos\Strings and Text Processing\Character Multiplier\obj\Debug\netcoreapp3.1\Character Multiplier.pdb
+C:\Users\25042020\source\repos\Strings and Text Processing\Character Multiplier\obj\Debug\netcoreapp3.1\Character Multiplier.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Froggy Squad\bin\Debug\netcoreapp3.1\Froggy Squad.exe
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Froggy Squad\bin\Debug\netcoreapp3.1\Froggy Squad.deps.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Froggy Squad\bin\Debug\netcoreapp3.1\Froggy Squad.runtimeconfig.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Froggy Squad\bin\Debug\netcoreapp3.1\Froggy Squad.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Froggy Squad\bin\Debug\netcoreapp3.1\Froggy Squad.dll
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Froggy Squad\bin\Debug\netcoreapp3.1\Froggy Squad.pdb
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Froggy Squad\obj\Debug\netcoreapp3.1\Froggy Squad.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Froggy Squad\obj\Debug\netcoreapp3.1\Froggy Squad.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Froggy Squad\obj\Debug\netcoreapp3.1\Froggy Squad.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Froggy Squad\obj\Debug\netcoreapp3.1\Froggy Squad.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Froggy Squad\obj\Debug\netcoreapp3.1\Froggy Squad.dll
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Froggy Squad\obj\Debug\netcoreapp3.1\Froggy Squad.pdb
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Froggy Squad\obj\Debug\netcoreapp3.1\Froggy Squad.genruntimeconfig.cache

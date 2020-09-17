@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Conditional statements\Even or odd\bin\Debug\netcoreapp2.1\Even or odd.deps.json
+C:\Users\User\Source\Repos\Conditional statements\Even or odd\bin\Debug\netcoreapp2.1\Even or odd.runtimeconfig.json
+C:\Users\User\Source\Repos\Conditional statements\Even or odd\bin\Debug\netcoreapp2.1\Even or odd.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Conditional statements\Even or odd\bin\Debug\netcoreapp2.1\Even or odd.dll
+C:\Users\User\Source\Repos\Conditional statements\Even or odd\bin\Debug\netcoreapp2.1\Even or odd.pdb
+C:\Users\User\Source\Repos\Conditional statements\Even or odd\obj\Debug\netcoreapp2.1\Even or odd.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Conditional statements\Even or odd\obj\Debug\netcoreapp2.1\Even or odd.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Conditional statements\Even or odd\obj\Debug\netcoreapp2.1\Even or odd.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Conditional statements\Even or odd\obj\Debug\netcoreapp2.1\Even or odd.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Conditional statements\Even or odd\obj\Debug\netcoreapp2.1\Even or odd.dll
+C:\Users\User\Source\Repos\Conditional statements\Even or odd\obj\Debug\netcoreapp2.1\Even or odd.pdb

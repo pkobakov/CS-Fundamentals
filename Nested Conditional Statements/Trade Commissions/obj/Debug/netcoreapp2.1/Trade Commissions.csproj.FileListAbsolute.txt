@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Nested Conditional Statements\Trade Commissions\bin\Debug\netcoreapp2.1\Trade Commissions.deps.json
+C:\Users\User\Source\Repos\Nested Conditional Statements\Trade Commissions\bin\Debug\netcoreapp2.1\Trade Commissions.runtimeconfig.json
+C:\Users\User\Source\Repos\Nested Conditional Statements\Trade Commissions\bin\Debug\netcoreapp2.1\Trade Commissions.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Nested Conditional Statements\Trade Commissions\bin\Debug\netcoreapp2.1\Trade Commissions.dll
+C:\Users\User\Source\Repos\Nested Conditional Statements\Trade Commissions\bin\Debug\netcoreapp2.1\Trade Commissions.pdb
+C:\Users\User\Source\Repos\Nested Conditional Statements\Trade Commissions\obj\Debug\netcoreapp2.1\Trade Commissions.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Nested Conditional Statements\Trade Commissions\obj\Debug\netcoreapp2.1\Trade Commissions.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Nested Conditional Statements\Trade Commissions\obj\Debug\netcoreapp2.1\Trade Commissions.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Nested Conditional Statements\Trade Commissions\obj\Debug\netcoreapp2.1\Trade Commissions.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Nested Conditional Statements\Trade Commissions\obj\Debug\netcoreapp2.1\Trade Commissions.dll
+C:\Users\User\Source\Repos\Nested Conditional Statements\Trade Commissions\obj\Debug\netcoreapp2.1\Trade Commissions.pdb

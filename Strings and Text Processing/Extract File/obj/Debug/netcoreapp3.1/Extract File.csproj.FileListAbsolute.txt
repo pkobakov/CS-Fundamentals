@@ -1,0 +1,12 @@
+C:\Users\25042020\source\repos\Strings and Text Processing\Extract File\bin\Debug\netcoreapp3.1\Extract File.exe
+C:\Users\25042020\source\repos\Strings and Text Processing\Extract File\bin\Debug\netcoreapp3.1\Extract File.deps.json
+C:\Users\25042020\source\repos\Strings and Text Processing\Extract File\bin\Debug\netcoreapp3.1\Extract File.runtimeconfig.json
+C:\Users\25042020\source\repos\Strings and Text Processing\Extract File\bin\Debug\netcoreapp3.1\Extract File.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Strings and Text Processing\Extract File\bin\Debug\netcoreapp3.1\Extract File.dll
+C:\Users\25042020\source\repos\Strings and Text Processing\Extract File\bin\Debug\netcoreapp3.1\Extract File.pdb
+C:\Users\25042020\source\repos\Strings and Text Processing\Extract File\obj\Debug\netcoreapp3.1\Extract File.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Strings and Text Processing\Extract File\obj\Debug\netcoreapp3.1\Extract File.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Strings and Text Processing\Extract File\obj\Debug\netcoreapp3.1\Extract File.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Strings and Text Processing\Extract File\obj\Debug\netcoreapp3.1\Extract File.dll
+C:\Users\25042020\source\repos\Strings and Text Processing\Extract File\obj\Debug\netcoreapp3.1\Extract File.pdb
+C:\Users\25042020\source\repos\Strings and Text Processing\Extract File\obj\Debug\netcoreapp3.1\Extract File.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Pool Day\bin\Debug\netcoreapp3.1\Pool Day.exe
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Pool Day\bin\Debug\netcoreapp3.1\Pool Day.deps.json
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Pool Day\bin\Debug\netcoreapp3.1\Pool Day.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Pool Day\bin\Debug\netcoreapp3.1\Pool Day.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Pool Day\bin\Debug\netcoreapp3.1\Pool Day.dll
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Pool Day\bin\Debug\netcoreapp3.1\Pool Day.pdb
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Pool Day\obj\Debug\netcoreapp3.1\Pool Day.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Pool Day\obj\Debug\netcoreapp3.1\Pool Day.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Pool Day\obj\Debug\netcoreapp3.1\Pool Day.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Pool Day\obj\Debug\netcoreapp3.1\Pool Day.dll
+C:\Users\18022020\Source\Repos\Exam 6 July 2019\Pool Day\obj\Debug\netcoreapp3.1\Pool Day.pdb

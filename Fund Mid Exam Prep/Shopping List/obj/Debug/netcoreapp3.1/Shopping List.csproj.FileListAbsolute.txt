@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Shopping List\obj\Debug\netcoreapp3.1\Shopping List.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Shopping List\obj\Debug\netcoreapp3.1\Shopping List.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Shopping List\obj\Debug\netcoreapp3.1\Shopping List.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Shopping List\obj\Debug\netcoreapp3.1\Shopping List.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Shopping List\bin\Debug\netcoreapp3.1\Shopping List.exe
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Shopping List\bin\Debug\netcoreapp3.1\Shopping List.deps.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Shopping List\bin\Debug\netcoreapp3.1\Shopping List.runtimeconfig.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Shopping List\bin\Debug\netcoreapp3.1\Shopping List.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Shopping List\bin\Debug\netcoreapp3.1\Shopping List.dll
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Shopping List\bin\Debug\netcoreapp3.1\Shopping List.pdb
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Shopping List\obj\Debug\netcoreapp3.1\Shopping List.dll
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Shopping List\obj\Debug\netcoreapp3.1\Shopping List.pdb
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Shopping List\obj\Debug\netcoreapp3.1\Shopping List.genruntimeconfig.cache

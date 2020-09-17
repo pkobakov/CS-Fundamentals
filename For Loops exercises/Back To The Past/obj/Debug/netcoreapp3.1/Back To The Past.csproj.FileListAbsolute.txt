@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\For Loops exercises\Back To The Past\bin\Debug\netcoreapp3.1\Back To The Past.exe
+C:\Users\18022020\Source\Repos\For Loops exercises\Back To The Past\bin\Debug\netcoreapp3.1\Back To The Past.deps.json
+C:\Users\18022020\Source\Repos\For Loops exercises\Back To The Past\bin\Debug\netcoreapp3.1\Back To The Past.runtimeconfig.json
+C:\Users\18022020\Source\Repos\For Loops exercises\Back To The Past\bin\Debug\netcoreapp3.1\Back To The Past.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\For Loops exercises\Back To The Past\bin\Debug\netcoreapp3.1\Back To The Past.dll
+C:\Users\18022020\Source\Repos\For Loops exercises\Back To The Past\bin\Debug\netcoreapp3.1\Back To The Past.pdb
+C:\Users\18022020\Source\Repos\For Loops exercises\Back To The Past\obj\Debug\netcoreapp3.1\Back To The Past.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\For Loops exercises\Back To The Past\obj\Debug\netcoreapp3.1\Back To The Past.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\For Loops exercises\Back To The Past\obj\Debug\netcoreapp3.1\Back To The Past.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\For Loops exercises\Back To The Past\obj\Debug\netcoreapp3.1\Back To The Past.dll
+C:\Users\18022020\Source\Repos\For Loops exercises\Back To The Past\obj\Debug\netcoreapp3.1\Back To The Past.pdb

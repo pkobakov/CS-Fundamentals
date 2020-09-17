@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Boss Rush\bin\Debug\netcoreapp3.1\Boss Rush.exe
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Boss Rush\bin\Debug\netcoreapp3.1\Boss Rush.deps.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Boss Rush\bin\Debug\netcoreapp3.1\Boss Rush.runtimeconfig.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Boss Rush\bin\Debug\netcoreapp3.1\Boss Rush.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Boss Rush\bin\Debug\netcoreapp3.1\Boss Rush.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Boss Rush\bin\Debug\netcoreapp3.1\Boss Rush.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Boss Rush\obj\Debug\netcoreapp3.1\Boss Rush.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Boss Rush\obj\Debug\netcoreapp3.1\Boss Rush.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Boss Rush\obj\Debug\netcoreapp3.1\Boss Rush.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Boss Rush\obj\Debug\netcoreapp3.1\Boss Rush.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Boss Rush\obj\Debug\netcoreapp3.1\Boss Rush.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Boss Rush\obj\Debug\netcoreapp3.1\Boss Rush.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Boss Rush\obj\Debug\netcoreapp3.1\Boss Rush.genruntimeconfig.cache

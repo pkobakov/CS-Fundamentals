@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\While loop more exercises\Report System\bin\Debug\netcoreapp3.1\Report System.exe
+C:\Users\18022020\Source\Repos\While loop more exercises\Report System\bin\Debug\netcoreapp3.1\Report System.deps.json
+C:\Users\18022020\Source\Repos\While loop more exercises\Report System\bin\Debug\netcoreapp3.1\Report System.runtimeconfig.json
+C:\Users\18022020\Source\Repos\While loop more exercises\Report System\bin\Debug\netcoreapp3.1\Report System.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\While loop more exercises\Report System\bin\Debug\netcoreapp3.1\Report System.dll
+C:\Users\18022020\Source\Repos\While loop more exercises\Report System\bin\Debug\netcoreapp3.1\Report System.pdb
+C:\Users\18022020\Source\Repos\While loop more exercises\Report System\obj\Debug\netcoreapp3.1\Report System.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\While loop more exercises\Report System\obj\Debug\netcoreapp3.1\Report System.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\While loop more exercises\Report System\obj\Debug\netcoreapp3.1\Report System.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\While loop more exercises\Report System\obj\Debug\netcoreapp3.1\Report System.dll
+C:\Users\18022020\Source\Repos\While loop more exercises\Report System\obj\Debug\netcoreapp3.1\Report System.pdb

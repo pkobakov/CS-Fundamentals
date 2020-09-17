@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Simple calculations exercise\Dance hall\bin\Debug\netcoreapp2.1\Dance hall.deps.json
+C:\Users\User\Source\Repos\Simple calculations exercise\Dance hall\bin\Debug\netcoreapp2.1\Dance hall.runtimeconfig.json
+C:\Users\User\Source\Repos\Simple calculations exercise\Dance hall\bin\Debug\netcoreapp2.1\Dance hall.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Simple calculations exercise\Dance hall\bin\Debug\netcoreapp2.1\Dance hall.dll
+C:\Users\User\Source\Repos\Simple calculations exercise\Dance hall\bin\Debug\netcoreapp2.1\Dance hall.pdb
+C:\Users\User\Source\Repos\Simple calculations exercise\Dance hall\obj\Debug\netcoreapp2.1\Dance hall.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Simple calculations exercise\Dance hall\obj\Debug\netcoreapp2.1\Dance hall.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Simple calculations exercise\Dance hall\obj\Debug\netcoreapp2.1\Dance hall.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Simple calculations exercise\Dance hall\obj\Debug\netcoreapp2.1\Dance hall.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Simple calculations exercise\Dance hall\obj\Debug\netcoreapp2.1\Dance hall.dll
+C:\Users\User\Source\Repos\Simple calculations exercise\Dance hall\obj\Debug\netcoreapp2.1\Dance hall.pdb

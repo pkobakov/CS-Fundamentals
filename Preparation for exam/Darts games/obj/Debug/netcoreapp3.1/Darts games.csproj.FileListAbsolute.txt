@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Preparation for exam\Darts games\bin\Debug\netcoreapp3.1\Darts games.exe
+C:\Users\18022020\Source\Repos\Preparation for exam\Darts games\bin\Debug\netcoreapp3.1\Darts games.deps.json
+C:\Users\18022020\Source\Repos\Preparation for exam\Darts games\bin\Debug\netcoreapp3.1\Darts games.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Preparation for exam\Darts games\bin\Debug\netcoreapp3.1\Darts games.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Preparation for exam\Darts games\bin\Debug\netcoreapp3.1\Darts games.dll
+C:\Users\18022020\Source\Repos\Preparation for exam\Darts games\bin\Debug\netcoreapp3.1\Darts games.pdb
+C:\Users\18022020\Source\Repos\Preparation for exam\Darts games\obj\Debug\netcoreapp3.1\Darts games.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Preparation for exam\Darts games\obj\Debug\netcoreapp3.1\Darts games.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Preparation for exam\Darts games\obj\Debug\netcoreapp3.1\Darts games.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Preparation for exam\Darts games\obj\Debug\netcoreapp3.1\Darts games.dll
+C:\Users\18022020\Source\Repos\Preparation for exam\Darts games\obj\Debug\netcoreapp3.1\Darts games.pdb

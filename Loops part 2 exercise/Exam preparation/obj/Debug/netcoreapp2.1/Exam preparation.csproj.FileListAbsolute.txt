@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Loops part 2 exercise\Exam preparation\bin\Debug\netcoreapp2.1\Exam preparation.deps.json
+C:\Users\User\Source\Repos\Loops part 2 exercise\Exam preparation\bin\Debug\netcoreapp2.1\Exam preparation.runtimeconfig.json
+C:\Users\User\Source\Repos\Loops part 2 exercise\Exam preparation\bin\Debug\netcoreapp2.1\Exam preparation.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Loops part 2 exercise\Exam preparation\bin\Debug\netcoreapp2.1\Exam preparation.dll
+C:\Users\User\Source\Repos\Loops part 2 exercise\Exam preparation\bin\Debug\netcoreapp2.1\Exam preparation.pdb
+C:\Users\User\Source\Repos\Loops part 2 exercise\Exam preparation\obj\Debug\netcoreapp2.1\Exam preparation.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Loops part 2 exercise\Exam preparation\obj\Debug\netcoreapp2.1\Exam preparation.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Loops part 2 exercise\Exam preparation\obj\Debug\netcoreapp2.1\Exam preparation.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Loops part 2 exercise\Exam preparation\obj\Debug\netcoreapp2.1\Exam preparation.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Loops part 2 exercise\Exam preparation\obj\Debug\netcoreapp2.1\Exam preparation.dll
+C:\Users\User\Source\Repos\Loops part 2 exercise\Exam preparation\obj\Debug\netcoreapp2.1\Exam preparation.pdb

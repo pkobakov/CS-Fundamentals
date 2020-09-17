@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Objects_and_Classes\Day of Week\bin\Debug\netcoreapp3.1\Day of Week.exe
+C:\Users\25042020\source\repos\Objects_and_Classes\Day of Week\bin\Debug\netcoreapp3.1\Day of Week.deps.json
+C:\Users\25042020\source\repos\Objects_and_Classes\Day of Week\bin\Debug\netcoreapp3.1\Day of Week.runtimeconfig.json
+C:\Users\25042020\source\repos\Objects_and_Classes\Day of Week\bin\Debug\netcoreapp3.1\Day of Week.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Objects_and_Classes\Day of Week\bin\Debug\netcoreapp3.1\Day of Week.dll
+C:\Users\25042020\source\repos\Objects_and_Classes\Day of Week\bin\Debug\netcoreapp3.1\Day of Week.pdb
+C:\Users\25042020\source\repos\Objects_and_Classes\Day of Week\obj\Debug\netcoreapp3.1\Day of Week.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Objects_and_Classes\Day of Week\obj\Debug\netcoreapp3.1\Day of Week.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Objects_and_Classes\Day of Week\obj\Debug\netcoreapp3.1\Day of Week.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Objects_and_Classes\Day of Week\obj\Debug\netcoreapp3.1\Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Objects_and_Classes\Day of Week\obj\Debug\netcoreapp3.1\Day of Week.dll
+C:\Users\25042020\source\repos\Objects_and_Classes\Day of Week\obj\Debug\netcoreapp3.1\Day of Week.pdb
+C:\Users\25042020\source\repos\Objects_and_Classes\Day of Week\obj\Debug\netcoreapp3.1\Day of Week.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\For Loops exercises\Hospital\bin\Debug\netcoreapp3.1\Hospital.exe
+C:\Users\18022020\Source\Repos\For Loops exercises\Hospital\bin\Debug\netcoreapp3.1\Hospital.deps.json
+C:\Users\18022020\Source\Repos\For Loops exercises\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.json
+C:\Users\18022020\Source\Repos\For Loops exercises\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\For Loops exercises\Hospital\bin\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\18022020\Source\Repos\For Loops exercises\Hospital\bin\Debug\netcoreapp3.1\Hospital.pdb
+C:\Users\18022020\Source\Repos\For Loops exercises\Hospital\obj\Debug\netcoreapp3.1\Hospital.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\For Loops exercises\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\For Loops exercises\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\For Loops exercises\Hospital\obj\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\18022020\Source\Repos\For Loops exercises\Hospital\obj\Debug\netcoreapp3.1\Hospital.pdb

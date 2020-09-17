@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.exe
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.deps.json
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.runtimeconfig.json
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.dll
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.pdb
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.dll
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.pdb
+C:\Users\25042020\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.genruntimeconfig.cache

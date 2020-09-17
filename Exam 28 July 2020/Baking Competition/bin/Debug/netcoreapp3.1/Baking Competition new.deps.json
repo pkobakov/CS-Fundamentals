@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Baking Competition new/1.0.0": {
+        "runtime": {
+          "Baking Competition new.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Baking Competition new/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Preparation for exam\Sushi Time\bin\Debug\netcoreapp3.1\Sushi Time.exe
+C:\Users\18022020\Source\Repos\Preparation for exam\Sushi Time\bin\Debug\netcoreapp3.1\Sushi Time.deps.json
+C:\Users\18022020\Source\Repos\Preparation for exam\Sushi Time\bin\Debug\netcoreapp3.1\Sushi Time.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Preparation for exam\Sushi Time\bin\Debug\netcoreapp3.1\Sushi Time.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Preparation for exam\Sushi Time\bin\Debug\netcoreapp3.1\Sushi Time.dll
+C:\Users\18022020\Source\Repos\Preparation for exam\Sushi Time\bin\Debug\netcoreapp3.1\Sushi Time.pdb
+C:\Users\18022020\Source\Repos\Preparation for exam\Sushi Time\obj\Debug\netcoreapp3.1\Sushi Time.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Preparation for exam\Sushi Time\obj\Debug\netcoreapp3.1\Sushi Time.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Preparation for exam\Sushi Time\obj\Debug\netcoreapp3.1\Sushi Time.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Preparation for exam\Sushi Time\obj\Debug\netcoreapp3.1\Sushi Time.dll
+C:\Users\18022020\Source\Repos\Preparation for exam\Sushi Time\obj\Debug\netcoreapp3.1\Sushi Time.pdb

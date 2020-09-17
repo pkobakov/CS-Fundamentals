@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Preparation for exam\Baking Competition\bin\Debug\netcoreapp3.1\Baking Competition.exe
+C:\Users\18022020\Source\Repos\Preparation for exam\Baking Competition\bin\Debug\netcoreapp3.1\Baking Competition.deps.json
+C:\Users\18022020\Source\Repos\Preparation for exam\Baking Competition\bin\Debug\netcoreapp3.1\Baking Competition.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Preparation for exam\Baking Competition\bin\Debug\netcoreapp3.1\Baking Competition.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Preparation for exam\Baking Competition\bin\Debug\netcoreapp3.1\Baking Competition.dll
+C:\Users\18022020\Source\Repos\Preparation for exam\Baking Competition\bin\Debug\netcoreapp3.1\Baking Competition.pdb
+C:\Users\18022020\Source\Repos\Preparation for exam\Baking Competition\obj\Debug\netcoreapp3.1\Baking Competition.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Preparation for exam\Baking Competition\obj\Debug\netcoreapp3.1\Baking Competition.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Preparation for exam\Baking Competition\obj\Debug\netcoreapp3.1\Baking Competition.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Preparation for exam\Baking Competition\obj\Debug\netcoreapp3.1\Baking Competition.dll
+C:\Users\18022020\Source\Repos\Preparation for exam\Baking Competition\obj\Debug\netcoreapp3.1\Baking Competition.pdb

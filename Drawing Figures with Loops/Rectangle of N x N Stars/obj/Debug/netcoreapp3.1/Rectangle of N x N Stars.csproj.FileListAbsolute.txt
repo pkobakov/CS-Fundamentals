@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Drawing Figures with Loops\Rectangle of N x N Stars\bin\Debug\netcoreapp3.1\Rectangle of N x N Stars.exe
+C:\Users\18022020\Source\Repos\Drawing Figures with Loops\Rectangle of N x N Stars\bin\Debug\netcoreapp3.1\Rectangle of N x N Stars.deps.json
+C:\Users\18022020\Source\Repos\Drawing Figures with Loops\Rectangle of N x N Stars\bin\Debug\netcoreapp3.1\Rectangle of N x N Stars.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Drawing Figures with Loops\Rectangle of N x N Stars\bin\Debug\netcoreapp3.1\Rectangle of N x N Stars.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Drawing Figures with Loops\Rectangle of N x N Stars\bin\Debug\netcoreapp3.1\Rectangle of N x N Stars.dll
+C:\Users\18022020\Source\Repos\Drawing Figures with Loops\Rectangle of N x N Stars\bin\Debug\netcoreapp3.1\Rectangle of N x N Stars.pdb
+C:\Users\18022020\Source\Repos\Drawing Figures with Loops\Rectangle of N x N Stars\obj\Debug\netcoreapp3.1\Rectangle of N x N Stars.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Drawing Figures with Loops\Rectangle of N x N Stars\obj\Debug\netcoreapp3.1\Rectangle of N x N Stars.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Drawing Figures with Loops\Rectangle of N x N Stars\obj\Debug\netcoreapp3.1\Rectangle of N x N Stars.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Drawing Figures with Loops\Rectangle of N x N Stars\obj\Debug\netcoreapp3.1\Rectangle of N x N Stars.dll
+C:\Users\18022020\Source\Repos\Drawing Figures with Loops\Rectangle of N x N Stars\obj\Debug\netcoreapp3.1\Rectangle of N x N Stars.pdb

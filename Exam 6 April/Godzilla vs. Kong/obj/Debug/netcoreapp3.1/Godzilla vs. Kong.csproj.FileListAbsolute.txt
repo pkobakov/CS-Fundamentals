@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Exam 6 April\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Godzilla vs. Kong.exe
+C:\Users\18022020\Source\Repos\Exam 6 April\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Godzilla vs. Kong.deps.json
+C:\Users\18022020\Source\Repos\Exam 6 April\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Godzilla vs. Kong.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Exam 6 April\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Godzilla vs. Kong.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Exam 6 April\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Godzilla vs. Kong.dll
+C:\Users\18022020\Source\Repos\Exam 6 April\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Godzilla vs. Kong.pdb
+C:\Users\18022020\Source\Repos\Exam 6 April\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Godzilla vs. Kong.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Exam 6 April\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Godzilla vs. Kong.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Exam 6 April\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Godzilla vs. Kong.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Exam 6 April\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Godzilla vs. Kong.dll
+C:\Users\18022020\Source\Repos\Exam 6 April\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Godzilla vs. Kong.pdb

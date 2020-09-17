@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Simple Calculations\Inches to cm\bin\Debug\netcoreapp2.1\Inches to cm.deps.json
+C:\Users\User\Source\Repos\Simple Calculations\Inches to cm\bin\Debug\netcoreapp2.1\Inches to cm.runtimeconfig.json
+C:\Users\User\Source\Repos\Simple Calculations\Inches to cm\bin\Debug\netcoreapp2.1\Inches to cm.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Simple Calculations\Inches to cm\bin\Debug\netcoreapp2.1\Inches to cm.dll
+C:\Users\User\Source\Repos\Simple Calculations\Inches to cm\bin\Debug\netcoreapp2.1\Inches to cm.pdb
+C:\Users\User\Source\Repos\Simple Calculations\Inches to cm\obj\Debug\netcoreapp2.1\Inches to cm.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Simple Calculations\Inches to cm\obj\Debug\netcoreapp2.1\Inches to cm.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Simple Calculations\Inches to cm\obj\Debug\netcoreapp2.1\Inches to cm.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Simple Calculations\Inches to cm\obj\Debug\netcoreapp2.1\Inches to cm.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Simple Calculations\Inches to cm\obj\Debug\netcoreapp2.1\Inches to cm.dll
+C:\Users\User\Source\Repos\Simple Calculations\Inches to cm\obj\Debug\netcoreapp2.1\Inches to cm.pdb

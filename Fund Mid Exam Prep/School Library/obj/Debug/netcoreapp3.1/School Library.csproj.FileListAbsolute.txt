@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\School Library\bin\Debug\netcoreapp3.1\School Library.exe
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\School Library\bin\Debug\netcoreapp3.1\School Library.deps.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\School Library\bin\Debug\netcoreapp3.1\School Library.runtimeconfig.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\School Library\bin\Debug\netcoreapp3.1\School Library.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\School Library\bin\Debug\netcoreapp3.1\School Library.dll
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\School Library\bin\Debug\netcoreapp3.1\School Library.pdb
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\School Library\obj\Debug\netcoreapp3.1\School Library.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\School Library\obj\Debug\netcoreapp3.1\School Library.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\School Library\obj\Debug\netcoreapp3.1\School Library.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\School Library\obj\Debug\netcoreapp3.1\School Library.dll
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\School Library\obj\Debug\netcoreapp3.1\School Library.pdb
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\School Library\obj\Debug\netcoreapp3.1\School Library.genruntimeconfig.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\School Library\obj\Debug\netcoreapp3.1\School Library.csprojAssemblyReference.cache

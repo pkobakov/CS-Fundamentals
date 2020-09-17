@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Preparation for exam\Preparation for exam\bin\Debug\netcoreapp3.1\Preparation for exam.exe
+C:\Users\18022020\Source\Repos\Preparation for exam\Preparation for exam\bin\Debug\netcoreapp3.1\Preparation for exam.deps.json
+C:\Users\18022020\Source\Repos\Preparation for exam\Preparation for exam\bin\Debug\netcoreapp3.1\Preparation for exam.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Preparation for exam\Preparation for exam\bin\Debug\netcoreapp3.1\Preparation for exam.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Preparation for exam\Preparation for exam\bin\Debug\netcoreapp3.1\Preparation for exam.dll
+C:\Users\18022020\Source\Repos\Preparation for exam\Preparation for exam\bin\Debug\netcoreapp3.1\Preparation for exam.pdb
+C:\Users\18022020\Source\Repos\Preparation for exam\Preparation for exam\obj\Debug\netcoreapp3.1\Preparation for exam.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Preparation for exam\Preparation for exam\obj\Debug\netcoreapp3.1\Preparation for exam.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Preparation for exam\Preparation for exam\obj\Debug\netcoreapp3.1\Preparation for exam.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Preparation for exam\Preparation for exam\obj\Debug\netcoreapp3.1\Preparation for exam.dll
+C:\Users\18022020\Source\Repos\Preparation for exam\Preparation for exam\obj\Debug\netcoreapp3.1\Preparation for exam.pdb

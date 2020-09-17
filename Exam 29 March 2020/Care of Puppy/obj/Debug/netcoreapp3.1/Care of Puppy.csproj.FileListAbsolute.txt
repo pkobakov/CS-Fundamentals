@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Exam 29 March 2020\Care of Puppy\obj\Debug\netcoreapp3.1\Care of Puppy.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Exam 29 March 2020\Care of Puppy\obj\Debug\netcoreapp3.1\Care of Puppy.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Exam 29 March 2020\Care of Puppy\obj\Debug\netcoreapp3.1\Care of Puppy.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Exam 29 March 2020\Care of Puppy\obj\Debug\netcoreapp3.1\Care of Puppy.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Exam 29 March 2020\Care of Puppy\bin\Debug\netcoreapp3.1\Care of Puppy.exe
+C:\Users\25042020\source\repos\Exam 29 March 2020\Care of Puppy\bin\Debug\netcoreapp3.1\Care of Puppy.deps.json
+C:\Users\25042020\source\repos\Exam 29 March 2020\Care of Puppy\bin\Debug\netcoreapp3.1\Care of Puppy.runtimeconfig.json
+C:\Users\25042020\source\repos\Exam 29 March 2020\Care of Puppy\bin\Debug\netcoreapp3.1\Care of Puppy.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Exam 29 March 2020\Care of Puppy\bin\Debug\netcoreapp3.1\Care of Puppy.dll
+C:\Users\25042020\source\repos\Exam 29 March 2020\Care of Puppy\bin\Debug\netcoreapp3.1\Care of Puppy.pdb
+C:\Users\25042020\source\repos\Exam 29 March 2020\Care of Puppy\obj\Debug\netcoreapp3.1\Care of Puppy.dll
+C:\Users\25042020\source\repos\Exam 29 March 2020\Care of Puppy\obj\Debug\netcoreapp3.1\Care of Puppy.pdb
+C:\Users\25042020\source\repos\Exam 29 March 2020\Care of Puppy\obj\Debug\netcoreapp3.1\Care of Puppy.genruntimeconfig.cache

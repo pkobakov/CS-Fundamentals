@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T2KizAdLg7w0LfFzlQZcWt4U97SsA0RPmMnoZMl9ACXne+kNQK7mlIPR7Q1+rKYcOR8Or9AEJGf7rwUHHyb0pQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\25042020\\source\\repos\\Arrays\\Print Numbers in Reverse Order\\Print Numbers in Reverse Order.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\25042020\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Preparation for exam\Bus\bin\Debug\netcoreapp3.1\Bus.exe
+C:\Users\18022020\Source\Repos\Preparation for exam\Bus\bin\Debug\netcoreapp3.1\Bus.deps.json
+C:\Users\18022020\Source\Repos\Preparation for exam\Bus\bin\Debug\netcoreapp3.1\Bus.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Preparation for exam\Bus\bin\Debug\netcoreapp3.1\Bus.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Preparation for exam\Bus\bin\Debug\netcoreapp3.1\Bus.dll
+C:\Users\18022020\Source\Repos\Preparation for exam\Bus\bin\Debug\netcoreapp3.1\Bus.pdb
+C:\Users\18022020\Source\Repos\Preparation for exam\Bus\obj\Debug\netcoreapp3.1\Bus.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Preparation for exam\Bus\obj\Debug\netcoreapp3.1\Bus.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Preparation for exam\Bus\obj\Debug\netcoreapp3.1\Bus.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Preparation for exam\Bus\obj\Debug\netcoreapp3.1\Bus.dll
+C:\Users\18022020\Source\Repos\Preparation for exam\Bus\obj\Debug\netcoreapp3.1\Bus.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Nested Conditional Statements\Number in range\bin\Debug\netcoreapp2.1\Number in range.deps.json
+C:\Users\User\Source\Repos\Nested Conditional Statements\Number in range\bin\Debug\netcoreapp2.1\Number in range.runtimeconfig.json
+C:\Users\User\Source\Repos\Nested Conditional Statements\Number in range\bin\Debug\netcoreapp2.1\Number in range.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Nested Conditional Statements\Number in range\bin\Debug\netcoreapp2.1\Number in range.dll
+C:\Users\User\Source\Repos\Nested Conditional Statements\Number in range\bin\Debug\netcoreapp2.1\Number in range.pdb
+C:\Users\User\Source\Repos\Nested Conditional Statements\Number in range\obj\Debug\netcoreapp2.1\Number in range.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Nested Conditional Statements\Number in range\obj\Debug\netcoreapp2.1\Number in range.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Nested Conditional Statements\Number in range\obj\Debug\netcoreapp2.1\Number in range.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Nested Conditional Statements\Number in range\obj\Debug\netcoreapp2.1\Number in range.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Nested Conditional Statements\Number in range\obj\Debug\netcoreapp2.1\Number in range.dll
+C:\Users\User\Source\Repos\Nested Conditional Statements\Number in range\obj\Debug\netcoreapp2.1\Number in range.pdb

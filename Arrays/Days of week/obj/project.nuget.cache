@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DfydTeuH8gcWO2loO9yW//Vv80KRDVh6UHH6yA1FwheDYWqUy4OT1xLviN6fkRDoE9ABjyLZ/CvJ1rCYlVUtEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\25042020\\source\\repos\\Arrays\\Days of week\\Days of week.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\25042020\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Triangle Area\bin\Debug\netcoreapp2.1\Triangle Area.deps.json
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Triangle Area\bin\Debug\netcoreapp2.1\Triangle Area.runtimeconfig.json
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Triangle Area\bin\Debug\netcoreapp2.1\Triangle Area.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Triangle Area\bin\Debug\netcoreapp2.1\Triangle Area.dll
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Triangle Area\bin\Debug\netcoreapp2.1\Triangle Area.pdb
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Triangle Area\obj\Debug\netcoreapp2.1\Triangle Area.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Triangle Area\obj\Debug\netcoreapp2.1\Triangle Area.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Triangle Area\obj\Debug\netcoreapp2.1\Triangle Area.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Triangle Area\obj\Debug\netcoreapp2.1\Triangle Area.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Triangle Area\obj\Debug\netcoreapp2.1\Triangle Area.dll
+C:\Users\User\Source\Repos\Simple Operations and Calculations  More Exercises\Triangle Area\obj\Debug\netcoreapp2.1\Triangle Area.pdb

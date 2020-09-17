@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Basketball Tournament\bin\Debug\netcoreapp3.1\Basketball Tournament.exe
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Basketball Tournament\bin\Debug\netcoreapp3.1\Basketball Tournament.deps.json
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Basketball Tournament\bin\Debug\netcoreapp3.1\Basketball Tournament.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Basketball Tournament\bin\Debug\netcoreapp3.1\Basketball Tournament.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Basketball Tournament\bin\Debug\netcoreapp3.1\Basketball Tournament.dll
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Basketball Tournament\bin\Debug\netcoreapp3.1\Basketball Tournament.pdb
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Basketball Tournament\obj\Debug\netcoreapp3.1\Basketball Tournament.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Basketball Tournament\obj\Debug\netcoreapp3.1\Basketball Tournament.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Basketball Tournament\obj\Debug\netcoreapp3.1\Basketball Tournament.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Basketball Tournament\obj\Debug\netcoreapp3.1\Basketball Tournament.dll
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Basketball Tournament\obj\Debug\netcoreapp3.1\Basketball Tournament.pdb

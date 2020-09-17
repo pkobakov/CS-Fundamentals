@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Exam 29 March 2020\Tournament of Christmas\bin\Debug\netcoreapp3.1\Tournament of Christmas.exe
+C:\Users\25042020\source\repos\Exam 29 March 2020\Tournament of Christmas\bin\Debug\netcoreapp3.1\Tournament of Christmas.deps.json
+C:\Users\25042020\source\repos\Exam 29 March 2020\Tournament of Christmas\bin\Debug\netcoreapp3.1\Tournament of Christmas.runtimeconfig.json
+C:\Users\25042020\source\repos\Exam 29 March 2020\Tournament of Christmas\bin\Debug\netcoreapp3.1\Tournament of Christmas.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Exam 29 March 2020\Tournament of Christmas\bin\Debug\netcoreapp3.1\Tournament of Christmas.dll
+C:\Users\25042020\source\repos\Exam 29 March 2020\Tournament of Christmas\bin\Debug\netcoreapp3.1\Tournament of Christmas.pdb
+C:\Users\25042020\source\repos\Exam 29 March 2020\Tournament of Christmas\obj\Debug\netcoreapp3.1\Tournament of Christmas.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Exam 29 March 2020\Tournament of Christmas\obj\Debug\netcoreapp3.1\Tournament of Christmas.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Exam 29 March 2020\Tournament of Christmas\obj\Debug\netcoreapp3.1\Tournament of Christmas.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Exam 29 March 2020\Tournament of Christmas\obj\Debug\netcoreapp3.1\Tournament of Christmas.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Exam 29 March 2020\Tournament of Christmas\obj\Debug\netcoreapp3.1\Tournament of Christmas.dll
+C:\Users\25042020\source\repos\Exam 29 March 2020\Tournament of Christmas\obj\Debug\netcoreapp3.1\Tournament of Christmas.pdb
+C:\Users\25042020\source\repos\Exam 29 March 2020\Tournament of Christmas\obj\Debug\netcoreapp3.1\Tournament of Christmas.genruntimeconfig.cache

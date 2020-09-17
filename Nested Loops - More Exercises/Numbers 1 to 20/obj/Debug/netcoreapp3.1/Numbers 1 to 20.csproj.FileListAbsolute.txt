@@ -1,0 +1,13 @@
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Numbers 1 to 20\bin\Debug\netcoreapp3.1\Numbers 1 to 20.exe
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Numbers 1 to 20\bin\Debug\netcoreapp3.1\Numbers 1 to 20.deps.json
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Numbers 1 to 20\bin\Debug\netcoreapp3.1\Numbers 1 to 20.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Numbers 1 to 20\bin\Debug\netcoreapp3.1\Numbers 1 to 20.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Numbers 1 to 20\bin\Debug\netcoreapp3.1\Numbers 1 to 20.dll
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Numbers 1 to 20\bin\Debug\netcoreapp3.1\Numbers 1 to 20.pdb
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Numbers 1 to 20\obj\Debug\netcoreapp3.1\Numbers 1 to 20.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Numbers 1 to 20\obj\Debug\netcoreapp3.1\Numbers 1 to 20.csproj.CoreCompileInputs.cache
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Numbers 1 to 20\obj\Debug\netcoreapp3.1\Numbers 1 to 20.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Numbers 1 to 20\obj\Debug\netcoreapp3.1\Numbers 1 to 20.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Numbers 1 to 20\obj\Debug\netcoreapp3.1\Numbers 1 to 20.dll
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Numbers 1 to 20\obj\Debug\netcoreapp3.1\Numbers 1 to 20.pdb
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Numbers 1 to 20\obj\Debug\netcoreapp3.1\Numbers 1 to 20.genruntimeconfig.cache

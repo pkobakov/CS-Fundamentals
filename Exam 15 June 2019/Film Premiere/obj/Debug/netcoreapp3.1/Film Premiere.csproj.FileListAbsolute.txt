@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Film Premiere\bin\Debug\netcoreapp3.1\Film Premiere.exe
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Film Premiere\bin\Debug\netcoreapp3.1\Film Premiere.deps.json
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Film Premiere\bin\Debug\netcoreapp3.1\Film Premiere.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Film Premiere\bin\Debug\netcoreapp3.1\Film Premiere.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Film Premiere\bin\Debug\netcoreapp3.1\Film Premiere.dll
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Film Premiere\bin\Debug\netcoreapp3.1\Film Premiere.pdb
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Film Premiere\obj\Debug\netcoreapp3.1\Film Premiere.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Film Premiere\obj\Debug\netcoreapp3.1\Film Premiere.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Film Premiere\obj\Debug\netcoreapp3.1\Film Premiere.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Film Premiere\obj\Debug\netcoreapp3.1\Film Premiere.dll
+C:\Users\18022020\Source\Repos\Exam 15 June 2019\Film Premiere\obj\Debug\netcoreapp3.1\Film Premiere.pdb

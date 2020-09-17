@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vRF8ODFhK2ETYycw2w9UkN2BBI8KaKmbqV27NihscOsHFQ0rzx1T43R5/oAcD7nCfeF6vnZPRiQ//6XFye8+oA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\25042020\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\Vending Machine\\Vending Machine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\25042020\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

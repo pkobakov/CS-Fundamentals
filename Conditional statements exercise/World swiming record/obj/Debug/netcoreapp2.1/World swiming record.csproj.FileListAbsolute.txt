@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Conditional statements exercise\World swiming record\bin\Debug\netcoreapp2.1\World swiming record.deps.json
+C:\Users\User\Source\Repos\Conditional statements exercise\World swiming record\bin\Debug\netcoreapp2.1\World swiming record.runtimeconfig.json
+C:\Users\User\Source\Repos\Conditional statements exercise\World swiming record\bin\Debug\netcoreapp2.1\World swiming record.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Conditional statements exercise\World swiming record\bin\Debug\netcoreapp2.1\World swiming record.dll
+C:\Users\User\Source\Repos\Conditional statements exercise\World swiming record\bin\Debug\netcoreapp2.1\World swiming record.pdb
+C:\Users\User\Source\Repos\Conditional statements exercise\World swiming record\obj\Debug\netcoreapp2.1\World swiming record.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Conditional statements exercise\World swiming record\obj\Debug\netcoreapp2.1\World swiming record.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Conditional statements exercise\World swiming record\obj\Debug\netcoreapp2.1\World swiming record.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Conditional statements exercise\World swiming record\obj\Debug\netcoreapp2.1\World swiming record.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Conditional statements exercise\World swiming record\obj\Debug\netcoreapp2.1\World swiming record.dll
+C:\Users\User\Source\Repos\Conditional statements exercise\World swiming record\obj\Debug\netcoreapp2.1\World swiming record.pdb

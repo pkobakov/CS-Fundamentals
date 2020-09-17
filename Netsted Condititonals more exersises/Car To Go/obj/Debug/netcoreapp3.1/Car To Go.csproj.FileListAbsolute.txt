@@ -1,0 +1,13 @@
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Car To Go\bin\Debug\netcoreapp3.1\Car To Go.exe
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Car To Go\bin\Debug\netcoreapp3.1\Car To Go.deps.json
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Car To Go\bin\Debug\netcoreapp3.1\Car To Go.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Car To Go\bin\Debug\netcoreapp3.1\Car To Go.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Car To Go\bin\Debug\netcoreapp3.1\Car To Go.dll
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Car To Go\bin\Debug\netcoreapp3.1\Car To Go.pdb
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Car To Go\obj\Debug\netcoreapp3.1\Car To Go.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Car To Go\obj\Debug\netcoreapp3.1\Car To Go.csproj.CoreCompileInputs.cache
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Car To Go\obj\Debug\netcoreapp3.1\Car To Go.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Car To Go\obj\Debug\netcoreapp3.1\Car To Go.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Car To Go\obj\Debug\netcoreapp3.1\Car To Go.dll
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Car To Go\obj\Debug\netcoreapp3.1\Car To Go.pdb
+C:\Users\18022020\Source\Repos\Netsted Condititonals more exersises\Car To Go\obj\Debug\netcoreapp3.1\Car To Go.genruntimeconfig.cache

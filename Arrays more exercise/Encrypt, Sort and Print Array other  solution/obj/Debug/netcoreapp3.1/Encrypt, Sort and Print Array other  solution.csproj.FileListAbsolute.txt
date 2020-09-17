@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Arrays more exercise\Encrypt, Sort and Print Array other  solution\bin\Debug\netcoreapp3.1\Encrypt, Sort and Print Array other  solution.exe
+C:\Users\25042020\source\repos\Arrays more exercise\Encrypt, Sort and Print Array other  solution\bin\Debug\netcoreapp3.1\Encrypt, Sort and Print Array other  solution.deps.json
+C:\Users\25042020\source\repos\Arrays more exercise\Encrypt, Sort and Print Array other  solution\bin\Debug\netcoreapp3.1\Encrypt, Sort and Print Array other  solution.runtimeconfig.json
+C:\Users\25042020\source\repos\Arrays more exercise\Encrypt, Sort and Print Array other  solution\bin\Debug\netcoreapp3.1\Encrypt, Sort and Print Array other  solution.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Arrays more exercise\Encrypt, Sort and Print Array other  solution\bin\Debug\netcoreapp3.1\Encrypt, Sort and Print Array other  solution.dll
+C:\Users\25042020\source\repos\Arrays more exercise\Encrypt, Sort and Print Array other  solution\bin\Debug\netcoreapp3.1\Encrypt, Sort and Print Array other  solution.pdb
+C:\Users\25042020\source\repos\Arrays more exercise\Encrypt, Sort and Print Array other  solution\obj\Debug\netcoreapp3.1\Encrypt, Sort and Print Array other  solution.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Arrays more exercise\Encrypt, Sort and Print Array other  solution\obj\Debug\netcoreapp3.1\Encrypt, Sort and Print Array other  solution.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Arrays more exercise\Encrypt, Sort and Print Array other  solution\obj\Debug\netcoreapp3.1\Encrypt, Sort and Print Array other  solution.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Arrays more exercise\Encrypt, Sort and Print Array other  solution\obj\Debug\netcoreapp3.1\Encrypt, Sort and Print Array other  solution.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Arrays more exercise\Encrypt, Sort and Print Array other  solution\obj\Debug\netcoreapp3.1\Encrypt, Sort and Print Array other  solution.dll
+C:\Users\25042020\source\repos\Arrays more exercise\Encrypt, Sort and Print Array other  solution\obj\Debug\netcoreapp3.1\Encrypt, Sort and Print Array other  solution.pdb
+C:\Users\25042020\source\repos\Arrays more exercise\Encrypt, Sort and Print Array other  solution\obj\Debug\netcoreapp3.1\Encrypt, Sort and Print Array other  solution.genruntimeconfig.cache

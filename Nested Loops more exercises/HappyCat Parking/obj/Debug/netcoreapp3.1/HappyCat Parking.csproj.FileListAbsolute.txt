@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Nested Loops more exercises\HappyCat Parking\obj\Debug\netcoreapp3.1\HappyCat Parking.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Nested Loops more exercises\HappyCat Parking\obj\Debug\netcoreapp3.1\HappyCat Parking.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Nested Loops more exercises\HappyCat Parking\obj\Debug\netcoreapp3.1\HappyCat Parking.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Nested Loops more exercises\HappyCat Parking\bin\Debug\netcoreapp3.1\HappyCat Parking.exe
+C:\Users\18022020\Source\Repos\Nested Loops more exercises\HappyCat Parking\bin\Debug\netcoreapp3.1\HappyCat Parking.deps.json
+C:\Users\18022020\Source\Repos\Nested Loops more exercises\HappyCat Parking\bin\Debug\netcoreapp3.1\HappyCat Parking.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Nested Loops more exercises\HappyCat Parking\bin\Debug\netcoreapp3.1\HappyCat Parking.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Nested Loops more exercises\HappyCat Parking\bin\Debug\netcoreapp3.1\HappyCat Parking.dll
+C:\Users\18022020\Source\Repos\Nested Loops more exercises\HappyCat Parking\bin\Debug\netcoreapp3.1\HappyCat Parking.pdb
+C:\Users\18022020\Source\Repos\Nested Loops more exercises\HappyCat Parking\obj\Debug\netcoreapp3.1\HappyCat Parking.dll
+C:\Users\18022020\Source\Repos\Nested Loops more exercises\HappyCat Parking\obj\Debug\netcoreapp3.1\HappyCat Parking.pdb

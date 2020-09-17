@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Gift Box Coverage\bin\Debug\netcoreapp3.1\Gift Box Coverage.exe
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Gift Box Coverage\bin\Debug\netcoreapp3.1\Gift Box Coverage.deps.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Gift Box Coverage\bin\Debug\netcoreapp3.1\Gift Box Coverage.runtimeconfig.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Gift Box Coverage\bin\Debug\netcoreapp3.1\Gift Box Coverage.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Gift Box Coverage\bin\Debug\netcoreapp3.1\Gift Box Coverage.dll
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Gift Box Coverage\bin\Debug\netcoreapp3.1\Gift Box Coverage.pdb
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Gift Box Coverage\obj\Debug\netcoreapp3.1\Gift Box Coverage.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Gift Box Coverage\obj\Debug\netcoreapp3.1\Gift Box Coverage.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Gift Box Coverage\obj\Debug\netcoreapp3.1\Gift Box Coverage.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Gift Box Coverage\obj\Debug\netcoreapp3.1\Gift Box Coverage.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Gift Box Coverage\obj\Debug\netcoreapp3.1\Gift Box Coverage.dll
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Gift Box Coverage\obj\Debug\netcoreapp3.1\Gift Box Coverage.pdb
+C:\Users\25042020\source\repos\Fund Mid Exam Prep\Gift Box Coverage\obj\Debug\netcoreapp3.1\Gift Box Coverage.genruntimeconfig.cache

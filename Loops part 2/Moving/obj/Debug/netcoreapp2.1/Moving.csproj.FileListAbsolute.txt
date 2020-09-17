@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Loops part 2\Moving\bin\Debug\netcoreapp2.1\Moving.deps.json
+C:\Users\User\Source\Repos\Loops part 2\Moving\bin\Debug\netcoreapp2.1\Moving.runtimeconfig.json
+C:\Users\User\Source\Repos\Loops part 2\Moving\bin\Debug\netcoreapp2.1\Moving.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Loops part 2\Moving\bin\Debug\netcoreapp2.1\Moving.dll
+C:\Users\User\Source\Repos\Loops part 2\Moving\bin\Debug\netcoreapp2.1\Moving.pdb
+C:\Users\User\Source\Repos\Loops part 2\Moving\obj\Debug\netcoreapp2.1\Moving.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Loops part 2\Moving\obj\Debug\netcoreapp2.1\Moving.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Loops part 2\Moving\obj\Debug\netcoreapp2.1\Moving.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Loops part 2\Moving\obj\Debug\netcoreapp2.1\Moving.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Loops part 2\Moving\obj\Debug\netcoreapp2.1\Moving.dll
+C:\Users\User\Source\Repos\Loops part 2\Moving\obj\Debug\netcoreapp2.1\Moving.pdb

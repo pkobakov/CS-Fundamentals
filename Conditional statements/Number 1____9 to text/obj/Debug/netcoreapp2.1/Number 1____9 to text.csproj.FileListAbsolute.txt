@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Conditional statements\Number 1____9 to text\bin\Debug\netcoreapp2.1\Number 1____9 to text.deps.json
+C:\Users\User\Source\Repos\Conditional statements\Number 1____9 to text\bin\Debug\netcoreapp2.1\Number 1____9 to text.runtimeconfig.json
+C:\Users\User\Source\Repos\Conditional statements\Number 1____9 to text\bin\Debug\netcoreapp2.1\Number 1____9 to text.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Conditional statements\Number 1____9 to text\bin\Debug\netcoreapp2.1\Number 1____9 to text.dll
+C:\Users\User\Source\Repos\Conditional statements\Number 1____9 to text\bin\Debug\netcoreapp2.1\Number 1____9 to text.pdb
+C:\Users\User\Source\Repos\Conditional statements\Number 1____9 to text\obj\Debug\netcoreapp2.1\Number 1____9 to text.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Conditional statements\Number 1____9 to text\obj\Debug\netcoreapp2.1\Number 1____9 to text.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Conditional statements\Number 1____9 to text\obj\Debug\netcoreapp2.1\Number 1____9 to text.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Conditional statements\Number 1____9 to text\obj\Debug\netcoreapp2.1\Number 1____9 to text.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Conditional statements\Number 1____9 to text\obj\Debug\netcoreapp2.1\Number 1____9 to text.dll
+C:\Users\User\Source\Repos\Conditional statements\Number 1____9 to text\obj\Debug\netcoreapp2.1\Number 1____9 to text.pdb

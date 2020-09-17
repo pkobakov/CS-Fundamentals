@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Fitness Center\bin\Debug\netcoreapp3.1\Fitness Center.exe
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Fitness Center\bin\Debug\netcoreapp3.1\Fitness Center.deps.json
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Fitness Center\bin\Debug\netcoreapp3.1\Fitness Center.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Fitness Center\bin\Debug\netcoreapp3.1\Fitness Center.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Fitness Center\bin\Debug\netcoreapp3.1\Fitness Center.dll
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Fitness Center\bin\Debug\netcoreapp3.1\Fitness Center.pdb
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Fitness Center\obj\Debug\netcoreapp3.1\Fitness Center.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Fitness Center\obj\Debug\netcoreapp3.1\Fitness Center.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Fitness Center\obj\Debug\netcoreapp3.1\Fitness Center.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Fitness Center\obj\Debug\netcoreapp3.1\Fitness Center.dll
+C:\Users\18022020\Source\Repos\Exam 9 March 2019\Fitness Center\obj\Debug\netcoreapp3.1\Fitness Center.pdb

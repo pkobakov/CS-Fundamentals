@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Exam 6 April\Movie Ratings\bin\Debug\netcoreapp3.1\Movie Ratings.exe
+C:\Users\18022020\Source\Repos\Exam 6 April\Movie Ratings\bin\Debug\netcoreapp3.1\Movie Ratings.deps.json
+C:\Users\18022020\Source\Repos\Exam 6 April\Movie Ratings\bin\Debug\netcoreapp3.1\Movie Ratings.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Exam 6 April\Movie Ratings\bin\Debug\netcoreapp3.1\Movie Ratings.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Exam 6 April\Movie Ratings\bin\Debug\netcoreapp3.1\Movie Ratings.dll
+C:\Users\18022020\Source\Repos\Exam 6 April\Movie Ratings\bin\Debug\netcoreapp3.1\Movie Ratings.pdb
+C:\Users\18022020\Source\Repos\Exam 6 April\Movie Ratings\obj\Debug\netcoreapp3.1\Movie Ratings.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Exam 6 April\Movie Ratings\obj\Debug\netcoreapp3.1\Movie Ratings.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Exam 6 April\Movie Ratings\obj\Debug\netcoreapp3.1\Movie Ratings.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Exam 6 April\Movie Ratings\obj\Debug\netcoreapp3.1\Movie Ratings.dll
+C:\Users\18022020\Source\Repos\Exam 6 April\Movie Ratings\obj\Debug\netcoreapp3.1\Movie Ratings.pdb

@@ -1,0 +1,12 @@
+C:\Users\25042020\source\repos\Regex\Regex\bin\Debug\netcoreapp3.1\Demo.exe
+C:\Users\25042020\source\repos\Regex\Regex\bin\Debug\netcoreapp3.1\Demo.deps.json
+C:\Users\25042020\source\repos\Regex\Regex\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.json
+C:\Users\25042020\source\repos\Regex\Regex\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Regex\Regex\bin\Debug\netcoreapp3.1\Demo.dll
+C:\Users\25042020\source\repos\Regex\Regex\bin\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\25042020\source\repos\Regex\Regex\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Regex\Regex\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Regex\Regex\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Regex\Regex\obj\Debug\netcoreapp3.1\Demo.dll
+C:\Users\25042020\source\repos\Regex\Regex\obj\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\25042020\source\repos\Regex\Regex\obj\Debug\netcoreapp3.1\Demo.genruntimeconfig.cache

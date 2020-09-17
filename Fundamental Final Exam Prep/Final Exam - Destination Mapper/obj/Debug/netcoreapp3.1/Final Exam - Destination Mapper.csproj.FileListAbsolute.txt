@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - Destination Mapper\bin\Debug\netcoreapp3.1\Final Exam - Destination Mapper.exe
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - Destination Mapper\bin\Debug\netcoreapp3.1\Final Exam - Destination Mapper.deps.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - Destination Mapper\bin\Debug\netcoreapp3.1\Final Exam - Destination Mapper.runtimeconfig.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - Destination Mapper\bin\Debug\netcoreapp3.1\Final Exam - Destination Mapper.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - Destination Mapper\bin\Debug\netcoreapp3.1\Final Exam - Destination Mapper.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - Destination Mapper\bin\Debug\netcoreapp3.1\Final Exam - Destination Mapper.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - Destination Mapper\obj\Debug\netcoreapp3.1\Final Exam - Destination Mapper.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - Destination Mapper\obj\Debug\netcoreapp3.1\Final Exam - Destination Mapper.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - Destination Mapper\obj\Debug\netcoreapp3.1\Final Exam - Destination Mapper.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - Destination Mapper\obj\Debug\netcoreapp3.1\Final Exam - Destination Mapper.dll
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - Destination Mapper\obj\Debug\netcoreapp3.1\Final Exam - Destination Mapper.pdb
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - Destination Mapper\obj\Debug\netcoreapp3.1\Final Exam - Destination Mapper.genruntimeconfig.cache
+C:\Users\25042020\source\repos\Fundamental Final Exam Prep\Final Exam - Destination Mapper\obj\Debug\netcoreapp3.1\Final Exam - Destination Mapper.csprojAssemblyReference.cache

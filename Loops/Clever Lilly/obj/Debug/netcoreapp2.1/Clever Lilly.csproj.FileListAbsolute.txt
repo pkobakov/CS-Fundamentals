@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Loops\Clever Lilly\bin\Debug\netcoreapp2.1\Clever Lilly.deps.json
+C:\Users\User\Source\Repos\Loops\Clever Lilly\bin\Debug\netcoreapp2.1\Clever Lilly.runtimeconfig.json
+C:\Users\User\Source\Repos\Loops\Clever Lilly\bin\Debug\netcoreapp2.1\Clever Lilly.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Loops\Clever Lilly\bin\Debug\netcoreapp2.1\Clever Lilly.dll
+C:\Users\User\Source\Repos\Loops\Clever Lilly\bin\Debug\netcoreapp2.1\Clever Lilly.pdb
+C:\Users\User\Source\Repos\Loops\Clever Lilly\obj\Debug\netcoreapp2.1\Clever Lilly.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Loops\Clever Lilly\obj\Debug\netcoreapp2.1\Clever Lilly.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Loops\Clever Lilly\obj\Debug\netcoreapp2.1\Clever Lilly.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Loops\Clever Lilly\obj\Debug\netcoreapp2.1\Clever Lilly.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Loops\Clever Lilly\obj\Debug\netcoreapp2.1\Clever Lilly.dll
+C:\Users\User\Source\Repos\Loops\Clever Lilly\obj\Debug\netcoreapp2.1\Clever Lilly.pdb

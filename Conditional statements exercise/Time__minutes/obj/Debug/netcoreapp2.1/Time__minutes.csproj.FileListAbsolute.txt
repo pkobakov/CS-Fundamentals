@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Conditional statements exercise\Time__minutes\bin\Debug\netcoreapp2.1\Time__minutes.deps.json
+C:\Users\User\Source\Repos\Conditional statements exercise\Time__minutes\bin\Debug\netcoreapp2.1\Time__minutes.runtimeconfig.json
+C:\Users\User\Source\Repos\Conditional statements exercise\Time__minutes\bin\Debug\netcoreapp2.1\Time__minutes.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Conditional statements exercise\Time__minutes\bin\Debug\netcoreapp2.1\Time__minutes.dll
+C:\Users\User\Source\Repos\Conditional statements exercise\Time__minutes\bin\Debug\netcoreapp2.1\Time__minutes.pdb
+C:\Users\User\Source\Repos\Conditional statements exercise\Time__minutes\obj\Debug\netcoreapp2.1\Time__minutes.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Conditional statements exercise\Time__minutes\obj\Debug\netcoreapp2.1\Time__minutes.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Conditional statements exercise\Time__minutes\obj\Debug\netcoreapp2.1\Time__minutes.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Conditional statements exercise\Time__minutes\obj\Debug\netcoreapp2.1\Time__minutes.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Conditional statements exercise\Time__minutes\obj\Debug\netcoreapp2.1\Time__minutes.dll
+C:\Users\User\Source\Repos\Conditional statements exercise\Time__minutes\obj\Debug\netcoreapp2.1\Time__minutes.pdb

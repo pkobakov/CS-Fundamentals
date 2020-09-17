@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Strings and Text Processing\Caesar Cipher\bin\Debug\netcoreapp3.1\Caesar Cipher.exe
+C:\Users\25042020\source\repos\Strings and Text Processing\Caesar Cipher\bin\Debug\netcoreapp3.1\Caesar Cipher.deps.json
+C:\Users\25042020\source\repos\Strings and Text Processing\Caesar Cipher\bin\Debug\netcoreapp3.1\Caesar Cipher.runtimeconfig.json
+C:\Users\25042020\source\repos\Strings and Text Processing\Caesar Cipher\bin\Debug\netcoreapp3.1\Caesar Cipher.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Strings and Text Processing\Caesar Cipher\bin\Debug\netcoreapp3.1\Caesar Cipher.dll
+C:\Users\25042020\source\repos\Strings and Text Processing\Caesar Cipher\bin\Debug\netcoreapp3.1\Caesar Cipher.pdb
+C:\Users\25042020\source\repos\Strings and Text Processing\Caesar Cipher\obj\Debug\netcoreapp3.1\Caesar Cipher.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Strings and Text Processing\Caesar Cipher\obj\Debug\netcoreapp3.1\Caesar Cipher.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Strings and Text Processing\Caesar Cipher\obj\Debug\netcoreapp3.1\Caesar Cipher.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Strings and Text Processing\Caesar Cipher\obj\Debug\netcoreapp3.1\Caesar Cipher.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Strings and Text Processing\Caesar Cipher\obj\Debug\netcoreapp3.1\Caesar Cipher.dll
+C:\Users\25042020\source\repos\Strings and Text Processing\Caesar Cipher\obj\Debug\netcoreapp3.1\Caesar Cipher.pdb
+C:\Users\25042020\source\repos\Strings and Text Processing\Caesar Cipher\obj\Debug\netcoreapp3.1\Caesar Cipher.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Exam 6 April\Oscars ceremony\bin\Debug\netcoreapp3.1\Oscars ceremony.exe
+C:\Users\18022020\Source\Repos\Exam 6 April\Oscars ceremony\bin\Debug\netcoreapp3.1\Oscars ceremony.deps.json
+C:\Users\18022020\Source\Repos\Exam 6 April\Oscars ceremony\bin\Debug\netcoreapp3.1\Oscars ceremony.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Exam 6 April\Oscars ceremony\bin\Debug\netcoreapp3.1\Oscars ceremony.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Exam 6 April\Oscars ceremony\bin\Debug\netcoreapp3.1\Oscars ceremony.dll
+C:\Users\18022020\Source\Repos\Exam 6 April\Oscars ceremony\bin\Debug\netcoreapp3.1\Oscars ceremony.pdb
+C:\Users\18022020\Source\Repos\Exam 6 April\Oscars ceremony\obj\Debug\netcoreapp3.1\Oscars ceremony.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Exam 6 April\Oscars ceremony\obj\Debug\netcoreapp3.1\Oscars ceremony.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Exam 6 April\Oscars ceremony\obj\Debug\netcoreapp3.1\Oscars ceremony.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Exam 6 April\Oscars ceremony\obj\Debug\netcoreapp3.1\Oscars ceremony.dll
+C:\Users\18022020\Source\Repos\Exam 6 April\Oscars ceremony\obj\Debug\netcoreapp3.1\Oscars ceremony.pdb

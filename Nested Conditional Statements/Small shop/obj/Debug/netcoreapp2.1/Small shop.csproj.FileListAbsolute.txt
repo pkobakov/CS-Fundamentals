@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Nested Conditional Statements\Small shop\bin\Debug\netcoreapp2.1\Small shop.deps.json
+C:\Users\User\Source\Repos\Nested Conditional Statements\Small shop\bin\Debug\netcoreapp2.1\Small shop.runtimeconfig.json
+C:\Users\User\Source\Repos\Nested Conditional Statements\Small shop\bin\Debug\netcoreapp2.1\Small shop.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Nested Conditional Statements\Small shop\bin\Debug\netcoreapp2.1\Small shop.dll
+C:\Users\User\Source\Repos\Nested Conditional Statements\Small shop\bin\Debug\netcoreapp2.1\Small shop.pdb
+C:\Users\User\Source\Repos\Nested Conditional Statements\Small shop\obj\Debug\netcoreapp2.1\Small shop.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Nested Conditional Statements\Small shop\obj\Debug\netcoreapp2.1\Small shop.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Nested Conditional Statements\Small shop\obj\Debug\netcoreapp2.1\Small shop.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Nested Conditional Statements\Small shop\obj\Debug\netcoreapp2.1\Small shop.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Nested Conditional Statements\Small shop\obj\Debug\netcoreapp2.1\Small shop.dll
+C:\Users\User\Source\Repos\Nested Conditional Statements\Small shop\obj\Debug\netcoreapp2.1\Small shop.pdb

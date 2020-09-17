@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Strings and Text Processing\Multiply Big Number Galin version\bin\Debug\netcoreapp3.1\Multiply Big Number Galin version.exe
+C:\Users\25042020\source\repos\Strings and Text Processing\Multiply Big Number Galin version\bin\Debug\netcoreapp3.1\Multiply Big Number Galin version.deps.json
+C:\Users\25042020\source\repos\Strings and Text Processing\Multiply Big Number Galin version\bin\Debug\netcoreapp3.1\Multiply Big Number Galin version.runtimeconfig.json
+C:\Users\25042020\source\repos\Strings and Text Processing\Multiply Big Number Galin version\bin\Debug\netcoreapp3.1\Multiply Big Number Galin version.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Strings and Text Processing\Multiply Big Number Galin version\bin\Debug\netcoreapp3.1\Multiply Big Number Galin version.dll
+C:\Users\25042020\source\repos\Strings and Text Processing\Multiply Big Number Galin version\bin\Debug\netcoreapp3.1\Multiply Big Number Galin version.pdb
+C:\Users\25042020\source\repos\Strings and Text Processing\Multiply Big Number Galin version\obj\Debug\netcoreapp3.1\Multiply Big Number Galin version.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Strings and Text Processing\Multiply Big Number Galin version\obj\Debug\netcoreapp3.1\Multiply Big Number Galin version.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Strings and Text Processing\Multiply Big Number Galin version\obj\Debug\netcoreapp3.1\Multiply Big Number Galin version.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Strings and Text Processing\Multiply Big Number Galin version\obj\Debug\netcoreapp3.1\Multiply Big Number Galin version.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Strings and Text Processing\Multiply Big Number Galin version\obj\Debug\netcoreapp3.1\Multiply Big Number Galin version.dll
+C:\Users\25042020\source\repos\Strings and Text Processing\Multiply Big Number Galin version\obj\Debug\netcoreapp3.1\Multiply Big Number Galin version.pdb
+C:\Users\25042020\source\repos\Strings and Text Processing\Multiply Big Number Galin version\obj\Debug\netcoreapp3.1\Multiply Big Number Galin version.genruntimeconfig.cache

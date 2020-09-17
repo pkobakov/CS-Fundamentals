@@ -1,0 +1,13 @@
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Clock\bin\Debug\netcoreapp3.1\Clock.exe
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Clock\bin\Debug\netcoreapp3.1\Clock.deps.json
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Clock\bin\Debug\netcoreapp3.1\Clock.dll
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Clock\bin\Debug\netcoreapp3.1\Clock.pdb
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Clock\obj\Debug\netcoreapp3.1\Clock.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Clock\obj\Debug\netcoreapp3.1\Clock.csproj.CoreCompileInputs.cache
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Clock\obj\Debug\netcoreapp3.1\Clock.dll
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Clock\obj\Debug\netcoreapp3.1\Clock.pdb
+C:\Users\18022020\Source\Repos\Nested Loops - More Exercises\Clock\obj\Debug\netcoreapp3.1\Clock.genruntimeconfig.cache

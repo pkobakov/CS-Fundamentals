@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Objects_and_Classes\Big Factorial\bin\Debug\netcoreapp3.1\Big Factorial.exe
+C:\Users\25042020\source\repos\Objects_and_Classes\Big Factorial\bin\Debug\netcoreapp3.1\Big Factorial.deps.json
+C:\Users\25042020\source\repos\Objects_and_Classes\Big Factorial\bin\Debug\netcoreapp3.1\Big Factorial.runtimeconfig.json
+C:\Users\25042020\source\repos\Objects_and_Classes\Big Factorial\bin\Debug\netcoreapp3.1\Big Factorial.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Objects_and_Classes\Big Factorial\bin\Debug\netcoreapp3.1\Big Factorial.dll
+C:\Users\25042020\source\repos\Objects_and_Classes\Big Factorial\bin\Debug\netcoreapp3.1\Big Factorial.pdb
+C:\Users\25042020\source\repos\Objects_and_Classes\Big Factorial\obj\Debug\netcoreapp3.1\Big Factorial.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Objects_and_Classes\Big Factorial\obj\Debug\netcoreapp3.1\Big Factorial.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Objects_and_Classes\Big Factorial\obj\Debug\netcoreapp3.1\Big Factorial.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Objects_and_Classes\Big Factorial\obj\Debug\netcoreapp3.1\Big Factorial.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Objects_and_Classes\Big Factorial\obj\Debug\netcoreapp3.1\Big Factorial.dll
+C:\Users\25042020\source\repos\Objects_and_Classes\Big Factorial\obj\Debug\netcoreapp3.1\Big Factorial.pdb
+C:\Users\25042020\source\repos\Objects_and_Classes\Big Factorial\obj\Debug\netcoreapp3.1\Big Factorial.genruntimeconfig.cache

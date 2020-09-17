@@ -1,0 +1,11 @@
+C:\Users\18022020\Source\Repos\Nested Loops more exercises\Challenge the Wedding\obj\Debug\netcoreapp3.1\Challenge the Wedding.csprojAssemblyReference.cache
+C:\Users\18022020\Source\Repos\Nested Loops more exercises\Challenge the Wedding\obj\Debug\netcoreapp3.1\Challenge the Wedding.AssemblyInfoInputs.cache
+C:\Users\18022020\Source\Repos\Nested Loops more exercises\Challenge the Wedding\obj\Debug\netcoreapp3.1\Challenge the Wedding.AssemblyInfo.cs
+C:\Users\18022020\Source\Repos\Nested Loops more exercises\Challenge the Wedding\bin\Debug\netcoreapp3.1\Challenge the Wedding.exe
+C:\Users\18022020\Source\Repos\Nested Loops more exercises\Challenge the Wedding\bin\Debug\netcoreapp3.1\Challenge the Wedding.deps.json
+C:\Users\18022020\Source\Repos\Nested Loops more exercises\Challenge the Wedding\bin\Debug\netcoreapp3.1\Challenge the Wedding.runtimeconfig.json
+C:\Users\18022020\Source\Repos\Nested Loops more exercises\Challenge the Wedding\bin\Debug\netcoreapp3.1\Challenge the Wedding.runtimeconfig.dev.json
+C:\Users\18022020\Source\Repos\Nested Loops more exercises\Challenge the Wedding\bin\Debug\netcoreapp3.1\Challenge the Wedding.dll
+C:\Users\18022020\Source\Repos\Nested Loops more exercises\Challenge the Wedding\bin\Debug\netcoreapp3.1\Challenge the Wedding.pdb
+C:\Users\18022020\Source\Repos\Nested Loops more exercises\Challenge the Wedding\obj\Debug\netcoreapp3.1\Challenge the Wedding.dll
+C:\Users\18022020\Source\Repos\Nested Loops more exercises\Challenge the Wedding\obj\Debug\netcoreapp3.1\Challenge the Wedding.pdb

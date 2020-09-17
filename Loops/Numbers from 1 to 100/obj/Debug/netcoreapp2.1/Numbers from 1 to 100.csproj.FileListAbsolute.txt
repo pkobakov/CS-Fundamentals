@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\31012020\Numbers from 1 to 100\bin\Debug\netcoreapp2.1\Numbers from 1 to 100.deps.json
+C:\Users\User\Source\Repos\31012020\Numbers from 1 to 100\bin\Debug\netcoreapp2.1\Numbers from 1 to 100.runtimeconfig.json
+C:\Users\User\Source\Repos\31012020\Numbers from 1 to 100\bin\Debug\netcoreapp2.1\Numbers from 1 to 100.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\31012020\Numbers from 1 to 100\bin\Debug\netcoreapp2.1\Numbers from 1 to 100.dll
+C:\Users\User\Source\Repos\31012020\Numbers from 1 to 100\bin\Debug\netcoreapp2.1\Numbers from 1 to 100.pdb
+C:\Users\User\Source\Repos\31012020\Numbers from 1 to 100\obj\Debug\netcoreapp2.1\Numbers from 1 to 100.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\31012020\Numbers from 1 to 100\obj\Debug\netcoreapp2.1\Numbers from 1 to 100.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\31012020\Numbers from 1 to 100\obj\Debug\netcoreapp2.1\Numbers from 1 to 100.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\31012020\Numbers from 1 to 100\obj\Debug\netcoreapp2.1\Numbers from 1 to 100.AssemblyInfo.cs
+C:\Users\User\Source\Repos\31012020\Numbers from 1 to 100\obj\Debug\netcoreapp2.1\Numbers from 1 to 100.dll
+C:\Users\User\Source\Repos\31012020\Numbers from 1 to 100\obj\Debug\netcoreapp2.1\Numbers from 1 to 100.pdb

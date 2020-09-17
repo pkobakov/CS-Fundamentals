@@ -1,0 +1,13 @@
+C:\Users\25042020\source\repos\Exam 29 March 2020\Trekking Mania\bin\Debug\netcoreapp3.1\Trekking Mania.exe
+C:\Users\25042020\source\repos\Exam 29 March 2020\Trekking Mania\bin\Debug\netcoreapp3.1\Trekking Mania.deps.json
+C:\Users\25042020\source\repos\Exam 29 March 2020\Trekking Mania\bin\Debug\netcoreapp3.1\Trekking Mania.runtimeconfig.json
+C:\Users\25042020\source\repos\Exam 29 March 2020\Trekking Mania\bin\Debug\netcoreapp3.1\Trekking Mania.runtimeconfig.dev.json
+C:\Users\25042020\source\repos\Exam 29 March 2020\Trekking Mania\bin\Debug\netcoreapp3.1\Trekking Mania.dll
+C:\Users\25042020\source\repos\Exam 29 March 2020\Trekking Mania\bin\Debug\netcoreapp3.1\Trekking Mania.pdb
+C:\Users\25042020\source\repos\Exam 29 March 2020\Trekking Mania\obj\Debug\netcoreapp3.1\Trekking Mania.csprojAssemblyReference.cache
+C:\Users\25042020\source\repos\Exam 29 March 2020\Trekking Mania\obj\Debug\netcoreapp3.1\Trekking Mania.csproj.CoreCompileInputs.cache
+C:\Users\25042020\source\repos\Exam 29 March 2020\Trekking Mania\obj\Debug\netcoreapp3.1\Trekking Mania.AssemblyInfoInputs.cache
+C:\Users\25042020\source\repos\Exam 29 March 2020\Trekking Mania\obj\Debug\netcoreapp3.1\Trekking Mania.AssemblyInfo.cs
+C:\Users\25042020\source\repos\Exam 29 March 2020\Trekking Mania\obj\Debug\netcoreapp3.1\Trekking Mania.dll
+C:\Users\25042020\source\repos\Exam 29 March 2020\Trekking Mania\obj\Debug\netcoreapp3.1\Trekking Mania.pdb
+C:\Users\25042020\source\repos\Exam 29 March 2020\Trekking Mania\obj\Debug\netcoreapp3.1\Trekking Mania.genruntimeconfig.cache
